@@ -1,0 +1,563 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>오늘의 국내 뉴스 랭킹</title>
+  <style>
+    :root {
+      color-scheme: light;
+      --bg: #f6f7f9;
+      --ink: #20242c;
+      --muted: #667085;
+      --line: #d9dee7;
+      --panel: #ffffff;
+      --blue: #2d6cdf;
+      --green: #17845b;
+      --amber: #bc6c25;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Apple SD Gothic Neo", "Noto Sans KR", sans-serif;
+      background: var(--bg);
+      color: var(--ink);
+    }
+    header {
+      padding: 28px clamp(18px, 4vw, 48px) 18px;
+      border-bottom: 1px solid var(--line);
+      background: #fff;
+    }
+    h1 {
+      margin: 0 0 8px;
+      font-size: clamp(26px, 4vw, 40px);
+      letter-spacing: 0;
+    }
+    .meta {
+      display: flex;
+      gap: 12px;
+      flex-wrap: wrap;
+      color: var(--muted);
+      font-size: 14px;
+    }
+    main {
+      padding: 24px clamp(18px, 4vw, 48px) 42px;
+      display: grid;
+      gap: 20px;
+    }
+    .summary {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 12px;
+    }
+    .metric, section {
+      background: var(--panel);
+      border: 1px solid var(--line);
+      border-radius: 8px;
+    }
+    .metric {
+      padding: 16px;
+      min-height: 96px;
+    }
+    .metric span {
+      display: block;
+      color: var(--muted);
+      font-size: 13px;
+      margin-bottom: 10px;
+    }
+    .metric strong {
+      display: block;
+      font-size: 26px;
+    }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 20px;
+    }
+    section {
+      padding: 18px;
+    }
+    h2 {
+      font-size: 18px;
+      margin: 0 0 16px;
+    }
+    .rank-row {
+      display: grid;
+      grid-template-columns: 28px minmax(0, 1fr);
+      gap: 10px;
+      align-items: center;
+      padding: 9px 0;
+      border-top: 1px solid #eef1f5;
+    }
+    .rank-row:first-of-type { border-top: 0; }
+    .rank-index {
+      width: 24px;
+      height: 24px;
+      border-radius: 999px;
+      display: grid;
+      place-items: center;
+      font-size: 12px;
+      background: #edf3ff;
+      color: #1c4fb5;
+    }
+    .rank-label {
+      display: flex;
+      justify-content: space-between;
+      gap: 12px;
+      align-items: baseline;
+      font-size: 14px;
+      margin-bottom: 7px;
+    }
+    .rank-label span {
+      overflow-wrap: anywhere;
+      font-weight: 650;
+    }
+    .rank-label strong {
+      color: var(--muted);
+      font-size: 13px;
+    }
+    .bar-track {
+      height: 9px;
+      background: #edf0f5;
+      border-radius: 999px;
+      overflow: hidden;
+    }
+    .bar-fill {
+      height: 100%;
+      background: linear-gradient(90deg, var(--blue), var(--green));
+      border-radius: 999px;
+    }
+    .headlines {
+      display: grid;
+      gap: 9px;
+    }
+    .headline {
+      display: grid;
+      gap: 5px;
+      color: inherit;
+      text-decoration: none;
+      padding: 11px 0;
+      border-top: 1px solid #eef1f5;
+    }
+    .headline:first-child { border-top: 0; }
+    .headline span {
+      line-height: 1.45;
+      overflow-wrap: anywhere;
+    }
+    .headline time {
+      font-size: 12px;
+      color: var(--muted);
+    }
+    .note {
+      color: var(--muted);
+      font-size: 13px;
+      line-height: 1.6;
+    }
+    @media (max-width: 860px) {
+      .summary, .grid { grid-template-columns: 1fr; }
+      header { padding-top: 22px; }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>오늘의 국내 뉴스 랭킹</h1>
+    <div class="meta">
+      <span>기준시각 2026-06-14 14:05 KST</span>
+      <span>수집 제목 156개</span>
+      <span>Google News RSS, 최근 1일</span>
+    </div>
+  </header>
+  <main>
+    <div class="summary">
+      <div class="metric"><span>최다 언급 기업/조직</span><strong>스페이스X</strong></div>
+      <div class="metric"><span>최다 언급 키워드</span><strong>공모주</strong></div>
+      <div class="metric"><span>분석 방식</span><strong>제목 빈도</strong></div>
+    </div>
+    <div class="grid">
+      <section>
+        <h2>기업/조직 TOP 10</h2>
+        
+            <div class="rank-row">
+              <div class="rank-index">1</div>
+              <div class="rank-main">
+                <div class="rank-label">
+                  <span>스페이스X</span>
+                  <strong>32</strong>
+                </div>
+                <div class="bar-track"><div class="bar-fill" style="width:100%"></div></div>
+              </div>
+            </div>
+            
+
+            <div class="rank-row">
+              <div class="rank-index">2</div>
+              <div class="rank-main">
+                <div class="rank-label">
+                  <span>미래에셋증권</span>
+                  <strong>18</strong>
+                </div>
+                <div class="bar-track"><div class="bar-fill" style="width:56%"></div></div>
+              </div>
+            </div>
+            
+
+            <div class="rank-row">
+              <div class="rank-index">3</div>
+              <div class="rank-main">
+                <div class="rank-label">
+                  <span>한국산업인력공단</span>
+                  <strong>6</strong>
+                </div>
+                <div class="bar-track"><div class="bar-fill" style="width:19%"></div></div>
+              </div>
+            </div>
+            
+
+            <div class="rank-row">
+              <div class="rank-index">4</div>
+              <div class="rank-main">
+                <div class="rank-label">
+                  <span>MSCI</span>
+                  <strong>6</strong>
+                </div>
+                <div class="bar-track"><div class="bar-fill" style="width:19%"></div></div>
+              </div>
+            </div>
+            
+
+            <div class="rank-row">
+              <div class="rank-index">5</div>
+              <div class="rank-main">
+                <div class="rank-label">
+                  <span>경과원</span>
+                  <strong>5</strong>
+                </div>
+                <div class="bar-track"><div class="bar-fill" style="width:16%"></div></div>
+              </div>
+            </div>
+            
+
+            <div class="rank-row">
+              <div class="rank-index">6</div>
+              <div class="rank-main">
+                <div class="rank-label">
+                  <span>한경협</span>
+                  <strong>5</strong>
+                </div>
+                <div class="bar-track"><div class="bar-fill" style="width:16%"></div></div>
+              </div>
+            </div>
+            
+
+            <div class="rank-row">
+              <div class="rank-index">7</div>
+              <div class="rank-main">
+                <div class="rank-label">
+                  <span>테슬라</span>
+                  <strong>2</strong>
+                </div>
+                <div class="bar-track"><div class="bar-fill" style="width:6%"></div></div>
+              </div>
+            </div>
+            
+
+            <div class="rank-row">
+              <div class="rank-index">8</div>
+              <div class="rank-main">
+                <div class="rank-label">
+                  <span>한국은행</span>
+                  <strong>1</strong>
+                </div>
+                <div class="bar-track"><div class="bar-fill" style="width:4%"></div></div>
+              </div>
+            </div>
+            
+
+            <div class="rank-row">
+              <div class="rank-index">9</div>
+              <div class="rank-main">
+                <div class="rank-label">
+                  <span>제네시스</span>
+                  <strong>1</strong>
+                </div>
+                <div class="bar-track"><div class="bar-fill" style="width:4%"></div></div>
+              </div>
+            </div>
+            
+
+            <div class="rank-row">
+              <div class="rank-index">10</div>
+              <div class="rank-main">
+                <div class="rank-label">
+                  <span>맥도날드</span>
+                  <strong>1</strong>
+                </div>
+                <div class="bar-track"><div class="bar-fill" style="width:4%"></div></div>
+              </div>
+            </div>
+            
+      </section>
+      <section>
+        <h2>키워드 TOP 15</h2>
+        
+            <div class="rank-row">
+              <div class="rank-index">1</div>
+              <div class="rank-main">
+                <div class="rank-label">
+                  <span>공모주</span>
+                  <strong>15</strong>
+                </div>
+                <div class="bar-track"><div class="bar-fill" style="width:100%"></div></div>
+              </div>
+            </div>
+            
+
+            <div class="rank-row">
+              <div class="rank-index">2</div>
+              <div class="rank-main">
+                <div class="rank-label">
+                  <span>ETF</span>
+                  <strong>11</strong>
+                </div>
+                <div class="bar-track"><div class="bar-fill" style="width:73%"></div></div>
+              </div>
+            </div>
+            
+
+            <div class="rank-row">
+              <div class="rank-index">3</div>
+              <div class="rank-main">
+                <div class="rank-label">
+                  <span>AI</span>
+                  <strong>11</strong>
+                </div>
+                <div class="bar-track"><div class="bar-fill" style="width:73%"></div></div>
+              </div>
+            </div>
+            
+
+            <div class="rank-row">
+              <div class="rank-index">4</div>
+              <div class="rank-main">
+                <div class="rank-label">
+                  <span>무산</span>
+                  <strong>9</strong>
+                </div>
+                <div class="bar-track"><div class="bar-fill" style="width:60%"></div></div>
+              </div>
+            </div>
+            
+
+            <div class="rank-row">
+              <div class="rank-index">5</div>
+              <div class="rank-main">
+                <div class="rank-label">
+                  <span>증시</span>
+                  <strong>7</strong>
+                </div>
+                <div class="bar-track"><div class="bar-fill" style="width:47%"></div></div>
+              </div>
+            </div>
+            
+
+            <div class="rank-row">
+              <div class="rank-index">6</div>
+              <div class="rank-main">
+                <div class="rank-label">
+                  <span>편입</span>
+                  <strong>7</strong>
+                </div>
+                <div class="bar-track"><div class="bar-fill" style="width:47%"></div></div>
+              </div>
+            </div>
+            
+
+            <div class="rank-row">
+              <div class="rank-index">7</div>
+              <div class="rank-main">
+                <div class="rank-label">
+                  <span>반도체</span>
+                  <strong>5</strong>
+                </div>
+                <div class="bar-track"><div class="bar-fill" style="width:33%"></div></div>
+              </div>
+            </div>
+            
+
+            <div class="rank-row">
+              <div class="rank-index">8</div>
+              <div class="rank-main">
+                <div class="rank-label">
+                  <span>배정</span>
+                  <strong>5</strong>
+                </div>
+                <div class="bar-track"><div class="bar-fill" style="width:33%"></div></div>
+              </div>
+            </div>
+            
+
+            <div class="rank-row">
+              <div class="rank-index">9</div>
+              <div class="rank-main">
+                <div class="rank-label">
+                  <span>운용사</span>
+                  <strong>5</strong>
+                </div>
+                <div class="bar-track"><div class="bar-fill" style="width:33%"></div></div>
+              </div>
+            </div>
+            
+
+            <div class="rank-row">
+              <div class="rank-index">10</div>
+              <div class="rank-main">
+                <div class="rank-label">
+                  <span>차질</span>
+                  <strong>5</strong>
+                </div>
+                <div class="bar-track"><div class="bar-fill" style="width:33%"></div></div>
+              </div>
+            </div>
+            
+
+            <div class="rank-row">
+              <div class="rank-index">11</div>
+              <div class="rank-main">
+                <div class="rank-label">
+                  <span>연속</span>
+                  <strong>5</strong>
+                </div>
+                <div class="bar-track"><div class="bar-fill" style="width:33%"></div></div>
+              </div>
+            </div>
+            
+
+            <div class="rank-row">
+              <div class="rank-index">12</div>
+              <div class="rank-main">
+                <div class="rank-label">
+                  <span>최우수</span>
+                  <strong>5</strong>
+                </div>
+                <div class="bar-track"><div class="bar-fill" style="width:33%"></div></div>
+              </div>
+            </div>
+            
+
+            <div class="rank-row">
+              <div class="rank-index">13</div>
+              <div class="rank-main">
+                <div class="rank-label">
+                  <span>만의</span>
+                  <strong>4</strong>
+                </div>
+                <div class="bar-track"><div class="bar-fill" style="width:27%"></div></div>
+              </div>
+            </div>
+            
+
+            <div class="rank-row">
+              <div class="rank-index">14</div>
+              <div class="rank-main">
+                <div class="rank-label">
+                  <span>확대</span>
+                  <strong>4</strong>
+                </div>
+                <div class="bar-track"><div class="bar-fill" style="width:27%"></div></div>
+              </div>
+            </div>
+            
+
+            <div class="rank-row">
+              <div class="rank-index">15</div>
+              <div class="rank-main">
+                <div class="rank-label">
+                  <span>파악</span>
+                  <strong>4</strong>
+                </div>
+                <div class="bar-track"><div class="bar-fill" style="width:27%"></div></div>
+              </div>
+            </div>
+            
+      </section>
+    </div>
+    <section>
+      <h2>대표 뉴스 제목</h2>
+      <div class="headlines">
+            <a class="headline" href="https://news.google.com/rss/articles/CBMiYEFVX3lxTE8zY1Fzd1VSdEdjOUhmVUk5YnAwYnNIc1hzSWdwenJTMjMxWWJtcHdTN19TSVNVNS1xN1UtWGNGdGlta3NkTTVLX1VFcElSSG9CWWtwbFhNcWh5Z1FLUkpUNtIBYEFVX3lxTE8zY1Fzd1VSdEdjOUhmVUk5YnAwYnNIc1hzSWdwenJTMjMxWWJtcHdTN19TSVNVNS1xN1UtWGNGdGlta3NkTTVLX1VFcElSSG9CWWtwbFhNcWh5Z1FLUkpUNg?oc=5">
+              <span>50년 만의 고성장에도 저고용…불균형·변동성 직면한 한국경제</span>
+              <time>2026-06-14 06:01</time>
+            </a>
+            
+
+            <a class="headline" href="https://news.google.com/rss/articles/CBMib0FVX3lxTFB4amM2elRDdmxPT210WW5mbHYzU1o2NkJmeVh4WkQwNmxZUGFzbEYzc214djY1Qkx4T0FkZFNtbHI5clBhNWUwS1pCRTlLVGgxbjdKUVpwaXViMGJfRzFTalNCV0w5SVBFSUZPWFJvSQ?oc=5">
+              <span>고환율·고물가·고용난…외형만 커진 국내 경제, 상처뿐인 호황 맞았다</span>
+              <time>2026-06-14 10:00</time>
+            </a>
+            
+
+            <a class="headline" href="https://news.google.com/rss/articles/CBMic0FVX3lxTE9LN2lvNHBQZjFKT3RpLWNEcGlBZ3k3Ri0wZEd6ek5zZjkxY0Q5bzh1UHJjX0NnZGdEcFA3ZHNoVXVlS2xiWE9hc0ducGNVdVg2SGx5d0g1TXhCOEJOaEJoNzBHQVBPVjFwVkp4SlNlbTRaVlE?oc=5">
+              <span>50년 만의 최대 성장에도… 양극화 심화와 불안정한 고용 시장, 한국 경제의 딜레마</span>
+              <time>2026-06-14 08:48</time>
+            </a>
+            
+
+            <a class="headline" href="https://news.google.com/rss/articles/CBMib0FVX3lxTE5USWRXOFdDaEZxQWxXaG5QdWd2d1pzdWdXX19nN00yc0ZueTViV0FaUmJQaFZ5YXJwdklXUVdkYVJCc0FpeVByQk9sejhjWXNTR1Q2THBJcUhRZ09rYlh6S2ZRRkdqT0pEekhsWjJ3WQ?oc=5">
+              <span>[경제]테슬라, 지난달 국내 판매 1위...안방 내어주나</span>
+              <time>2026-06-14 05:11</time>
+            </a>
+            
+
+            <a class="headline" href="https://news.google.com/rss/articles/CBMiVEFVX3lxTE9TSG92aFZnX2ZqWVoyZ0hrdDNUZU1YZXZnRGg5bC1CbV9wRkdLZE5USTN5TjFDQURES05FejhkV3JwUDJrNWxodGVxbXFCV1VrblZCMg?oc=5">
+              <span>곧 꺼내 드는 ‘최후의 수단’...부동산 세금 어떻게 바뀔까? [뉴스 쉽게보기]</span>
+              <time>2026-06-14 06:00</time>
+            </a>
+            
+
+            <a class="headline" href="https://news.google.com/rss/articles/CBMiT0FVX3lxTE12c00tQ21WOVBqTHJRdWVheTF2aU9rUEVvcEVWRnZuMjBsZ2lpMHhCNTk3MlhoOHVQWEhva2dhNmlGZ3lWWXJGWl9zSlVnOFU?oc=5">
+              <span>한국경제, 50년 만의 고성장…반도체 호황 속 청년은 고용한파</span>
+              <time>2026-06-14 10:01</time>
+            </a>
+            
+
+            <a class="headline" href="https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9JRVNtd0FqdmpDakZPSW5UTkJhV3l4djk4azNodi1GaWlMLVZyYnpJWHkyUGtfSEFfUXJxMW9iZDc2QmRSS08xTzZLdGphSUZHNktqN21rSGF4MENrYnROOG5SZnVtRjg?oc=5">
+              <span>트럼프 &quot;이란과 14일 합의 서명&quot;…호르무즈 열리면 한국경제 &#x27;훈풍&#x27;</span>
+              <time>2026-06-14 02:17</time>
+            </a>
+            
+
+            <a class="headline" href="https://news.google.com/rss/articles/CBMidEFVX3lxTFBobE56dW5ueHVQOXppV2MtQ01xeGR3cWJPVFQ5dzhBMUpxVC0weEdLRVE1bUpnTTRqcmFoaFNYYnlSVjhVSTcyRS1IbmZuNDVOT0YtbTl4b053bWpiMWZlcElweGNiV1pUX01DN2F2NThxc2Fl?oc=5">
+              <span>19일 한일경제안보협력포럼…반도체 등 공급망 구축 논의</span>
+              <time>2026-06-14 12:33</time>
+            </a>
+            
+
+            <a class="headline" href="https://news.google.com/rss/articles/CBMiakFVX3lxTE1fNnc4MW84MHROcW9LMFdzaFM4Zmp0Y21ZWG50M0xvcEtWaG9scmo2SkdyUVFKOEFFVlJsd2VibkR1MElNUzkxTV8wX1FMR0FZdWZYN3cxaDI1UzREMWEwQWYwenRMY0pQUVHSAW5BVV95cUxNOHduWEstVVk0VWxzUWhxNUkzUkJVbjdwUHpSREpZdnV0NGREaUZrUUsxallGekVlcXl4Z3pqa05MdnFQekp5bTlFMDdTNjg5TC1kbjExZUk4cTQ3aEF3LXduVkJZWnlnbk9CMWNqQQ?oc=5">
+              <span>한은총재 &quot;금리 인상 필요&quot; 공식화…집값 상승·&#x27;빚투&#x27; 확대에 경고</span>
+              <time>2026-06-13 22:41</time>
+            </a>
+            
+
+            <a class="headline" href="https://news.google.com/rss/articles/CBMiT0FVX3lxTFBXTC1WT2JwRWVUeFluRzJEdVpWNWFPaXRuLUpOWTBpMVhBVV92WmVIYlE1Sm5EWnpzNFJxTTFkVVk2M20ybG5QQWYtbGFxdVk?oc=5">
+              <span>환율 1600원 뚫리면 물가 폭탄…한국은행이 한꺼번에 0.5%P 올릴까 [주末머니]</span>
+              <time>2026-06-13 15:16</time>
+            </a>
+            
+
+            <a class="headline" href="https://news.google.com/rss/articles/CBMidEFVX3lxTE9UbW44c0xiSlBJYmd6TExrUFo3UnE1TVVxcFdBb2s3RWY1S2NSWUw5aGNKVnozTThDQ1Fad0VlZWZtU2lHc1FqYkR1UlE3UEhwWUlUY2JWZmhiNG9pTW1QRGNhQXA2SUJGQThsb21LTWJnUUxu?oc=5">
+              <span>현대硏 &quot;관광객 늘어도 1인당 소비 감소…질적 회복 중요&quot;</span>
+              <time>2026-06-14 11:00</time>
+            </a>
+            
+
+            <a class="headline" href="https://news.google.com/rss/articles/CBMic0FVX3lxTE1fNTdwUWdZTi00ZXpVcTZvclRic0FLUFdXb3lGUkRneVRBa0M1Vi1mVjdrNmhwX1Q4cEJvdm1VdmhqVjV2OE9YNHZkX1g1U29uS1dqTlRPTzFLWHBHaldDNFIxNnpuM25WWDlodWNhUldiSW8?oc=5">
+              <span>급등락 속 투자자 혼란... 국내 증시 변동성 증가 예고</span>
+              <time>2026-06-14 08:43</time>
+            </a>
+            </div>
+    </section>
+    <p class="note">초기 MVP는 제목 기반 집계입니다. 운영 버전에서는 중복 기사 묶기, 본문 분석, 기업명 사전 관리, 전일 대비 급상승률을 추가하는 흐름이 좋습니다.</p>
+  </main>
+</body>
+</html>
