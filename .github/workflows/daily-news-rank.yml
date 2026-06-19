@@ -1,0 +1,39 @@
+name: Daily News Ranking
+
+on:
+  schedule:
+    # 06:00 KST daily. GitHub Actions schedules use UTC.
+    - cron: "0 21 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Generate news ranking dashboard
+        run: python3 work/news_rank_dashboard.py --output-dir outputs
+
+      - name: Commit updated dashboard
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          if git diff --quiet outputs; then
+            echo "No changes to commit"
+          else
+            git add outputs/news_rank_dashboard.html outputs/news_rank_data.json
+            git commit -m "Update daily news ranking"
+            git push
+          fi
