@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-29 09:29 KST",
-  "item_count": 224,
+  "generated_at": "2026-10-30 09:28 KST",
+  "item_count": 141,
   "queries": [
     "국내 경제 뉴스 when:1d",
     "국내 기업 뉴스 when:1d",
@@ -10,65 +10,53 @@
   ],
   "organizations": [
     {
-      "name": "미래에셋증권",
-      "count": 10
-    },
-    {
-      "name": "한국전력",
-      "count": 5
-    },
-    {
-      "name": "KT",
-      "count": 5
-    },
-    {
-      "name": "현대차",
-      "count": 4
-    },
-    {
-      "name": "한국은행",
+      "name": "삼성전자",
       "count": 3
     },
     {
-      "name": "한화",
+      "name": "HD현대",
+      "count": 3
+    },
+    {
+      "name": "한국은행",
       "count": 2
     },
     {
-      "name": "SK하이닉스",
+      "name": "신세계",
       "count": 2
+    },
+    {
+      "name": "미래에셋증권",
+      "count": 2
+    },
+    {
+      "name": "스페이스X",
+      "count": 1
     },
     {
       "name": "두산",
       "count": 1
     },
     {
-      "name": "한국산업인력공단",
+      "name": "현대차",
       "count": 1
     },
     {
-      "name": "스페이스X",
+      "name": "한화",
+      "count": 1
+    },
+    {
+      "name": "쿠팡",
       "count": 1
     }
   ],
   "keywords": [
     {
       "name": "AI",
-      "count": 29
-    },
-    {
-      "name": "개최",
       "count": 17
     },
     {
-      "name": "지원",
-      "count": 15
-    },
-    {
-      "name": "반도체",
-      "count": 9
-    },
-    {
-      "name": "대통령",
+      "name": "미국",
       "count": 9
     },
     {
@@ -76,1164 +64,761 @@
       "count": 8
     },
     {
-      "name": "성장",
-      "count": 8
+      "name": "금리",
+      "count": 7
     },
     {
-      "name": "코스피",
-      "count": 8
+      "name": "확대",
+      "count": 7
     },
     {
-      "name": "수상",
-      "count": 8
+      "name": "전망",
+      "count": 6
+    },
+    {
+      "name": "반도체",
+      "count": 6
+    },
+    {
+      "name": "연준",
+      "count": 6
+    },
+    {
+      "name": "한국경제",
+      "count": 5
+    },
+    {
+      "name": "협력",
+      "count": 5
+    },
+    {
+      "name": "현장",
+      "count": 4
+    },
+    {
+      "name": "내년",
+      "count": 4
+    },
+    {
+      "name": "변화무쌍",
+      "count": 4
+    },
+    {
+      "name": "개최",
+      "count": 4
     },
     {
       "name": "최초",
-      "count": 8
-    },
-    {
-      "name": "부트캠프",
-      "count": 8
-    },
-    {
-      "name": "재자원화",
-      "count": 8
-    },
-    {
-      "name": "외국인",
-      "count": 7
-    },
-    {
-      "name": "도움",
-      "count": 7
-    },
-    {
-      "name": "코스닥",
-      "count": 7
+      "count": 4
     }
   ],
-  "top_organization": "미래에셋증권",
+  "top_organization": "삼성전자",
   "top_keyword": "AI",
   "items": [
     {
-      "title": "[경제 오딧세이]한국은행, 기준금리 동결...11월의 선택은?",
-      "published": "2026-10-28 19:00",
-      "source_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBUMmY1NERtZnRUdmVvZjVrZFJsT0lSZlVUX2hhZUVPUmRzbFpLclhNU1ljNjlIR2RYYnNYb0xydzBzVXN6dHdZWXRsb0JITWZRbTlJbER2UUZlN3RJMUpaTFJJaHFjYmNEVlpV?oc=5"
+      "title": "2026년 9월 중국경제 동향과 전망",
+      "published": "2026-10-30 00:22",
+      "source_link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbE8xbHF0UVdNZzllMXZ6SE9Cc2E5MnNMRV9QcUFrbmZ5VEUxSzYtV1VuZENiZnFOVjFxYWlfTVJSc1JrbjNWVkVNd3IzVHRfMzBVVTFYbzdUZnpvT3cxTm5CMHFBWlFRUlVLd09Wc0JHclI5RXkzemxnbnJlLUhJRg?oc=5"
     },
     {
-      "title": "워시 \"한국 경제에 많은 관심\"…신현송 한은 총재와 인연도 언급",
-      "published": "2026-10-29 07:14",
-      "source_link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1VWEdmWWxlMUhvdG4zdnFXVllmdDVfYjhFanFZNzFCSkNZZWVwOXRRR0xERlIyZmJyUmUwTDMtaXJwU2xDdEVaUnc1cUV1V1FBTTlvbWVqV2RsRjDSAWBBVV95cUxOTkZ5MWR2bWpiUHpwX0paRVgtd2Jya0xSNUZDLUhTOVB0dTdRYnJua196QU9SWTBrNUItNWw2ZkJubGtWMVE4MTFRZWxfUkE0SE9EU0NndmJUTUhhUTF3X24?oc=5"
+      "title": "[동정] 농업경제 김주양 대표, 수확기 맞아 쌀 수매 현장 방문",
+      "published": "2026-10-30 08:54",
+      "source_link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBPeDBOYkR4U3NGR1BaZ2NpdWdQZHFoejh0NW5xMkpnaUFOYUc1QlF1a2ZGVDdFbThLb3lna21MVlF5Q0dFd1F5dUd5QlktZHhSQnBHdEdfWUtmTW4yRnN5bEN5NkFtZ1VBM0hmb1owTzR2cDdH?oc=5"
     },
     {
-      "title": "워시 Fed 의장 \"한국 경제 주시…신현송 총재와 20년 지기\" [Fed워치]",
-      "published": "2026-10-29 04:28",
-      "source_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qY2Vhd1V0a1lPRWhwT054bkZCbThUd2dLV0ZGYVExZFFEWXJCU1FFVGNJek93MUFQVktTYnJUTXM3YVdCNzJ3djYwbXZWRXFKdDVHMkpXZjNCUQ?oc=5"
+      "title": "[시론] 정답은 ‘투자하기 좋은 대한민국’",
+      "published": "2026-10-30 05:00",
+      "source_link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1XVDZzVndTclRWTmpQak1TME43eFYzVXJXb08tUXdXanU2Yk10TTR6U1BxUTJvRXJvejlhSHczemkwdFJRX2JYMXduTlVUVHE3VEHSAVNBVV95cUxQN3VjUlhDdTFjTENBR3VMSk9YTGFWZWxxYzA0M0FzR25NdzJ6eUp6X0R5VXVBZkhMTnlJcU5LTzFEVGxOQnh5ZktOS1Zpa3VUaHlYZw?oc=5"
     },
     {
-      "title": "중구, ‘2025 대한민국 지역경제대상’ 자치구 부문 ‘대상’ 영예…전국 69개 자치구 중 ‘종합 1위’",
-      "published": "2026-10-29 07:00",
-      "source_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5zdVhlRGl3QkxLeXJkRnE0Q1dwMHhCWVM1LXF1MnBCYXFxa0JNaUMySkYydDBEdkNLZjZtLXJRTGxLLTJJN29MTGw0cEdEbG9VNU8wRV9mcDVVU3k3RzVjX0FHazNMWnl4ZTNV?oc=5"
+      "title": "\"내년 한국경제 '변화무쌍' 전망…실물 양호·금융시장 불안정\"",
+      "published": "2026-10-29 13:33",
+      "source_link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE83VFhKSkxRSHVSWGN3ZU5ONi1iU3NlWDlWUzVuOE1qNDlyYk1ITEhhT1luYWp0Y01SUWlHSGVUTmFKUUIwVGY4elNMdnNkOG1WYjFCVkRuWEdEYnPSAWBBVV95cUxOaE9fUHdJQjN5Sjh5NThzZURBVjlGcGE1cXIwN1g4Q0pwS3ZCWGxPbGZzbzMtemhnTnRucnNfSHQ0LWdPRW51NGFrVDdSSXhTZXMzbkoyaXBoWVJSNkpLd0Y?oc=5"
     },
     {
-      "title": "美연준 금리 동결…워시 \"한국 경제 예상보다 주시, AI 핵심 공급국\"(종합)",
-      "published": "2026-10-29 04:41",
-      "source_link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE82aXdMRTQzSzlZSnBlNEk2NHhrdWFMU0xMZkdZeDFqak1USzVydGZFUzExeG56Um5yZS1SclFWd1dSS29iYXpTdGJhT1NDel9lRXZENUlaNnBELUpxc2VmbUZJZHVhQTA?oc=5"
+      "title": "미국 경제가 가속화되고 있으며, 국내총생산(GDP) 성장률은 3.4%까지 상승했습니다.",
+      "published": "2026-10-30 08:00",
+      "source_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE91bFdPVE80NXdTMVdBbTItRTY4bDdoUHhkbURZZDBJTDJ5YU5uM0pIYXZsd25CU1dyX3g1VERiZExORVFTbTZ5Tk14ZkxfYkExWm5zcnh6eHFLbmF1eEtITTdBd0ZDTlZI?oc=5"
     },
     {
-      "title": "美 금리 동결에도 한은 또 '호미' 꺼내나…11월 인상에 무게",
-      "published": "2026-10-29 07:29",
-      "source_link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE43dUMyVVI3dEdFbkZjUzdDc2tuZVByQ3gxMzgtVElHc3dfSDFLOVVsZHNkZy01QnpZTUl2VVRuNDBZUDJOMlZlRUlZRHFhenA3Q3Rz?oc=5"
+      "title": "IMF, 한국 경제성장률 3.3% 전망! 반도체 호황에도 체감이 다른 이유 - 영상 | 멀티미디어",
+      "published": "2026-10-29 09:56",
+      "source_link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5rZS0wUVFlWXI0NVVUTjI1OTZCa1dHTmdETEdfUDVaX29ILWsycUZEakhMZVltUTRlOWFHbVpzaXVxMklFbGhoM3FYQXc3bW1ZTGUwV0tOVmNyRGt2S1BTQnVGZFZQRHR6NXRlbQ?oc=5"
     },
     {
-      "title": "3분기 한국 경제 1.0% '깜짝 성장'…\"4분기 0%여도 연간 3.6%\"",
-      "published": "2026-10-28 11:00",
-      "source_link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1hdkZuUE5WX2ZueFo0dm1yV1lmTUkxeXNySnhHWkZPaXU5b1VoWDJOTFV3RzJMVWJoRjl0OUVPM2pzM1QwUllTbXA2eWlhVG9idFVTcnNsTnNlWFRUbFVkT3BUa0pnUmMxcVBMSjl3?oc=5"
+      "title": "“경제는 1% 성장했다는데, 왜 내 지갑은 그대로일까?”…한국 경제의 두 얼굴",
+      "published": "2026-10-29 11:24",
+      "source_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1DQjRfbFFKdWxnaDIxX3Z5Z0JFSHJodTNWdkx5NVpsendmY0FqQjF3YXlJWmJSXzIwdkI5R0JpOUliZkU3LVRJMDl1Qy1MRWp3V3VDVUJiUktIZ1BXcUVwbTF1ZlE?oc=5"
     },
     {
-      "title": "[아주경제 오늘의 뉴스 종합] 반도체 잭팟에… 코스피, 10거래일만에 6000선 탈환 外",
-      "published": "2026-10-28 21:47",
-      "source_link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB1c2FETllHdjdfUDJaNWdNbkl6cE1WT1JnMlhHbnZBYlg3R1RNQjFBSU1TdW1MV01NYk1YMlpFVkhGZy0zd1Q4Qk5SaWFwZWNsWE9XN1hEZlLSAVhBVV95cUxQdXNhRE5ZR3Y3X1AyWjVnTW5JenBNVk9SZzJYR252QWJYN0dUTUIxQUlNU3VtTFdNTWJNWDJaRVZIRmctM3dUOEJOUmlhcGVjbFhPVzdYRGZS?oc=5"
+      "title": "삼성전자, 40만원대 실속폰 '갤럭시A18 LTE' 국내 출시",
+      "published": "2026-10-30 09:07",
+      "source_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tczhpR1dZSExlY3ZRYzVuZ2JKbFZxRV9fLXdBOUcyUmEtQjc5UG5HMGQ5X0JmazlDejY3dmJxLUE3NmlBT0ttWk1kSnZmTFRNV2ItWVhRMnNXUdIBVEFVX3lxTE04QjRvdFFXcVg2U2xmaGtyVTZhRGd1VGUybFJ5V0lZOGlWWTNxaC1qTVVuaGU3WEpDaWRvVVlpb3ZLWHpJVzRXY2lGM0duRWdLQ3JpVQ?oc=5"
     },
     {
-      "title": "대체불가 대한민국 구현 \"과학기술·경제·산업정책 한 몸\"…7대 SEED·AI 전환 가속화",
-      "published": "2026-10-29 00:03",
-      "source_link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5nM2M5eGRTeEtibnF0OS1TanJKT2dvcld2eTRDWUNSaUp2Wl8tNUtNUEx3bDBVWS1wVDFfNmVIQUNsdVp6cDhJUkZB?oc=5"
+      "title": "내년 한국경제는 '변화무쌍·고장난명'…'한국경제 대전망'",
+      "published": "2026-10-29 17:57",
+      "source_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIdWVEYWdaNDA0UVNnOTFTV3dnU3pDQ2l5NkRCV3lZQUs1TDUyVk1xR19DOEJFS3psZUs2QmV0cWVKS1ZTSE9TQmRYbFNHeHhWbGp1ZG1KUDFmbmRxNjV3UtIBeEFVX3lxTE5ELTkwVHNjSC10a0hEVk5mUEZac3ZTSy1KSnUzLTMyeHYwMFpHN2xxS2FzWk1iN3UwODEtc3NSNzMyN2ttQzVrM1lucWdpNTJkWnM0bU16dGZlem9WTkUtMG55Vml3TnA1aHZRcE9Ecm5mVV9YZVdCaQ?oc=5"
     },
     {
-      "title": "한국·앙골라, 에너지·전력 인프라 경제협력 확대 논의",
-      "published": "2026-10-28 23:15",
-      "source_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE56Y3ZjMS1KMW1FN04ydVpta2NGVzJLMUdIMmNWVmV4b0ZKZnREaHZOdDI4Qkk4Rld6RUhnNXNMcnVFTHhqemdGTGZkU2Z5Q0FRSldIZEZhY002VElKSFkwRVZSZVk?oc=5"
+      "title": "대신증권, 2027년 국내 증시 전망·투자전략 세미나 개최",
+      "published": "2026-10-29 16:15",
+      "source_link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9VX3pkenUweG9nUl9sRVVVWVV1NDRVWmlzcFJNSlMzU1VaNlJFaGZBODBUazExRmVLZmVoSlNaMDF6Tm16Sk9EdlBLU1dzcWY2eWNudjREakh2M2drUkg2OVlKek5vUGhPT1Y5UUU3Y1dpdw?oc=5"
     },
     {
-      "title": "올 3분기 경제성장률 전기 대비 1%...한국은행 전망치보다 3배 넘게 높아..올해 4% 돌파?",
-      "published": "2026-10-28 12:17",
-      "source_link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB0OXpmaGRXN2lnRkRid1FwTUZnLXRkQVJQNUNIZDllaVpPOHl3Tm9oNWdrZWw1am9SN0hGWlBpWmtnRkQwU0RpNGJKaFAxNjEwSmxkQzRTSTdkWVgzTC1QWTVxRQ?oc=5"
+      "title": "\"내년 한국경제 '변화무쌍' 전망.. 실물 양호·금융시장 불안정\"",
+      "published": "2026-10-29 15:48",
+      "source_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1zN1JVSlJTMmpEZ1RHNmNFc3ZXOEw3Q3FaR0ZuUE1SOUtETWxOVE1sZG44V0hBbHJpeDhGR0xScnFPQzB6bno0YWxxSU03WWtPa0dlMVZYeWIzOFRpdk5oaklXdUk4Si1yeTlj?oc=5"
     },
     {
-      "title": "3분기 한국경제 1.0% 성장…반도체·설비투자 호조에도 민간소비는 뒷걸음질",
-      "published": "2026-10-28 14:22",
-      "source_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5sWWhxZzZUOGxTVGg3UmxYTDZXa3BNLVJpZ1pDYWhnaThIQWJFdDFwbVpsZ21YM05uaXZtWjNMaVhhcWZLQjF6TGFXMkRfd0hneGRLMkhoVVZqTVZ5QnhwS0xSRzh2VFhxblHSAW5BVV95cUxOWWJwRmtXZnQ4QXBEQk4zaHEzaHBxcWl6SHZCSjdCM0hKWUNxTm43YW1rSTdDN2hlcHBGVl9VclpLRkpiLXhYRWZuUDNtZGg5LThNeGRacmJQOWFRR3M4QzlZZko4c3NUUC1XcFM0dw?oc=5"
+      "title": "미국 가야 하는데…진성준 발목 잡은 35년 전 과거? [정치 인사이드]",
+      "published": "2026-10-29 19:34",
+      "source_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFLUh4RzBMMEctQWs0cVlyQzhQYlROSDdMbFc4TVNZNWpkeWFYYnZOX3doaHBKdTJvSUcwSmdUcGdUV2hEcXd1VC1WUUhSZmVJMnRUQTdnSGE1UQ?oc=5"
     },
     {
-      "title": "애플·엔비디아도 못 가본 길…삼성, 100조 벽 뚫었다 ㅣ 한국경제TV 뉴스플러스 [전체 다시보기]",
-      "published": "2026-10-28 16:48",
-      "source_link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOU3lKcmFfY2ZNZ3F0U2pkakRxUG02NWxmN1ZERk1NY3Q1WHdKQm1uaDBpT1dYdDQxNjM0SDJnV2lrWWo1VEZmcWhVSVpTYS1wbkdvNl9lSHFqakNqNHJqRm1IUVZub19UZlBWVEwtdDdvUHc5YjRObG1QcFgzY0hfd2xPR0FwWl9QWENQWDBlY25yMDBQNnk5YzFubFJrTkVqSUVF?oc=5"
+      "title": "美 연준 금리 동결에도 한은 추가 인상 압박…11월 금통위 촉각",
+      "published": "2026-10-29 10:57",
+      "source_link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE45T1l6cXdaTE85Wm9UcmZmYWIyUkNWOTg0emNCdUNWMTd2bWpqRTlEazl3ejJnRkp0ZjUzVHBiMUFSSXdldHlRdDVoMHZwNWtfVHFfMDZBRjZEOXZOUUFYTGpZRzFoRVdxQWFCOXo1NGthcmxt0gF0QVVfeXFMTjlPWXpxd1pMTzlab1RyZmZhYjJSQ1Y5ODR6Y0J1Q1YxN3ZtampFOURrOXd6MmdGSnRmNTNUcGIxQVJJd2V0eVF0NWgwdnA1a19UcV8wNkFGNkQ5dk5RQVhMallHMWhFV3FBYUI5ejU0a2FybG0?oc=5"
     },
     {
-      "title": "대한민국 미래성장과 국민의 삶 개선을 위해 과학기술 정책과 경제·산업 정책의 역량을 결집",
-      "published": "2026-10-28 11:45",
-      "source_link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ZcHBWSTRWc0tJdjZRWkd6cDRWZzNobVVvWDl0dXBqalBDeUoxakhUa2tDTDR2cEk3dzNMamlOblRQTHhwb09pNTJxUEQzWEswbXB6LVNwbUdhdC1ZZDRXQVlnUk5Dck01RTEzUXJocjluZEJHa09UcEwzYVpKQQ?oc=5"
+      "title": "[포토] 제17회 대한민국 대중문화예술상 시상식",
+      "published": "2026-10-29 23:15",
+      "source_link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBHTnNjMkpVN1RLM09FLU81YkgtRGppOUpLTGhwcDRyODZhRklMalh4SWZNY2R5S0swZjFKa2ptMTR2YnB5X3BkanZRbk9uVG03amI4Q0NRRWHSAVhBVV95cUxQR05zYzJKVTdUSzNPRS1PNWJILURqaTlKS0xocHA0cjg2YUZJTGpYeElmTWNkeUtLMGYxSmtqbTE0dmJweV9wZGp2UW5PblRtN2piOENDUUVh?oc=5"
     },
     {
-      "title": "李 \"외국인 노동자, 경제에 크게 도움 안 돼\"… 진보진영 \"사과하라\"",
-      "published": "2026-10-28 17:23",
-      "source_link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNaUw4emQ3R3NGZ3RhUHBJMWRnU3NBOVM3V2dFS016Z3J4N2dIQ3p6b1k1YTg4MjJzb0NpcGVOY0hyOTR6dk1nZDlJSjloMDV2cC1UMW1GY0lsOFFBYWRmbFRMQ1p2cUg0R3c3R2pRVWJDRk9jNzU1UFYzSHJkRjB1LWtNTzl6QQ?oc=5"
+      "title": "HD현대重, 국내 조선업계 최초 AI 선박 도장 검사 시스템 개발 - 울산매일",
+      "published": "2026-10-29 17:25",
+      "source_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBMZjh3RjctRFBsNDUyMTdRX2Zfb290Z3JHX2RkR1pYQjFQT1ozeDFiX0YtRllyeHE0YUJ1bkp3RzA2WXFLSE9vU2RiejNXU3FlY09kYmY0X1JfSlVHeVpnNEViek5YTW51REHSAW5BVV95cUxNRll5OHJfZndUVk9IczVtRGhwUGdOWUlpaFd0czVCd1hzWnNzckk5TmFjNFN4d2JRejVGYTZMdXZUMG9hNEpQc0hXM01pWVg3NGxyWWF1eDBKWUJ4ZHpDRklKWWZ0QUF3ZFNVUXpmUQ?oc=5"
     },
     {
-      "title": "\"외국인노동자, 국가경제 크게 도움 안된다\" 대통령 발언 검증해보니",
-      "published": "2026-10-28 16:36",
-      "source_link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5jNWhkTl9XMVE2c2lkTmlVNHQxMEZvOWpBLWhUN2FweXFZZ1Nid2pYLWgtcVV6MS1rVWo0Qi0zR21zdWdEN2NmbC1TZ1U0alBOR3FaUHpqTkpiNDBGWWpINnN4V1ZhNllybk81RVBqQ2RpWFBNRXZLWnlVdzA?oc=5"
+      "title": "“미국 AI 성장 읽으려 한국 경제 본다”…워시 연준 의장이 한국을 주시하는 이유",
+      "published": "2026-10-29 12:57",
+      "source_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1hX3hLQmJwcnhuTU81azVwTW5pbFpsUW8weDNoZjNiUGVYYXVmdzc3ZU9ZYnMxZnc4UTdfSkZ0TDRhLXowdi03UHhsQThGUzJHYjZiMlVGSUVlLWh2WW1VN043RXIySko2?oc=5"
     },
     {
-      "title": "“한국 경제 깜짝 성장이라는데”…JP모건은 왜 실망했나",
-      "published": "2026-10-28 16:39",
-      "source_link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORl9FQkhuS1k0Yjh5ZU53VTNTYUFnaXFuUnd4NkROckdXZm5tb05sNkZHc0JJcndGMzhWMm8yUUVyUFphVVE0Q1dvS3B0Z2NvMVRYdW1faEkxV1VVT3NOdFJFSUFJam5IbkxMTTNQaWphUVUwd2FCTDZkY2t6cDN4TQ?oc=5"
+      "title": "\"철강사도 수소 생산·조달에 참여해야\"…공급망 주도권 확보 제언",
+      "published": "2026-10-29 14:52",
+      "source_link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE10aVRWOHl4OFpjQUg0eFBUUTU1Z202alJYUWxxcVlsN2NFUXVSM3ZkdldSaHp4SC1RRk9nY0Vud3U1Z0lHZmdlVmpJbzlqNU5xQUZZNzRSS08tOGFEZEphdG4wUlNoY2FYYjFNSQ?oc=5"
     },
     {
-      "title": "더불어민주당, 연이은 경제지표 호조에 환호...“성장의 성과가 민생 곳곳에 확산돼야”",
-      "published": "2026-10-28 18:17",
-      "source_link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE42clVIUG1CVENESkR3UmJjT2NhakFOZ0N3NjZLd1pZMFk2OHBEUDNXcFhoUkdZeThOdmNnZWYxTHpRRVFsb2h6T0otSzdQT3hlTEJURjJwQ2Q3QlhxMkVfYVotSQ?oc=5"
+      "title": "[전남광주소식] 한국은행, 11월6일 금융경제강좌",
+      "published": "2026-10-29 16:17",
+      "source_link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Pc1ZVemNXNjFVREQ5alpxcFkzLXFKYkVXclNZQWdXXzBMNER2eG1yY1JmRTZ6Ty1aLWs0djdlcnR2Z1ZteUJHRXhMdnBfREk4TzQ1MWZ5b2NpVkHSAWBBVV95cUxNUXo2S3pxR3R0TzFkZnpzUnI4d1JKdGRUNFVSOGdvQWxxaHBWRUZYWEc3eFhlTXZXSjVtT01aOWh5S1dkdUVBcGsySDhaalVTU3pFajZEbk11QXRBTE16WVg?oc=5"
     },
     {
-      "title": "한국경제 3분기 1.0% 성장…설비투자 급증에도 민간소비는 감소",
-      "published": "2026-10-28 14:12",
-      "source_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5JdEJlcVJnem01STI3NkxFdG1tTXA2UlNFeE5rX2VQQ01DNzc4dVEtaDFocm50endJMEFaa3Y0bEVJN0lGenJDbHpSSGdfOWNuaTZ6R2E5b0pIYVp2V3Z6SktVN3lRNUV2MFHSAW5BVV95cUxOdTg0OXpacFBRRlYtTE5veEhIREVGVWozVWl6ZU5RZjZzZE9RdTY5bnpRZmNUU1RxSTJhbWJsdGMwOTNwQ09pY2ZiZS1qRU5WMnpJbXJNcDA5dmFzRWZ6RVV3YVo5WmtWWU92R0t2dw?oc=5"
+      "title": "신임 한국농촌경제연구원장에 박준기 농경연 선임연구위원",
+      "published": "2026-10-29 17:22",
+      "source_link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBWU0FJLTF1M0JiRlZIWDF2N3RZZmp6OEdIbHNBemRWOGFnbEdaNVlLa19fWUljTVNNeFZsZkZxVUFhc0hQang3VVpUUEFIQjdSTmRvbmE4bW9qUk3SAWBBVV95cUxNbHJwcHFLcWlaeEZTd0xrWk56ZDA3VXJ1NWczdTIta01XMmFKZi1FaWFOd0NxSGJubUF5eXV2WHRNcTQ3aDJSbG5oQ2tjamFCc3pDTlJUN0JVSU96N1VTTmQ?oc=5"
     },
     {
-      "title": "[데스크 칼럼] 트럼프에게 배워야 할 것",
-      "published": "2026-10-28 17:56",
-      "source_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5UZ1pvc29JXzNzRDBUZlJudmI1R04ya3lxVTNwNHBPMzVwR0JlY29CbTdNSjJRNWctRVR0NkFZOVlpVV9oNXBSVzVCVzJnOGRJdVR0MW5ONkY2dw?oc=5"
+      "title": "한국수자원공사, 미국 오스틴시와 AI 물관리 협력",
+      "published": "2026-10-29 19:41",
+      "source_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA0TzZURlQyVXBBX2ZiczZOTXl2VTQyaHZTb0tLNjktMms0bVU0c3hpb1o5SHhpMXAya25RcXJabklNamxnSThVUFdjWkpBVmxSZ2ZPUkR0eEx1STBTVks0RFM3SFpZR2x4?oc=5"
     },
     {
-      "title": "與, 40년만의 경제 호황 반색...\"'성장의 온기' 나누는 입법 중점 추진\"",
-      "published": "2026-10-28 12:17",
-      "source_link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9kMndZeUwwSzh3c0RSOXE2RTZ5dDVpUDNGY1ktWjVXeVJnQUY4Y0trbXlGN3VEMHNBUEVQOVY0aExJWHVKZFNGZVB2NGFlRDNJcVFmU0Zzc01qdk50MFg4?oc=5"
+      "title": "[한국경제] 한양대, 2025년 신규 학생창업기업 67개로 국내 대학 4위",
+      "published": "2026-10-29 09:47",
+      "source_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9vYWtuMHlhT3JsS1pQc0pDNkFweW5hMEROWjR6NS14S1VleFEyeTdnZHV1YlZRUEljbTZFZkVLS0Vwcmd3MmMySnhJNW1DYXBOOHcxbjhhT2FGQ1VsUUloTEVWakExc1JRUUR3?oc=5"
     },
     {
-      "title": "오세훈 2심 무죄에 “AI 판사 도입”… 한국경제 “집권당의 황당한 발상”",
-      "published": "2026-10-28 23:17",
-      "source_link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBBcGZHZG1raDVlRmxtUkFMTWxEVUppWmphRTNuMDVzbmJJa0p6dnYybVhQVHZTWEZnN0RKQUYwNHBlQjJHR01uVDdmY01BV0IwblZwb1ZBa3UyNGhpNkM2bFFTOEFNMnctMENyNjZDV2g?oc=5"
+      "title": "iM뱅크, 한국가스공사와 ‘더 좋은 지역경제를 위한 상생펀드’ 업무협약 확대",
+      "published": "2026-10-29 11:09",
+      "source_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE52SDBQSnU2QVAxODMwYWJRTXcybDc2eEtJa2tRS1pDZm45S1hFNE0zeERERlpyWFoyRjc5YnEtTm9SRnlCNWVKb0tuUExZUHhobEpLVzNaTnFmMWozVHQ2Mzd0TVc?oc=5"
     },
     {
-      "title": "'삼전닉스' 폭등에 코스피 6000선 탈환…6.63% 급등",
-      "published": "2026-10-28 15:43",
-      "source_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8wYXN1NFJXSUJrTU45RWNDTE1TQkptNXN0eVdlcjdFMGk3bDZtM0xvU0pyTklfTzRVdnFwSFY4MUFTQnY3T2hWdTR2TjBDR29PYXZzSU9lZHA4Zw?oc=5"
+      "title": "고용노동부, 해외에서 쌓은 경험 국내 일자리로 잇는다.",
+      "published": "2026-10-29 13:27",
+      "source_link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBLbEhmcGtnR3hoOXJhT1JKSFpTNFUyVHZIM1NRUEtnY1VTX0Zzc2tNVTRHcU0tSXBYVlFuN3dBQzhhcGRVNWZYZzMwMzBGUk5LYm10aE9KcGprcS1Sc0szTVEyNUV2MVZISnh0dV90RQ?oc=5"
     },
     {
-      "title": "[신간] 2027 한국경제 대전망",
-      "published": "2026-10-28 10:20",
-      "source_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5tamc2SmM1dTdFcnlCUU56NWd2MFNDOW45WkZnWWJ6QjRvYmM0OGtxLVlqanZOSUpER2Z2NVhjbXRUaldCelZuc1FuVXh3bTdDSFhPU0JFTER6M1hkTG1CLTA1Y2xMRXByT0Vz?oc=5"
+      "title": "신세계백화점 강남점, 오라 오가닉 국내 론칭 팝업",
+      "published": "2026-10-29 15:49",
+      "source_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE90cHRNMUIzbWlET2dJWThLbF9YcmhzYTNNdnp6YlBIYnRjZUotNXRvODhCTEhHRzFTNUgwaVB4U0ljbGV0UmppOG5lSlZiUHlkaThhamVvekZ2WGpMbHliS2EweEZZckR1VGJJ?oc=5"
     },
     {
-      "title": "한국은행 “AI 투자 둔화 시 반도체 수출 최대 1,000억 달러 감소”…한국 경제 경고등",
-      "published": "2026-10-28 11:48",
-      "source_link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9yNFdaTk1kUDI4aUx6WWVFSWpCYW9GNDhzZmI0V3JKNnI5UmE4QUJPZnpXUWNLMWlsenNYdG1ITkxKQ2V4eHBLRno5cndrX2ZReGljbXJuVG1DR25DY05pRGNB?oc=5"
+      "title": "\"미국 금리 동결 속 한국은행의 다음 달 금리 인상 가능성에 이목 집중\"",
+      "published": "2026-10-29 10:34",
+      "source_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9xYmtSM3JtMGJxUm44aDlfODc3N2RTdk1BUmxSTGpxbmF5LTFZUkdyWGhsQVlHTk5oVy1Fb2VsUGlzOGZuTzlGZGI4V0ZHNTAtLVNlbTJWdjVra2RhaXI2LU4xQTZfbm5X?oc=5"
     },
     {
-      "title": "[경제칼럼] CPTPP 가입은 한국 경제의 생존 전략이다",
-      "published": "2026-10-28 17:44",
-      "source_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kMVoxMkF1c21KLVVJX1d5MWJFTHNWYnBIc05mYnRnMUExQ1NBYnZnZmlMUEhyMFJoWjJsaFBxZ1dkT1E5QWN1RHdKTThIRkRKXzQweTQ3djRzbjhMRWkxY2FrNkk1dEFvRnc?oc=5"
+      "title": "[매크로리포트] 워시 \"한국 경제 유심히 본다\"…美 연준 금리 동결에도 12월 추가 인상론",
+      "published": "2026-10-29 10:48",
+      "source_link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ZNEVRemxrMTVxeTdDQTFfLWp3TXNVNkFKYy1OSmZMZVBZSjBVb0pUMG9YX1JsV2Nta2Y2YU9Ga3lYdWhqbWt4Mm9rdl9TWmF1cDFHLWN3UUNZaXpXd0xRSFZXcUY0aXhzRTlsZnljWUtlQXA3d1FB?oc=5"
     },
     {
-      "title": "[경제포커스] 2026년 경상수지 흑자 상위 10개국…1위 중국, 2위 한국",
-      "published": "2026-10-28 12:40",
-      "source_link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB0bHpYMGVFZXdhTVBwcEd5TnJRM0lMRzI4QTZQMENOWjVrOXRlcHBEaW14eHZiV3dERHd5dzljVjV5d3RIc081RmY4VWxzbHNEeG1uNjU0X0ZkU3pwSTk1RjJFallock5ET2RoaVRB?oc=5"
+      "title": "대신증권, 30일 국내 증시 전망 온라인 세미나 개최",
+      "published": "2026-10-29 11:30",
+      "source_link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBrOWNva2Jsd0hwbk5XWkxCN3ZUck05Rm9FTXQ4Wk9LeG1GZHVWdzVtRGxMbVJNLUYtTWtoMFdRc3ZtOEdfX1IzSUxCMHZZRlNJNE5vSHlaVmhIXzZnMVM4X2Y3RkJtYmRvTmdUc0pvTQ?oc=5"
     },
     {
-      "title": "“기금형 퇴직연금, 증시부양 수단 안될 말”",
-      "published": "2026-10-29 00:02",
-      "source_link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5sNG9ld29QNERuaHBEbjFLYy1vTVB0UjFrWThMYkY2dGJXLVVuWDA1bzAyX2VhU1RfSlhBMHZQdUQyR2c1ZjRBNjd2VWVjb2o3d1Z6cmx3?oc=5"
+      "title": "국내 첫 수산식품수출단지 목포에 문 연다",
+      "published": "2026-10-29 11:28",
+      "source_link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE92eWxGYnVyY3hBa21na1dvblI3eWZhVkdVTHBiVHQzX2pqTVpaalYweE82VDQydHoyWUljOVVnaWVaSHVMVmw2SmVreEljTkhlWC10VjZWYVdQTmMzbFYySG5hakhmanY0R3JkT9IBcEFVX3lxTE1wbGxfNkRLSlRmT0pnVkVBd2h1aVB2bHVOVG8zb0s3eWlxdHpKVHpKWkZuQjN3VjE5TVJibmZDemlHQ1dDb09zWEhNVFJ6ZEdrQ0MzalAxVWowTHJRZzdNOWdYUVlhc2JJbE8zSTFSQzY?oc=5"
     },
     {
-      "title": "[아주경제 와이드 사설] 애플도 거절당하는 반도체 시대, 한국은 무엇으로 승부할 것인가",
-      "published": "2026-10-28 17:31",
-      "source_link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9TWUx5TF9hb2pXdnh5Y21rZmJZbGhsU0ItcW11ZXpwMW5VTks0TFVzd1ZQSkZUYVFRU0lUVUJ2X1ZCWlltbEpVY0ZlSUlGTmNfYTJybXlDV2_SAVhBVV95cUxPU1lMeUxfYW9qV3Z4eWNta2ZiWWxobFNCLXFtdWV6cDFuVU5LNExVc3dWUEpGVGFRUVNJVFVCdl9WQlpZbWxKVWNGZUlJRk5jX2Eycm15Q1dv?oc=5"
+      "title": "대한민국 대중문화예술상, 신해철·유재석 등 문화훈장 수여",
+      "published": "2026-10-29 09:40",
+      "source_link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9mUjNSMW9kVU1fX3ZOQTFpZ3VYV2thUVNnbjFsRGVtX29aXzB3ZWdOZndrcFNqY18zeXd0UEtsZl9zRURxMXQ4T25uV0JpeExhQ095TnFHXzDSAVhBVV95cUxPZlIzUjFvZFVNX192TkExaWd1WFdrYVFTZ24xbERlbV9vWl8wd2VnTmZ3a3BTamNfM3l3dFBLbGZfc0VEcTF0OE9ubldCaXhMYUNPeU5xR18w?oc=5"
     },
     {
-      "title": "문신학 경제수석 “한국 전력망 이미 세계적 수준”",
-      "published": "2026-10-28 16:07",
-      "source_link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBfdzFEaHktUVcwZWxoZkhyUGs5a0x4LWM0SVViaUxwTXFsUS01cjkzUk1zZG9aeXpBaTdPRkNsQmJ5UTlkN2hLTVN5X3phQ29JdExqTnZFVDcyUDNXZnk0SnQwS0JtNkNrNTZac3dn?oc=5"
+      "title": "혹시나 했더니 역시나 …'잘 먹고 갑니다' 19조 던진 외국인",
+      "published": "2026-10-30 06:29",
+      "source_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBaMnBrV0dQTUwwajFtT0pnXzhELWlOVHVzQ1JqM1lid3huSXZ3ZW5TellwVHJtM3I1eV83RVZZM1BqelJsM0tiOEVCZERZZGx0V2E5aHNSb3Z2QQ?oc=5"
     },
     {
-      "title": "3분기 한국 경제 1.0% 성장…설비투자·정부소비가 성장 견인",
-      "published": "2026-10-28 12:07",
-      "source_link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1kbjlQX0JhNDhreDhNTTBPeTJQcWhHaUlFcVlGeUdSMUZxMEFkSkl6QWlzcUxGelpuTDFUdjhYUGZnRjI1SFpYQnpOSkNYbWZHMVRGdEE2Q3B3SXYtNzFXZzB0SWhTNmFDcHZpLTRB?oc=5"
+      "title": "[재정 골든타임] ② 반도체 걷어낸 韓 경제의 민낯…수출 절반·법인세 2배가 '칩'",
+      "published": "2026-10-29 16:20",
+      "source_link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1zZHJ6Z3ZwWEQ1enJqdmVOU2U2U1N4VUJCNEV5NWo1cmRBa1ZXSzhlTXg4ZS0xUFhyR3lSbDc1cU14R3RYQmZudXh1TGhjMVQxRXFtQ1ZyRkp0ZVBU?oc=5"
     },
     {
-      "title": "3분기 한국 경제 1% '깜짝 성장'…반도체 호황에도 민간소비 감소",
-      "published": "2026-10-28 10:24",
-      "source_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9QN1REMHlhTkFOdjNPM05Qb1pKX1JGb2haYm80U2h4YVhkWmZUQVYxWFJEalBpWXY3NTN6Z0s1aWw0MW9vdE9xbjJUaFVRanRjV2hYWHY5QV9XdGFZWDVubm5UaHdKZFZHUnc?oc=5"
+      "title": "美 금리동결에 韓 F4회의…이형일 “영향 살피고 필요시 신속 대응”",
+      "published": "2026-10-29 16:20",
+      "source_link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1oLWt1LVlpUm5TbjE4Zk9XM3pCVDA1dGd2YnRJUWhHRnpwUU00TldSbThKc1J6OGdrSGRCSVoyM1JjbzUwNk1CeDBCVGJSN0g1V0E?oc=5"
     },
     {
-      "title": "반도체가 끌어올린 1% 성장…소비·고용은 뒷걸음",
-      "published": "2026-10-28 18:37",
-      "source_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBfUzJaY0gtTlBHc2M5TzR4X09YemVWLXo3eFNDTFB6TmpnQUFPU1JuRU9KVHhTem1vMlh5TGZMcWQ2TGUzM2lWWmRlanEtX3p1bWF0Z3lCeU9aRUllVDM4dGxaeWpyTVA0TDlB0gFvQVVfeXFMTTMxX3dCVU9jbDhxZGs0UW9pVXRlazhkc1RrX055aExJY2RTcDQxbHdoYXZfcGJZWXJHOVd4amt6NUdIdEtwbnhVX3cwbWVObE9tS3diYTJiSWhOcHF6LXdnVmtBZTZrbDE4MnhyTDlF?oc=5"
+      "title": "“변화무쌍, 고장난명”…전문가 35인이 본 ‘2027 한국경제 대전망’",
+      "published": "2026-10-29 16:30",
+      "source_link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5VM0lOV09MMUVCcS1weGVmcExXNmhLbTZfYTRULUgtYXQ1alRHVVNzMHhEeGFGakdvcUR2OHhXM2p1eXFxRXZ0WjRPZ29OdkNjZUxGY0xXZXFXOVNxS042QWtB?oc=5"
     },
     {
-      "title": "워시 연준 의장 \"한국 경제 예상보다 면밀히 주시…AI 핵심 부품 공급국\"",
-      "published": "2026-10-29 04:13",
-      "source_link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ZREJXMHdnMXdBX1pmdnNNN0ZVY2VtZ05RTURRZHFWUVNrclg0bllEX2ZSSE9hU1BDT0R3QzBuenN6OWFOUnA5LTdJX1F5VXZYN2pzaGVudElDb2V0NllGY01TWXlpR1k?oc=5"
+      "title": "이형일 \"취약차주 추가대책 마련…11월 국채 물량 신중히 검토\"",
+      "published": "2026-10-29 09:56",
+      "source_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9XMzBjMHdCMTRFbzVVd1lMVjFyUEZsdktpZmRvTHJFOUp5ai1hZ2ZlUDlXMmc3Vk9pRUxLRU5mbGVHb1l3dFU2QUJaaGdPdzNRYVBURm1BRFdKQTFUaU43bNIBYEFVX3lxTE9XMzBjMHdCMTRFbzVVd1lMVjFyUEZsdktpZmRvTHJFOUp5ai1hZ2ZlUDlXMmc3Vk9pRUxLRU5mbGVHb1l3dFU2QUJaaGdPdzNRYVBURm1BRFdKQTFUaU43bA?oc=5"
     },
     {
-      "title": "‘탄소중립 청구서 840조 원’... 韓 경제성장 둔화·물가 상승 우려",
-      "published": "2026-10-28 12:49",
-      "source_link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9XenRXV05abUhRRVVsZ0ZUTktYY29UZ1l1ejEtaFFZSlJUbGlxVE5hcnRIME1GbHRPVjJJUzFMMnZobjh4V3dDa05OVkRRSnhVQ1YtRlBMaXlibkRuWTFvMVZaWXVUVm1RcngzclF1OERKb1k?oc=5"
+      "title": "[무지개문을 넘어] 주식천재 국민연금이 평가액 182조 마이너스 기록한 이유",
+      "published": "2026-10-29 22:26",
+      "source_link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB6QUU5UzlEb2lNTHVPc1lqSk9xbjdXLWNSLUIzY2hUVWJhT3lmY19RMVZIZlhlUHNxcHE1dm5sN3U3TmZhbkFEdWFnTnU3VlFKVi1adlhfaGE5ZFpfaWhuV3NQcW1VdVFsN0R5d0ZxM3FKQ0kxbHfSAXZBVV95cUxQekFFOVM5RG9pTUx1T3NZakpPcW43Vy1jUi1CM2NoVFViYU95ZmNfUTFWSGZYZVBzcXBxNXZubDd1N05mYW5BRHVhZ051N1ZRSlYtWnZYX2hhOWRaX2lobldzUHFtVXVRbDdEeXdGcTNxSkNJMWx3?oc=5"
     },
     {
-      "title": "한국 경제의 깜짝 성장과 전망 상향",
-      "published": "2026-10-28 19:36",
-      "source_link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBQeTJtWmlhczFSclJnOXdkMmxHNTYwSnF1Um9HSDhDQ0FaOGVuek54Zk52UUxiRVNXSFc1QXRmTUhwcFlCOHhlNkRZRXU5RlVGOFNSOXpNdzVjczVsY2kwZmtXOUc3T2hTZ2tpOQ?oc=5"
+      "title": "미 연준 의장 “한국 경제 각별한 관심”···“유능하고 좋은 친구” 신현송과 인연도 강조",
+      "published": "2026-10-29 14:35",
+      "source_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5IZ01ldWdJTEVyWWlDdWNFc1ZYdUJPUk5FU3Jjci1vMy1VYVB2Y1pIbXhpdmxPQUhrT1FMWVZlZ2NkNm5WaHpPTzV4NGFlMERTUjVCcmh3U3E2Z9IBX0FVX3lxTE00X1p5WGI4YVppNzYycUJpdUtXREFYUGt3VjdNLU8xNVYybnJoYWk4LWVDOG5WVnZDZmhqLWUwengxbEQxRUxGYmVSNm9xelh5YmJlWVE0Y3BVSVVmbmsw?oc=5"
     },
     {
-      "title": "한국석유공사, 산학연 공동협력 플랫폼 업무협약 체결 - 울산매일",
-      "published": "2026-10-28 15:15",
-      "source_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ZVHpLLW51SU1oUXJ1ZFBydWhadTdiTmcwV0U0T2x2eGljWnhkQlY0SFRPaWFzSW1jX29LMTNFQUJwd3NjbWxVQTUzbHh6Nk5qZ05QbDJTYXJfN1NlX1BVYlBjN2Nhb25RaFHSAW5BVV95cUxNX2JHeTAyZjlTV3d3Z0xaWVo4bU1XWE40elFpajlxVjNxQXlhVXBKT091WVBQdF9oQVZwTWR0ajFBQUEzbzJfVl9VRmhkN00wQ2drVHR2eU82bG4tSUNyQlNZQWhlU3hwalNXZ3huUQ?oc=5"
+      "title": "치폴레 국내 2호점 '강남신세계점' 성황리 오픈",
+      "published": "2026-10-30 08:48",
+      "source_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUQk84aGhoZzNjTGpUaEpuYVU4ZDNla1JxM3FpMDZQRU1GLWFZc0ZsODdab3hwV1J1ejI0Z1dEQUQ2VGYyS3p5N1hYTE0yREVkYkJOVDdRMzFHdw?oc=5"
     },
     {
-      "title": "이형일 부총리 \"대한민국 미래 성장 위해 과학기술 정책과 경제산업 정책 역량 결집할 것\"",
-      "published": "2026-10-28 10:12",
-      "source_link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPN2x1N0tPNXB0ZmRXOHp1ZVdZaTRFSGlzTzB4endtUE5xMG5ldHpRZS1mUDVJSERVZ3VZQkdHRFpfaDE4UWszT1V6eVp1dWU1bFVMX1RWMjZyM09iUlVYdTdEVkhWOE43bWd6X1dnMFktV1JmcGlpd2Jpbl9hYngzOVZYZ2Roc0ItS0JqSmdR?oc=5"
+      "title": "워시가 주시한 韓반도체…미국 금리의 단서",
+      "published": "2026-10-29 13:07",
+      "source_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5aNnpXQ2hEdXFuU3M4bzl6V1hWNzU5YllwT0YydlJmUVdmWEtTLWtjQlk4TkdoYVN6RzQzenRrcGtVTktMTC1TZGRrNS1QZFVyYk9rN0lHdVNqck51NVJJaDdYR2ZIVUZGNGc?oc=5"
     },
     {
-      "title": "[포토] 국내 반도체주 급등, 코스피·코스닥 동시 상승 마감",
-      "published": "2026-10-28 16:56",
-      "source_link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0tTGtVYlFRWEREYmdrczU2UnNzODN6U3REYWpGT19vWkJyajJvYWNZN2pRd3d5V1pxUXBBWC1kY3N1TUVETUdGWWlfUi1zNFFGWU5tc2ljd27SAVhBVV95cUxNLUxrVWJRUVhERGJna3M1NlJzczgzelN0RGFqRk9fb1pCcmoyb2FjWTdqUXd3eVdacVFwQVgtZGNzdU1FRE1HRllpX1ItczRRRllObXNpY3du?oc=5"
+      "title": "삼성전자 \"내년 HBM 물량 완판\" [콘퍼런스콜 전문]",
+      "published": "2026-10-29 12:26",
+      "source_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1EcXlYeGNURjNRR2d6MUxDX2VJa2J2Y3JVNzZ5NjZzM2Q2SkM2R1BPSFRaR1BvLVdZT2czNU9MQmx6X1pQQmlSUzN2cGNpNGplMThnckltQ2FXdw?oc=5"
     },
     {
-      "title": "수성구, ‘2026 대한민국 SNS 대상’ 수상",
-      "published": "2026-10-28 12:00",
-      "source_link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1tSnJibnhOaTh6Zi1KSWZEQW50clp2LXR4enB2aW5aVHF1TVBSZWhBMVNSeEx4blNqM1pZYUxxYWR3Tk9xSjJPeUlkck9Kd0Rzb05EMmVKY3otTlJ3NHg5UDR5bEtBbDZKWXFuTWlOUQ?oc=5"
+      "title": "경제금융수장들 \"美 중간선거 불확실성 선제적 점검...금융시장 변동성 확대시 즉각 대응\"",
+      "published": "2026-10-29 11:16",
+      "source_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8ySGRmWG1pQThqc3pCM0NXZUZObERwQjdUdzBYUFBOZkFkbU91NGZ3UlljTjZTSGtZbldjaE16eXNkNjM3VFJBWlQwVmtiUDlJTGM1UmFqdDZRR3hVN3dQNHNWNFR6UXpaUmNn?oc=5"
     },
     {
-      "title": "이 대통령 ‘외국인노동자 경제에 크게 도움 안 돼’ 발언 논란…전문가들 “맥락 고려해도 정당화 안돼”",
-      "published": "2026-10-28 15:50",
-      "source_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5maGd6STdZZ28tNU43MEJmaDdVTEFjXzFkY0J5UkpLY2lqeEZXZ0hfVThZck15bGt3T0ZxeEwxeTR1Z0Z5OWZaajZhMGFFbG54THFhQ0NfajdQZ9IBX0FVX3lxTE5td0hERDA4Uks2RzlKMDJ5RTB5aTFRSFRpV3JOMlRudzVDLXlxejU4c28tTDcxZHpuNzlRMzdnc3lteGNxYUVvRTVuVjYwZ2NDQVlHUkpINl9LQ25IVzY0?oc=5"
+      "title": "미국 연준, 금리 동결하며 '숨 고르기'...케빈 워시 연준 의장 \"한국 경제에 많은 관심\"",
+      "published": "2026-10-29 09:35",
+      "source_link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE51REhoU05kWUpBYjNhdUxxOUxRbnR2N2diTGVkeWxiLUROck81X2Vub01BZ2ZNWldNbV9ETGhTTHNwRkVTcGZnUTBMbnVYMi01ajRCNThWQm1pQWhwdnc?oc=5"
     },
     {
-      "title": "이재명 대통령, 외국인 노동자 발언 해명",
-      "published": "2026-10-28 13:04",
-      "source_link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1SbjFSeUZyanpuSTVGR1VSRGdwazQxTHdveHhJd3ROZkdHSDVqeUZKdUY1ZDlWNnJNbzJ2RWRkaXR0ZEt3Tlp3UjktUWtnLTFtZU1BcjhEeFZqdURUT1RfU3lvM0hRNkk?oc=5"
+      "title": "다음 달 추가 금리 인상할까···반도체 호황·물가 변수",
+      "published": "2026-10-29 09:39",
+      "source_link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0xVnlpOHdBeUZ2TFVsVWpUS2Z5OGl4NTFkXzRhSHJZWk9BNkRZUWF1TDhLQlN2ZURnZ2VJRzBkTDd2dE0xdmNyUDVEQVZnQm1CWWhReDk2V2lvUjR5NTNQc3p3MWMyamU3V1FZNw?oc=5"
     },
     {
-      "title": "요소수·주사기 매점매석 금지 종료…\"국내 수급상황 안정세\"",
-      "published": "2026-10-28 10:00",
-      "source_link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1LY05nczZzZEl3TDd4eGlnMWEtbjAyMDZ2YVptQ2ZRdGFDRkNOeWVQWFZQN0RkdFNzYXlFd2lteV9RaHBNRXZ6ZmJFVmZtemFBZHFSMDNqb3JEXzFXdEp6UGpmb2tYUkViLVZDUm5ZQWc?oc=5"
+      "title": "기업 AI 혁신 가로막는 건 기술 아닌 조직…7대 실패 유형은?",
+      "published": "2026-10-29 14:53",
+      "source_link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBWUjVULW1yNWRWZTgzZWVwYU9nUVhZVDdBQnNfaXZtMjVHTzU1V3hLcWlMRW5TZGdWc1Ywal9kRVoyQnNLWFNHajc5bjNidWNsVlFoZEpQV0lZTTlZUlR6UkpZUnVnRjRWZjdGNA?oc=5"
     },
     {
-      "title": "외국인 취업자 110만 명 시대…해외 송금이 경제 기여의 잣대인가",
-      "published": "2026-10-28 12:10",
-      "source_link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0tcTZBMHNpN1RsUUxVeS15Y3cyTld4YUhJRkU5ekRaUGYzbG03NUtLLTcxNHFndnFMWlNNS0kwVUZ0VHZMbkRmeWxzXzNpbUc5M1kzWC13?oc=5"
+      "title": "이형일 \"금리 상승기, 취약차주 추가대책 마련할 것\"",
+      "published": "2026-10-29 15:29",
+      "source_link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5rUjQ2Q1Qzc0tCdTN0Ykdlc2dWZjEzRGlUQnhQcHA4ZnZTMFRGSEM0SjFzYzNqRmJZdGpydWY3YXljcXAtQXZGZUd5cERsX0JiUk5YRmk4NDFSQS1mWnY1YllqbEd1TExqMUhWSWNvQkJSZzY2?oc=5"
     },
     {
-      "title": "한국 경제는 인공지능(AI) 붐 덕분에 예상보다 빠르게 성장하고 있다.",
-      "published": "2026-10-28 11:41",
-      "source_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMjBTUG96MVZOUm1JVWNpVFhCV05PWEFLWHp0Sll6aHlyNG1idnVoYW9RRHFJSGxmeDVpd1h5d19McGZVUXpaekQtRWlKZzR3bTFNZy1SN2pmMXNIajlXQXo0QWVzMWhfandXQzBKSXV3ZVhZemNXcWhGTmZNY3pGaXRsTUVvMGtS?oc=5"
+      "title": "[데일리 경제 분석] (10월 29일) AI 메모리의 기록적 이익, 기업심리를 깨우고 금융·에너지의 지도를 넓히다",
+      "published": "2026-10-29 20:21",
+      "source_link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5kTFIzaGFJbzlPZWd6OGVGVUxuQUF5bG5naDFNQktWZGRxZmVlWmtzMHdKWlNob1dwMWpENFpCMjBLaUoyZE1WTk02cldEam96bHkzazVJMENUS1FoNmUwNVdzX2JfamFhTHlDWUdB?oc=5"
     },
     {
-      "title": "코인과세 추가 유예 기대감에...국내 거래 57% 급증",
-      "published": "2026-10-29 05:50",
-      "source_link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5XS1NmX0p0NEJVc2VVTjRfalczWUNTakZFT2gzWS1TNk9oZlplNjU2NmplbmUxclRveHpJb1ZWaVJFY1U3cmdiSTd3dTJLWDNrNlHSAVNBVV95cUxNTUZ2a01wbkZ1NDJkaHBHMnZWeVBrUFF1X1kyb1VmSmE0U0JDWExUNGM1a2FTcU1ab3RsbmNvZG51WW03VGZtRHhsQ0hWUmJHcnhBVQ?oc=5"
+      "title": "독일과 '하이테크 파트너십' 추진…에너지 협력도 강화",
+      "published": "2026-10-29 18:46",
+      "source_link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBLRVRvNGRGN083TnJoakIwX0tIb0NReERHWkkwcVFJdVpENnZrb1YwSC1sam1ieGFaT0dvZzMxcFpSMlpncVI2VGVHTU5zZG1ndEI2R0pSUkY2dzBoQkhXQTRwWXZTN3pnaHFDVjBsTmZzMXBn?oc=5"
     },
     {
-      "title": "이 대통령 \"국내 경제에 도움 되는 내국인 고용 늘려야\"",
-      "published": "2026-10-28 10:36",
-      "source_link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4zd2o0Z2M0X2VrRjVPYzY0X3o1WmlqbEJqTlpMNUZFM180STZHWTdERl9GMEUtQkdLUFNVVWFBbFhHUUhZYVMzTXBfTWViTThEUEFfMm1OQWtqbE5nNUxQRVhoVnZtZm91c1VlUXVB?oc=5"
+      "title": "한·독일, 이중과세방지협정 개정의정서 서명…조세회피 방지 및 경제협력 강화",
+      "published": "2026-10-29 21:23",
+      "source_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1nRUdFRXF6NTVvc09XcDczNUFXNXFlM0l3azdQN0RBWEdLeDFhS0FPb2I4OFBSQ3hrNWhYQ25QZUphU1k5cUJFeDRvbHVMVi16M3VxYVVhX0hfdXprREk3MTFuOTk?oc=5"
     },
     {
-      "title": "빗썸·대신증권·미래에셋운용 뚫렸다…금융권 '보안 참사' [종합]",
-      "published": "2026-10-28 10:32",
-      "source_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE82Qjg3SzAwbWFtRmN0eExyTE1NVS1NbUFseTFjTkMyNUJxZFRldDZ4c0lYZm5FUmlKclpwVEJGYnI0NXU0V2RmVXRSNXgzNFQyRS1GcUdxVGxXdw?oc=5"
+      "title": "'청년AI성장권' 다시 띄운 서울시…야간경제·주거안정도 '박차'(종합)",
+      "published": "2026-10-29 12:07",
+      "source_link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBuSllqeVhHdi1DWTlDdEZCMHFKSmY3bHlBbTJCVFV2cmEzN280dHVtN0xMM2pBVHBGVmdma0c1V0ZQNDJNeFl3b0FvbTlnQy1CQWRLcDdtS3h1b19PX1FDNXlWMGdYZnl5MEZ3NlR3YXlveGFv?oc=5"
     },
     {
-      "title": "[마켓리서치] 2027년 국내 AI 시장 10조원 돌파 전망…기업용 ICT 시장 44조 원 시대 진입",
-      "published": "2026-10-28 11:31",
-      "source_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1lS24zWjZlUHo2c0xGVkh5MlNqQk5UNktKMUVfa2ZYNlRJRDZvdkZ5U29uUDhRVmJMbl9UcURRZ1Q0RWZkUkctSk9KRkRQZU5qbHRoVDFkWGdvWGk5VWQzVXZzYmpEaHpwT0E?oc=5"
+      "title": "이형일, 녹색성장서밋에서 \"기후위기 대응과 경제성장 선순환\"",
+      "published": "2026-10-29 15:00",
+      "source_link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1SNk5YWTNFWDZMRy1LaGprSkdhMHZDcXRTZDc0V19INU5jWHEyaDNTLVpOY2lmM2hTeXRfbmREbjhBTUw5Qzk1NEtpNWZkUjNUYVlNMW5MTG53YzZrc2tCcWhwNllvdmZucE9pcXZsZUlkQWU4?oc=5"
     },
     {
-      "title": "[단독] 한국 채권 ‘신흥국’ 꼬리표 뗀다…블룸버그채권지수, 선진국 승격 추진",
-      "published": "2026-10-28 11:18",
-      "source_link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBZSUZqQ2Itd0tpdkZ0R3gyLUZxVGkwYmJPRXN5dV9LUWlUeEY3UlpKaTRxdTByNVZIYkdEbWhIZ0xrUEpyMFM4UFQ2QS02YjFvM0p0eg?oc=5"
+      "title": "뉴스플러스",
+      "published": "2026-10-29 17:29",
+      "source_link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUklpclZ5UlJ1QThiWG5GQW4tbVZMcTgyMV9kaWtoQ3FxckJaZkFWbjNtRFJFZURCbzNRY0x3N2g5dF9qcmJqUmh4NDZ3Z0U1azF2M1dOTWZYYnpFWDFuVzJXXzd2anRrTW9vUkpzZmJSRXpUaERDVDVyTFdGdW9zYjJUZS05Z1N5aWVLZkVmb2VieGxWemJRSzJfTHVSdjdMdnZn?oc=5"
     },
     {
-      "title": "민주노총, 李대통령 이주노동자 발언 비판…차별적 언사 사과해야",
-      "published": "2026-10-28 21:20",
-      "source_link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5BMU9saGduYlBQTE1Fd0ZhMU5ieEthWS1XUlkybGJ1SjdkS1hBZUd3ZFlFSEVDVVMxNEs0a3Rsa3dJM3M1bThEUEpXY1U5RWVVMW9sNEE2bi3SAVhBVV95cUxOQTFPbGhnbmJQUExNRXdGYTFOYnhLYVktV1JZMmxidUo3ZEtYQWVHd2RZRUhFQ1VTMTRLNGt0bGt3STNzNW04RFBKV2NVOUVlVTFvbDRBNm4t?oc=5"
+      "title": "[노성열의 AI경제] 세계의 천재들이 찾아오는 ′쿨 랩 대한민국′ 만들려면",
+      "published": "2026-10-29 11:29",
+      "source_link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9UbVpJX05LakJSV1FXVnNxSTNydjlVa3ZuazVpNTFSV2U5TUh6Qm9MNFladHc2S1F1MndNd3Fvc0Q1a2xKX3hXek95M3FySlc4QjI40gFTQVVfeXFMT1RtWklfTktqQlJXUVdWc3FJM3J2OVVrdm5rNWk1MVJXZTlNSHpCb0w0WVp0dzZLUXUyd013cW9zRDVrbEpfeFd6T3kzcXJKVzhCMjg?oc=5"
     },
     {
-      "title": "이 대통령 “외국인 노동자, 국가 경제에 ‘크게’ 도움 안돼”",
-      "published": "2026-10-28 09:51",
-      "source_link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ycElXdDZES2dwZ0EyVVJfSk85U1E5aEptbnh3S2kwbGtBSjloQlh4TjgyMWpFdjNLWU1zWk5XdUdVV24yOGxSVk5zc2xFQ1l6WUtCMzVlWkRaQzZxOFB5RTRKdkZMQ0JmY1dkOUROTDE?oc=5"
+      "title": "김임옥 양천구의원, ‘지역경제 활성화’ 주력",
+      "published": "2026-10-29 11:10",
+      "source_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBsc1lRZy1pQmszOUFMMFdaVUFXbXd5SlFIMkd3cGxZeVl3WXA4cXdIc0s2WU5OTzNTYmVacVhvMGl6UGZwejVkMTJYam1xckl4Xy0yYmFOTmh5S09LODNIeXlVTURSV3hjakHSAWxBVV95cUxOUHhpZHR4LUgyaTd3Y3IxS0J0MVJtbEdjaG40TDhVd0xHT3hxUk5qV0FOeVk0bnBZM3hBaFNyWXN1T2dGZjIzWTJHQVlOMUZwYzBzQ1k4ajBpWDZtUHBWN0xHeHdPa2tFbmo3UXU?oc=5"
     },
     {
-      "title": "“국내 조직 4명 중 3명 개인 계정으로 섀도우 AI 사용”",
-      "published": "2026-10-28 14:52",
-      "source_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5qeGV4bWN6WTlPZkhtZEJ0SmhkYlhmZXhheWVfeXBzWnhGYndxdjFNSndkajlBTFRseTFyXzJreU8yQW5UMVFOcHFVeGhJRU1NaDNRV1RKckhWcm1JenFPcFhRU001enBpZEE?oc=5"
+      "title": "AI 해킹 판치는데…국내 기업 97% “보안인력 부족” [서경 금융전략포럼]",
+      "published": "2026-10-29 17:42",
+      "source_link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1BZUJXZWpxYjJCM2FkQjVWRy1pVkNrV01wRjdYenlzTEhDZUZtUUMzcUUtOVl5TEdlQ1NhZ19XazBQcmMxWUZrRG1sNG9ENERoVUHSAVNBVV95cUxQTXFxMndSZS1EcWJtWXh1YzVuNnJiR0VUekxSdjhWLW9NSl8tYTN1OV9vdVZEaVRQVW90UTJZZXVFM045eE1IMkZWZ1RxNnEyVWpFcw?oc=5"
     },
     {
-      "title": "한국조폐공사, 2년 연속 독서경영 우수 직장 선정",
-      "published": "2026-10-28 21:41",
-      "source_link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9XZlktNXJGX1NtY09kZTBnM3VmNzd4b1VIU2hzc0hOYUVQaTFmeGFMeEY1NjBlbDhhcUhkUVZEOTZCaUFmU2VMb3lwR0RUZnZicndvd0lLd3dzUVpxSUlQNzcwZVpKT0h3d0U1cNIBcEFVX3lxTE5VdXhRNjlHWHY2U3ctSzNoMXpDWDBpWVdxMXRLdUdwVTlweGtnNWZzMjNHQWRPT3dLRE5zRTRYRUROdW0wVHMwa1F3REJVZlNCRExQc1ZwdFNpSDA5dEFHT2NYcHEzRWgwOHhoNV9PUlk?oc=5"
+      "title": "한국수입협회, 크로아티아와 공급처 발굴·교역 확대 논의",
+      "published": "2026-10-29 10:39",
+      "source_link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9jbE1iS1dYeUJoc3VNd0Z0TDZlenJYQ1E5bldhSDVxV3NEcEwtWl9Jb0VOWmljRnVEXzV3WWd4NFAyWmpacDBVMFk1T2F2M0VaZVJlbXhBUlBOcEk?oc=5"
     },
     {
-      "title": "한국필립모리스, 일상 속 친환경 실천 앞장",
-      "published": "2026-10-28 11:39",
-      "source_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9aWmQ4c0NBcVd3SVRZRTVJLUJJYUhjb3J5eURILTNJWXU0aHFQZWd4TGk5ejdPRl9SdVdZYVl2OHpSNDR1ekt3MGJNQXE4amFDVHlhU09EUHJnQlNNRFZIc3FCbm4zWjh1cWfSAW5BVV95cUxNQ0JfMm44R2ppc25OaXQ2eXlMR1Z6ZWhYZzlMT19MRExzbEtSOFMxcjV6NGhYU3JMSi1XYzlheXVDVDl2aGJzZC1iT2xKR3JYRTJkd28waFVGeWljS19uMGRxdnVyZ1dfZmpMQUV5UQ?oc=5"
+      "title": "[배병만의 눈]190조 영광의 K-반도체, '초격차 전략'의 정교한 퍼즐을 맞춰라",
+      "published": "2026-10-29 14:33",
+      "source_link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2UzhZMXJqaTYzaTNPc3Qwcl9aTjIwcU4wQjVkOHpLOHlwaS1SMEROQkJ5ejRsbUFfdkF3aDFnbXdvMkZlanF6X2xiejdaUnFNTU9DbnI1MHdwOXVORUcwQ3hWMUJSVUFEUmZObG5vQ3hDbEY3U0hHT2owekY2YXM?oc=5"
     },
     {
-      "title": "한전KDN, 국내 에너지기업 최초 '레드햇 APAC 이노베이션 어워드' 수상",
-      "published": "2026-10-28 12:31",
-      "source_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1aZnczTTZSU0xhZ2pUS2NFR2xBRk5zWVN6VVA0Uld5UndPVzRyZWZCQWVuSmxVenAxelFwZ3lHdlVOdUNSXzg0NVA1OWNyU096aTROOTYybUJlRVV2R0hWaEc4MzF4aVZ4?oc=5"
+      "title": "경유 수출제한 7개월여 만에 완화… 국내 공급 안정이 조건",
+      "published": "2026-10-29 10:00",
+      "source_link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBuMXducE8tS3YyZ3VjSWsyd09TREUzdDlaV0pMMnJxM1hUVXhYbG5EZEtWYlJwLVZkQTl1eDNRSjRIMkFZM2pXNkh3NW9pWW0td3JneXh6TWV6ei0wbkUwNEV5aEJCN3lTWTg3QXJR0gFzQVVfeXFMTW5ZV2JXS2VJZFZYcWppSjVNSmhQX2pLT3RIWl9KblF0YUNNdzR3NXRlaDA1RzEwcGRkSUVYZW5xSmxyVGlLV2N4SlllVzA1SXlqcklvdmxSREJORkFFMm9zTDI2d1hQeUdYT0lRTzBPSEY1VQ?oc=5"
     },
     {
-      "title": "인천대 마스코트 ‘횃불이’, 대한민국 캐릭터 어워즈 ‘대상’",
-      "published": "2026-10-28 15:28",
-      "source_link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBfU2JWN1UxSnZQdnh5aV9IczJ0VDlOT2pEMEFmR2t4X003YTYtcTBBZHFqNUQ4Zlh4TjlydVZFdFI0RTJwWXBiOFhUdkZ1U29oblZVLURB?oc=5"
+      "title": "한국가스공사, iM뱅크와 손잡고 대구 지역 경제 활력 ‘UP’",
+      "published": "2026-10-29 15:43",
+      "source_link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0zb3gwb2xTQlBYNjBlMFRxS3cxRml4TzBFOWhVemxmRDNoNVlKcUQwM3JmUWVQdnM2R043TjhnWHduZmJhcWZBNGlFNjlhWVl6V0Y2alpBNDlRUmZCU0t3cngtZFgzNkE0aVRkWkxRMUd2cUk?oc=5"
     },
     {
-      "title": "[종합] 李대통령, SNS 통해 언론 보도에 불만…사실 왜곡",
-      "published": "2026-10-28 10:18",
-      "source_link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5mcGRrVThBZDBwUmpGRXR6VzFhc2xXQTA4YXZOeG4wTFh4TWM4R3RORlBnMHFsNHFuenhwMTlnSnFFZ2oxS0hhSGwxc3lIZDhSeVlBanRVam7SAVhBVV95cUxOZnBka1U4QWQwcFJqRkV0elcxYXNsV0EwOGF2TnhuMExYeE1jOEd0TkZQZzBxbDRxbnp4cDE5Z0pxRWdqMUtIYUhsMXN5SGQ4UnlZQWp0VWpu?oc=5"
+      "title": "해양수산부, 국내 첫 수산식품수출단지, 목포에 문 연다",
+      "published": "2026-10-29 19:50",
+      "source_link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBheUNmclFfc3hSMjdBcFd5aGhWejlLYzdtb3JRT2JibVJQUHFDQTNCYV9GTVRiQ2NraHN6SVJaemNQMGpmUFQ5SGkwYm55cnM3SEZidmNkNzVILXJIbGFHb09IZ0F6SFQtV3A2ag?oc=5"
     },
     {
-      "title": "이재명 대통령 외국인 노동자 “국가 경제에 (크게) 도움 안 돼” 발언 사과 요구 확산",
-      "published": "2026-10-28 20:57",
-      "source_link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9tSDd5XzBsYVRXUTFDdnFqLW1PUHQ0ajRxSVNYdDRTLWNYck54RDFrUlZRSWxRbHcteU1UTWxSdGZXNHExYTVKS0pUd05ucEhmd3gza3Bnc2IwN3IyNE1qTWszY0FOeDVfaUtEYtIBcEFVX3lxTFB3dnZaY0RPcFV1b2hUNXctazVmNGJHdXZ3XzRWUWZEajNFRXJUNWtvRVJZcXhPMXVCWm1SVXh1dmxUbHlWbVJRZXJkWkxxbW1Ta1VBQTJjZFZMUDZzN3VfVV9MVzhEWWxveHdXbnhzQWw?oc=5"
+      "title": "[이슈국감] 임광현 “대체불가 대한민국 원년”…AI·지역 성장에 방점",
+      "published": "2026-10-29 15:04",
+      "source_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9OajI5TURYOTF2SkY4RzRCdG02Z1Y0YnZYN0NLTlBZVWZfbE95U1ZEOFEyMkhwcHVHTWp1YlVoRkZLUlFkbE9tM0dydUU4V3ZfZ2pnVHBZMlRXU3AwU2phZ2NzbU1Yd0xoSGp30gFvQVVfeXFMUGlTS1ZuQjNHLWtBNWczLTl0a1RzT0pSOXZNbGhUZUxYS01jVlRuYlpYSVNTWHZUc19Fam1UTHFQVXl6RjViVXlQMGo1QmFoME5aNHUtNkZUVHh5a201clhIMmlUSl9haHFGSkxrOHVZ?oc=5"
     },
     {
-      "title": "이재명 대통령, 외국인 노동자 경제 기여도 두고 “크게 도움 안 돼” : 정치",
-      "published": "2026-10-28 14:51",
-      "source_link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ObWRxblZaQXJyMkcxZXZTM1doQ2lXLXptMGhtb091QjRFaTBSNVRGb1laRmdiTmpBVzVYaGpFMnpWU2pBMXpjWkhfSQ?oc=5"
+      "title": "수입협회, 크로아티아 경제장관과 회동···유럽 공급망 다변화 모색",
+      "published": "2026-10-29 13:55",
+      "source_link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9xS2FmTDJ3VHA4SGhoU1BWa2ZHZGpkVnZaaFlmMDZPU0JXZ1dBSzMtTlpsWnZ2LTN3ZEpsOGNSNmxfd1Z3UVd3VFpMajRNZzNQS2xJbXRTRzJCc1BLVTA4WXFOcjAxMEZnUzlocGY0Q3hrQdIBdEFVX3lxTE9jeFFFaHBrLWxCc3l3c1Jrc0VBa2NpUW8zS1ZNaEFma1RlRDRHejBRWUxhMDBESzlKMHI5Q2l5ck5NQ0trLXN3M3l0dUhzRTNHTnlmaEstb0s3MTBmN1pMbmNWcTBUTkllLWhVNVhOblM3OWlr?oc=5"
     },
     {
-      "title": "워시, 한국 경제 면밀히 살피며 “생각보다 큰 관심” 밝혀",
-      "published": "2026-10-29 05:27",
-      "source_link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4tREZXbjlpdmpwZlB4Ulp6TUJOcHpCOVNQVmdZWi12Z09ySkZiN0E2UlUxLVhrMVJXa3RWTXBMWXBRX0NlSERRTUdhYTFfTkJqMTA0SmxJTdIBXEFVX3lxTE9TcUVuZ0hyY0FhdDlvS2lJdmFzSUZ2VVMxMWxTWEdoMnY1WW80MlhEdjhnSGxaQVJ6S0FGQzZzX2FsYjJabjV3VDFrOGw0RHhrOXoxZFEtRlR0Q3Ji?oc=5"
+      "title": "산청군, 재난대응 안전한국훈련 실시",
+      "published": "2026-10-29 16:50",
+      "source_link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5GNFl6aTZ6czZjbEh0RjQtcFZuZEhnSEtTcU0zMmlzNGRxTG13ZkJtT3N4UVNSSkJGcDhQNXJBWGJHdldkeV95dkdrcnlPRE9rSDBlZXAxWnVMSTVnalk4cnY0cFNhRE4weDIxRlVEYw?oc=5"
     },
     {
-      "title": "대부업체부터 법무법인까지···국내 기업·기관 해킹 피해 확산",
-      "published": "2026-10-29 08:55",
-      "source_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1JS2IybkJuNWRVWm1WYnpNeUlHTlJGWU9fWEMwWkctRGw4eFpkVWpGSzB2T3lOQWVuTGp2N0hNN0NUY3JMWWlLWkMtTTE3TlJqbTdMN0tDTWZoLWc1ajBabXJtcFdud2I4dkE?oc=5"
+      "title": "靑 \"李 '외국인 노동자' 발언 핵심은 농어업 일자리 질 개선\"",
+      "published": "2026-10-29 10:09",
+      "source_link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBJTnZpQnhfd3RJWlIwU1plYk9CZW0wQWdPTk9CSXNWdy00SnkxSkxBXzBoYzI3Q3hpOWRReEowZkV4X2tPMFQxMHh6X25Gdm5WU3VkT2F1VHY1VVNqakhDekRXaVhoalllUEtxSHVXd9IBc0FVX3lxTFBJZGV5dU04Z1drR1VDa0ZOS2NLOW41MUxXV2pOSTN5aWxGbEtXMU1iVlFMLU5GVm8wWjhCcEVWX29ZWVB5b3NCX1N1ZkVFb2tma1hMaGxva24wREdjVDdBeTN4VVdaSkRCMV9RWGg4a3VUalk?oc=5"
     },
     {
-      "title": "대부업체·제약사·병원 줄줄이 해킹…해커 국내 활동 가능성",
-      "published": "2026-10-29 06:13",
-      "source_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1IVDh0bmNvdC01NkpNeTBnS1RpTzdDNF9Bb3VmQ0tSdUp2eEc4Z19mZHBnck9sa19EWWZxVkxGSndCNko4eWlNQmV5QW1LMmJQdUUtdTZxRElzUDFYTkxlbtIBYEFVX3lxTE1IVDh0bmNvdC01NkpNeTBnS1RpTzdDNF9Bb3VmQ0tSdUp2eEc4Z19mZHBnck9sa19EWWZxVkxGSndCNko4eWlNQmV5QW1LMmJQdUUtdTZxRElzUDFYTkxlbg?oc=5"
+      "title": "방사청, 에어버스와 절충교역 설명회…국내기업 공급망 진출 모색",
+      "published": "2026-10-29 13:39",
+      "source_link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE90WWhtSF9RRTRvemdtUjRRNVBFSzJyQVljSEpzSVhBb1NhQWduNXpSMnhXcUZmSGRuTEp0SVFNTTY4ckJFdlNoNHo5RjNadVJFa2c0bWlsZ0zSAVhBVV95cUxPdFlobUhfUUU0b3pnbVI0UTVQRUsyckFZY0hKc0lYQW9TYUFnbjV6UjJ4V3FGZkhkbkxKdElRTU02OHJCRXZTaDR6OUYzWnVSRWtnNG1pbGdM?oc=5"
     },
     {
-      "title": "가온전선, 美 빅테크에 1200억 배전케이블 공급…국내 기업 중 ‘최대’",
-      "published": "2026-10-29 08:27",
-      "source_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBKZ0tEVmF6SW5EYTdXNXJVOGliSGg0T1h0eXczSE16SWdKaDdKOG1LeDdtNUNHaXRtRUwyaXdud0xpS3RGYWNUUXFId1EwMU8xT0NsNkNYMGhrUmxRX2I4Vw?oc=5"
+      "title": "'서울서 5㎞' 하남·구리 등 6곳에 신규택지…7만6700호 공급",
+      "published": "2026-10-29 10:07",
+      "source_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1YMzlqTG56Uy1vNEcwaDZlTFhxZjFpY2kwZmlwYms2ZnhYd0NXcDVLQ2JCMlpmMXBMWEdFWTdEd2hHM204OGZ5UVBJUVlpdGZZcDUtWXdNRDg0UQ?oc=5"
     },
     {
-      "title": "한국 기업 노린 연쇄 해킹…안랩·지니언스 등 보안주 수혜 기대 커지나",
-      "published": "2026-10-29 06:48",
-      "source_link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1LcGJzakNDSE5LOG5fSHYxb1BLbmR1TzcyM281VlBZQTEwVGpOdW1MeUhZcFhTTTJ3elhSTVVkXzgyMTg5R29ubTVzS01neXl2NFJ1eUNCTkFtcDlvU0F5b1o0MDQzbnFwaUJBWHVfbVZCMDDSAXdBVV95cUxPbU1XUk9ZbWNrT0xuZ3RrWjk3SGRUOVNuQTRYb3djZEo0MlYtaFowZEc2MU14NGJ5ZzlQcFdkT3BGZTc4eER2cXlSYU1vMVF4ZkNtbE9JSlR6dGhta3FLdjA1NnZkbl9fMklVRncycjFaQTAzTnBUbw?oc=5"
+      "title": "방사청, 에어버스와 방산협력 강화…국내기업 해외 진출 지원",
+      "published": "2026-10-30 07:47",
+      "source_link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBNcnpQb0pwM1Bkb1lsbVpzMkxpRGtKRjhFUmZNNDlpSFF3cHFSSFpWMWEwdDlqQ013TTQ0RkFLWFpMc1JKZ3dDOVdUNU5zSW9BSkg4aFk0WklfSHUtcnc?oc=5"
     },
     {
-      "title": "이랜드, 수장고 공개…국내 기업 최초 ’기네스 2관왕’ 달성",
-      "published": "2026-10-28 17:32",
-      "source_link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBicXFmc1cwblhrSk9GWFRZV1UyeFZVS1dnbl9SNllZZC02TzV3bmMtVTFuZUN0NGJjQWZIZVJfNnVYWFpjU1hRRVdOYVZMTmNBb3RSY1l3akpKMEpRWEd3OGhIZG5vTFU?oc=5"
+      "title": "장한기술, 2027년 국내 첫 PVT' KS 인증' 나선다",
+      "published": "2026-10-30 04:11",
+      "source_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9zMkdxdmJxQUpPVmpadnF2bWdYNUxWMHljbDBiYXJob09tdUtnS2UtQ1NZU3J3TFV6bVRWOC11amZYVVppeDEwVG1ZVTE4OTdhUldVc3B5alJwQ0dvcjc5ajQ2blFrcHp5dmc?oc=5"
     },
     {
-      "title": "방사청, 에어버스-국내 중소기업 협력 돕는다…100여개사 참여",
-      "published": "2026-10-29 08:46",
-      "source_link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9YZ29PZVZoSHBEUDdHVEZCcVc5bmRGbmZsOFI3MkhkY2N4NUNLemRxcWxLMzVmbF9UejFselVwaTdOWmRySnFpSDRPRjBraUh6czF1enlkOG1MYWlNZWxnc3RsbHVsbDQ?oc=5"
+      "title": "[2026 대한민국 상장기업 리포트-2] 본업은 단단히, AI는 넓게... 생체인식·출입통제 기업의 두 갈래 전략",
+      "published": "2026-10-29 14:22",
+      "source_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9RNG92MTZBR0wydWxWVGJhSVVWUHNrT1lxUXczY2g5Y18yZzBpQzRtc2hvU1pXcGRMZy1ZNklyMHpMZV83a0Fsa1hKY1NfTkQ2SWpMbHBIZjdxbDRJakdNMHFNbmxjb1JFOHZr?oc=5"
     },
     {
-      "title": "오픈AI, 국내 기업 AI 활용 지원 '빌더 부트캠프' 개최",
-      "published": "2026-10-28 14:09",
-      "source_link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5wclhqYXpnX0xySWFnUG82c2xZa0xNLUhlUTBDeDJlUzZKRGlVZWZjNHBLNmZGSkc5SlB1WkU0eE5aSk9tNWNieWl5LUpLZw?oc=5"
+      "title": "한국 디지털기업 37곳 \"일본시장 공략\"...NIPA, 시장개척단 지원",
+      "published": "2026-10-29 19:43",
+      "source_link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4tc1hGLTZKcHFSYV9JNXVjd2VyVTdOd2dvczBxMXdCQU9CVG92cUN3QTR1eUJadk9yMUtmWmpsLVZRRThSN044el9kbVVLdXRXaVBIM0dB?oc=5"
     },
     {
-      "title": "“작게 검증하고 넓혀라”… 오픈AI, 국내 기업 AI 적용 지원",
-      "published": "2026-10-28 16:55",
-      "source_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE54RTZJc1VYYkZfNlpPVXR3MmRBTWpBUU1zcXdjcWJFNHFlRWZBUUlqNTQzd0VaSDhod243NS15SjJNMngwRk9KcmotLVl6cEd3V2loTUFGeUNVVGYwUkpOR1B3MkhJR0piekE?oc=5"
+      "title": "K-방산 중소기업, 에어버스와 절충교역 협력 확대",
+      "published": "2026-10-29 20:49",
+      "source_link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1BcmRMWUJPN3M4Rm13dDM5dHBHdDl4VmxRWjl2Q0VEeFg0WlJsWWhqUk1ndUNBV3o2Ri1pY1IxUkZNVS1nSHdXeTZYUlJ1MU1VWEtwNTJYb05IZTBkT2M5LS1UMkJMTnY5dmR0RkZBdk1QQQ?oc=5"
     },
     {
-      "title": "국내 거점 해커, 대규모 해킹 사태로 기업 기밀 다크웹에 유출",
-      "published": "2026-10-29 07:24",
-      "source_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13MGE0Y1I5NVFoYlViLThNMEVSeE9FdXlMSDBqOTFCaDVRdUZVWmtlR3RRWjVBNkRkM20tbld0Q0JoRnFITkRnbEQ3LWVhcnByQlVzRkdJMldsTEVmZmU5Mk8wNlFnMjZU?oc=5"
+      "title": "[공모주 청약] 스페이스X 전례에 AI 고평가 논란까지…국내 증권사, 앤트로픽 IPO 외면",
+      "published": "2026-10-30 00:00",
+      "source_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8yUHNrYllBczNUeG05d19hekFkSnYwMU55el9BSmpoWjgtWmtKX1hYZGxDaWFoWlJqbXVjb0dMZFhKVEJRTHZma1l3Vm1pcDRGcnEwNXVWdE5ZWGZQUEZIa1J6WmE5NUk1?oc=5"
     },
     {
-      "title": "아이벡스, 포브스코리아 '2026 대한민국 AI 50' 산업용 피지컬 AI 기업 선정",
-      "published": "2026-10-28 14:54",
-      "source_link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE95TDg4R3BFcjBxal9icjJHVnVOU1k1WnBZTHhUWXRVaHBmZEZDV2hSRFkxMzZOSElMczlydmpJTHJkVElodElwcG5nMmkwYldYZmFuNEJYSmhkYkJHR2ZV?oc=5"
+      "title": "글로벌 공급망 재편에 한국 소부장 '기회'…해외기업 20곳, 국내 협력사 찾는다",
+      "published": "2026-10-29 11:53",
+      "source_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA0aDF4MFJ0Xy1XOWU4bzVxcG9wM0NsUVNPTnNQQ1VNRTZTeWE3ZlNvd3JYLXQ1YVJZTC1EbXJyeldaaDVUX1QxTlhTdmdhSGJPZ1lqTmtTN2ZPNHJUc0w4MnZIV0tWZTFw0gFsQVVfeXFMT2ZteGxCTUJsUDl3RkdRRHhfQTUyczBLdDdGTEZxTlJpYTBadXhUVXlnOVJHWWNwaGdiVUVZc0hmX1BqTmpLelNiYzVxUktVQXA5bTZHVUhxMmFydld6QlBZSE5POVNaelo1eXpY?oc=5"
     },
     {
-      "title": "달러화 예금 4개월째 증가…9월엔 기업 예금 122억달러↑",
-      "published": "2026-10-28 17:01",
-      "source_link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8ydGN4UzdqcEhjcldiMXpCQU9qZ3ZaVDNKeWpVYWpuYjIweERHTDNlLVNMNnZBYTRXM0o0Mzl0UTJsX3lvMnItMTNLVmtsS1ozcXljNXRpS1B4RkhRQVFpTVVLeWtHVmgtN2UwVTBlMA?oc=5"
+      "title": "해외 일경험, 국내 일자리로…'글로벌 커리어 채용박람회' 개최",
+      "published": "2026-10-29 10:30",
+      "source_link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE03TGhncmlJUERhUmNSZnA3ai1waERqQnVEZzlzZm5LMUNIZGJXUlZCc1dfMFFDcWVLNFlYeFE1NmVmQ3dQZEVZaGdHV21qd2JQX3BsZFF6ZmcyQ1XSAWBBVV95cUxQTU9KbHVnZ1JLN0t3VG1ya21hQVpGZ1Zzd1N0cWE1ZUhkanB2ZDFULTZybzVBNUlJNWxDMEdfYkktRmhKdEdHaDZKNGdSWDkxOHVkcTlINThDTUNvNTZwZjg?oc=5"
     },
     {
-      "title": "국내 기업들 “AI 기본법, 규제대상·책임범위 모호…기준 명확히 해야”",
-      "published": "2026-10-29 06:00",
-      "source_link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5maUc3Rk9kMm5GREJRSmtjN0xRNWdSYkFIcnotV28xNDZiazBNVTZQY3dyTEFqRDEtNDZUc0RCbm9neHRhcHVZQmpIZUQtUTlZbnRnM05B?oc=5"
+      "title": "[스마트금융대상]업계 최초 'AI 어닝콜' 도입…국내 기업까지 확대",
+      "published": "2026-10-29 10:00",
+      "source_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAtQjdzM3dFR2VBQ25fN25XbFdyR2lXaERHVHJVeVJUQXhYNUIxSGl3T29sdzRZdTgxRkdRRVIwUUFCdVVyb0FGWGd3UHVEemwwTExlRk5lUzVKZGl1TDZkRg?oc=5"
     },
     {
-      "title": "“ESG 평가 못 받으면 수출도 어렵다”···KPC·코트라, 기업 대응 지원",
-      "published": "2026-10-28 19:39",
-      "source_link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE05SDlsOVJLaEEyVHpyeHBzOUFJS2tHb2hzbDh3RW1ZdVlNdFMxMmkyd2g5LUx2ZFFHTXZMcDlra25rSEpqQmR5bVlzMXhEci1YdUJha0RTTG9DNEdEVXhrZVFSOHdTVWNfV0VoZ2g5MDNaQjFJ0gF0QVVfeXFMTTlIOWw5UktoQTJUenJ4cHM5QUlLa0dvaHNsOHdFbVl1WU10UzEyaTJ3aDktTHZkUUdNdkxwOWtrbmtISmpCZHltWXMxeERyLVh1QmFrRFNMb0M0R0RVeGtlUVI4d1NVY19XRWhnaDkwM1pCMUk?oc=5"
+      "title": "해외에서 키운 자신감, 국내 취업으로…참여기업, \"해외취업 도전 청년들의 정신력 높게 평가\"",
+      "published": "2026-10-29 16:16",
+      "source_link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9JUlBGQWJWR3FlN2VvWjJ6VjJpcWU4OG5aZURITHp1eHRTSTVsejg4OG1DMDE2bVJUYV9ZSHBKWUtHdlNqWXhpR0hDOThmWWFqWGswMzl0Y196YmV2RUE?oc=5"
     },
     {
-      "title": "오픈AI, 국내 기업과 AI 도입 난제 해결 모색…실무 부트캠프 개최",
-      "published": "2026-10-28 10:35",
-      "source_link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1sb1Y2cHFjNHhCT1ZTdnhZNXUyVFdYbG9IT2pFaTFVbm44VGJ0Z2prM3F4clZLbDhlNDNIOUpJTWFzSi12ZnRzRTVRUkJOUjdDTFljcGtB?oc=5"
+      "title": "\"일본 AX 시장 잡아라\"…韓 AI·SW 기업, 현지 공략 속도",
+      "published": "2026-10-29 16:31",
+      "source_link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1pRVJwdjYxeUlTVE9uX0Q0SmFHemFlbzBMU2w3VkJqZ1ZlQTFEZ3BHUEZxbmVWRDhOdFlXc1FuNjUwa29SV1k0MG5kYmJkSjg5LVl2Z1NB?oc=5"
     },
     {
-      "title": "‘국내 최대 바이오 컨벤션’ BIX 2026 개막…300개 기업·600개 부스 집결",
-      "published": "2026-10-28 15:38",
-      "source_link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBaYTNtbHhpRTNFVEdIQXY4VjAteHplMWdmWGstNDVHNXRKNi1TQ3BWdUQ1RlVDRnp2VkdGNHlHYmM0SFZXUEktNlFaNmgxa282WHo0T3RYQ29ESk9xUndDdUNBVmtSdEFleGR5UdIBcEFVX3lxTE45VFlfUEVtMzZUWVZadlJQRmJ5LUUyUnU3dEc3TU9OV1l5Tk5jZ204YXhKVXZvQk04X21WbVdwTWZlaU1wQVd1NEt1LS1HdWdDV3dJWWF2bkdfWFZnbEllVUhZSHU4VU1vN2F6cXU3WFk?oc=5"
+      "title": "[현장:2026 글로벌 커리어 리스타트 ①] 해외 경험 살려 국내 취업으로…45개 기업, ‘리턴 인재’ 199명 채용",
+      "published": "2026-10-29 13:18",
+      "source_link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBSYkw3OUZtd2h3cUZoOEtiYVA0UXZ3cDRDMGhBWXdKUXVUamZJek9TazU4U0Yzb1dYNUF4V1drTm9MX2tJUUhvZjF3TS1zTU00dm1CaXRHdng?oc=5"
     },
     {
-      "title": "국내 기업·브랜드 사칭 사이트 12개 발견",
-      "published": "2026-10-28 15:28",
-      "source_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5oNk1MVWE1Q0VGbW9sQmt3VHZGOVRwV09ZX2RqVEQzenJKblVkZlU3M3lBXzlySC14Z1NxbVYwbVlkNldBZ2VZMGdLNEJSTTZ2MTlweEk3LUplTmpmQkZZcjFNSnFvbnJxSWc?oc=5"
+      "title": "AI 의료기기 국제표준 선점 나선다…한국AI의료헬스케어연구원, 기업 주도 표준 개발 확대",
+      "published": "2026-10-30 08:59",
+      "source_link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCZmllRkc1d2pMNVJMWktfb2VQTW1kOVloTGc1MmZTNjNCNnhwRzl2SF9LR3R3Z0I1aEs2Qi1UTjlHSnZjYlVncTUxWXFLQ214REljb3BHSURvaU5RUGlJZmNJT21iVEU?oc=5"
     },
     {
-      "title": "[AI픽] 오픈AI, 한국 기업 AI 도입 돕는다…서울서 실전 교육",
-      "published": "2026-10-28 10:03",
-      "source_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9lUDE4eksyN3lxWC1BNE9nYkxkeEI4S0xJa2FFX0RiN2sxdXozVFpXLUx3TTlvSFFpWFRwamRtekpQLU9uZXptaDNJQWFobjF3Smx6SU1MVC14cVc1ZEFVX9IBYEFVX3lxTE9lUDE4eksyN3lxWC1BNE9nYkxkeEI4S0xJa2FFX0RiN2sxdXozVFpXLUx3TTlvSFFpWFRwamRtekpQLU9uZXptaDNJQWFobjF3Smx6SU1MVC14cVc1ZEFVXw?oc=5"
+      "title": "NIPA, 日 기업과 458억원 규모 수출 논의",
+      "published": "2026-10-30 08:43",
+      "source_link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4tMGNNNlBwQ0N4azloSG9fN2dDTGsxQkJLVFk2M2FrN21aMllFRVJMV3QwVjdpQTY5Y1RjdU5KMGp4TjE2NkZhRjJtN1poVWtaVUdwSXB2MW9RQWZmM1hGZE1NeDRvZw?oc=5"
     },
     {
-      "title": "오픈AI, 한국 기업 AI 도입 돕는다…서울서 실전 부트캠프 개최",
-      "published": "2026-10-28 10:42",
-      "source_link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5uVkVzRS1mOGhUZHpnRzdyb3VLWTd0dWVseFBLSlBSeU1DamZqUng1azB6TXVvdXFKUk5DLWZsSHlfV0h0ZlR2OFJUeXRsMF9uRVFxZWNNYmt1cWJKVTZkQWF0Z3dIaXlvdksxYw?oc=5"
+      "title": "예강희망키움재단, ‘예강 테크펠로우십’ 미래 기술인재 국내 기업탐방 진행",
+      "published": "2026-10-30 08:49",
+      "source_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmVUZCcFN1UWhyNnE3SExWYUlqMmRTR3B1YWFnM2xLSFV4WWs5ZlhVV1U0VU9sWlVMd2tqMC1MdW56RzNtNnJOZHZuTlV1eDdDTjl4dks4V0JfZw?oc=5"
     },
     {
-      "title": "국내 기업 89% “개인 계정서 AI 사용”···29% “AI 통제 없이 자율적으로 사용”",
-      "published": "2026-10-28 10:35",
-      "source_link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE92My1EZU8wZGsyZFF5RTFIWjB5SHFuS2ZzaWNNWjhydUN0dEk0NFV4UVQ5NEpZYlV4RzllVUs5VkdUU1RveHduWWIwYW5LWVZ6XzNXNnFUeTlKQ09QMW5oVXpLODNBM1B6S0gxNw?oc=5"
+      "title": "'대어' 앤트로픽 IPO에 국내증권사 줄줄이 불참…공모주 청약 난망",
+      "published": "2026-10-29 16:22",
+      "source_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1rVTdSVEY4bnJkbVRialNQSEFnRFZ2RE43WkUwLTlrOWtGZlN6QTNrX09paVh5Z3pSZFZaWHU3ZWNKcFFVTHpTdlQ3aDFwbDVWWGRhV1FXdld3ZUtLMXA1adIBYEFVX3lxTE1rVTdSVEY4bnJkbVRialNQSEFnRFZ2RE43WkUwLTlrOWtGZlN6QTNrX09paVh5Z3pSZFZaWHU3ZWNKcFFVTHpTdlQ3aDFwbDVWWGRhV1FXdld3ZUtLMXA1aQ?oc=5"
     },
     {
-      "title": "이랜드그룹, 소장품으로 국내 기업 최초 기네스 세계 기록 등재",
-      "published": "2026-10-28 20:27",
-      "source_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9WdzJOdS10SmdlNXZPQWFjbkZlN1NBcHpQYzdrTFc0MUNTZkRuaHYyelZDQnhnakdELWtxdzRtZlhCeENEUHBRYjBEanh0TFBTZ2NaZEZnNzZjU1ZjTy0tQko0ZEI5R3YtTkU0?oc=5"
+      "title": "글로벌 원전시장 진출 협력의 장 'NES 2026' 막 내렸다",
+      "published": "2026-10-30 08:30",
+      "source_link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBXUnBUam9Hc2VTNHR2VkstV1pJbVpEUHgwSUVJZmFFcmJDVnNJdFlZU2J5Tk5lTVd6bWdEZWFTazNYdjFnNFZZQ1l1QkFlM0ZwckNVRlBBQ0dlUHN2Q3l3VEdtcXhTVUdGS215UjNWNzcyQQ?oc=5"
     },
     {
-      "title": "K-방산 수출 훈풍, 중견 부품기업까지 번진다",
-      "published": "2026-10-28 16:45",
-      "source_link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB5VVpfOTZkQVpGZ0NVOWd3eFgycmx5Rjd4c2xQM2xTdFEtZzE5encxbW91dXJRaGRxWHpRSk5KcWhDbkg0NUdQSGNpMHRRb2tyLXRnTFZSN0dQVHBNaHJMMmJlcXBzUjlMdkd2STlR?oc=5"
+      "title": "애경산업, '제1회 대한민국 영케어러 위크' 기업 첫 후원",
+      "published": "2026-10-30 09:07",
+      "source_link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBGeTBVRlA2YmdVbmE4OWxrQlFGd3RBUk1HZW1OMU05aEpmdGZ6WXJXUVAyX3lrQVBhLVlmYVVsbHc2aF9BQWJWOWxsdXBzU3czc3pCR0F2MUFzY2pHb05KWXJBN2JLVzAzYWluVWx3QjhGZ3PSAXdBVV95cUxPS3pKeTc0QUp2S1JEWU1rcWN4eG5vNnNsd2QxVTRWYmhrZVdSSjlrejJjdU8tUlNEanFyemJLblJkbk52U0g2bEt5VFVSUFNrOFE3bS1TOG9oRTJlZS1uTzhUTUtRcktYTVItcWhZbXhZdzJ1ZjBjcw?oc=5"
     },
     {
-      "title": "이랜드, 국내 기업 최초 소장품 기네스 세계기록 2관왕",
-      "published": "2026-10-28 16:54",
-      "source_link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE02SEpNaHpkc0VYbFgzMHlJcmJuMGhOY3o0OWlEMlVYejlWcE9vLXlBUndxRktYWXl3Vk9kTkJfTWlmQXlZVG0teXAyQXpNdmxWemJZdTROdXpMMGR4WGdLbkRiUWNUT0xQdl9GR3RmQVrSAXRBVV95cUxOVnBiakdCS0w5Z0p6TUp0N2NxTzNaQnNTNndrbGUtUFUzMFVWQmdWbEJESXlXMmZ6V21pakZNV3AzcVJpMXBnOU1veUlJVzFiSlYzdTREb3BCYWlwODVPeEJnRXZUWDhFS2tGSWlwX3JIQms2SA?oc=5"
+      "title": "코리아넷뉴스 - 10월 기업심리지수 104.2···4년 2개월 만에 최고",
+      "published": "2026-10-29 13:02",
+      "source_link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQdmNjQ1hSdUZxbHMwV2Fnb0o3OHVzM1Jpc3BzX1F3MEZOS09iZWx1dk1RV3BUdEsyQ1REcmFyblZxcTFsM3dTRDBITUdWaWRQdG8yaXVRODhLOUoxdXhvVjJsZDRUUmg4elZtNkc4RlJoMXJ6NmdrMmtJNklxdU9sTnl4OW1iX2lwNEJSZW1paUExSzZ0eGZGeER3bGctQ3Y2M1JQaUU4X2hJbWJVa1ZXOGhWcGpqY1F0Y2pCYVhNY3g2UEQ3YmZLLTlHTEdDR010QkVyRGRUZ3puemNqTEFfYkNEMDJYVWhkUTVoRzVkdGc4Nk5rbGc?oc=5"
     },
     {
-      "title": "'ESG' 기업 생존 필수…한국생산성본부, 평가 대응 세미나 개최",
-      "published": "2026-10-28 14:22",
-      "source_link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1tZzZnTVVCSXZlYUJZNm5wZ25QdGNWV1VtOHM5SVRnRzE5dm9xTXBRVVJWVTBURlFGTnJXY0xaNGhRY05GSC1hSzFMQWdVRkJ6TjhFcldReldmbnVxalJTTE40TEtIYmliclNSRU9POW0?oc=5"
+      "title": "'경쟁 치열' 中로봇산업…\"韓기업 정밀제조·전자정보서 '우위'\"",
+      "published": "2026-10-29 12:47",
+      "source_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9INVFyeG5TaXp0WGJuWnBXRWh6cjhSdHpFcEY5QnM4OG91VG9xMElXRDJ0dXdiSi1kcWxYMUdCSnREV0ZRYzZXNEE2eE9aRGNKa1R4MWV2U205YldmUXZ4WtIBYEFVX3lxTE9INVFyeG5TaXp0WGJuWnBXRWh6cjhSdHpFcEY5QnM4OG91VG9xMElXRDJ0dXdiSi1kcWxYMUdCSnREV0ZRYzZXNEE2eE9aRGNKa1R4MWV2U205YldmUXZ4Wg?oc=5"
     },
     {
-      "title": "9월 외화예금, 기업 달러 유입에 141억 달러↑...전체 외화예금 달러화 비중 85.9%",
-      "published": "2026-10-28 16:28",
-      "source_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1MWmNPSGs5bklJVjJDUG5rT3U5YWk2NkdLTmtLQmpPNk1rNklQLVY2OF91UzdQT1RpVzVQR3RpMFh1Zk5PS2gxNURJSWNzTkhydDBvV0xHM09vbmN2bW91THpobEdhQmIxUnd30gFvQVVfeXFMT0xmVy1paEVjbjh6bnJHNllpNE9zNmpXb1BYMU5nZ1piNUQ3ZnZIWGR1Z2NiMUVUbUxVM3FDOHp4eG95V3BVaEliNTlJZERRWnYxVHJhd3RkWEI3Z2JqV0JUNjdxeWh6SHZ6VGVHbG00?oc=5"
+      "title": "GC녹십자·한미약품, 차세대 파브리병 신약 기술 수출",
+      "published": "2026-10-30 08:41",
+      "source_link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9GOGUwYnY1bTRSc2JpMFpOa1oySWtOcGI0eG1GbEhkTWhyWVpPVlZYWVBnMzh3aXgtSTFwTW9GekVSVnIzVnRDVzRDWEc4bWVMQlJ1VFpzNFMxQ1HSAWBBVV95cUxPbGY1VURUV1lvZUtGNVRCTnU3Vi1peGZFSjRGMkw2dUMtcmdRc1lNXzBucnZDNXJrQjJfMU9xOVhyQXZRVnVLY09ESnJFOG9qOVpJNW0yYkIzSVBCM2I1cXk?oc=5"
     },
     {
-      "title": "KTL, 해외 바이어 초청 수출상담…국내 의료기기 기업 판로 개척 지원",
-      "published": "2026-10-28 14:30",
-      "source_link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9jUjBmUHVMSkd5MmhUdTBRV2sxbXBFMDlYZURVeWFSRzN5dTkxSUNNc3BWRkNYVkwwUFJlTEt5VEpmRW5ReC1JSkZDTk9aeDBabG5rVExjWjN6bE9QcTJSd2JWa2FKMDd3ZTFOQVkzZXfSAXRBVV95cUxQbXZGZGhVUS1fREJXd2pmZWp2Vlh3SkxDZDNwUC1aTUZza2VXUGFKRUlhZHBib2llOUpFY2tkNXlvVWtCaUo4QXR6Q0RoN3JscmdZRnJMcWVnOGdLT3pKUmxvUUoza3BWc1B1UGRWV3JXOVZNOQ?oc=5"
+      "title": "선박 도장 결함도 AI가 찾아낸다…HD현대중공업, 국내 조선업계 최초 자동 검사 시스템 개발",
+      "published": "2026-10-29 18:04",
+      "source_link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB3RHBfM3M2OWx0MW9kUWNqR1BsSEYtNlc2RGFSV0huVzZpaVNaRU9QaEZnNEtjdHQ2dDR4V0RGRjN4MzNqN005bVJiU19tMWpKaEFBSWZweWtsNkpXWmUxMHpzMzdIam8?oc=5"
     },
     {
-      "title": "국립한국해양대 앵커사업단, 조선해양기업 해외 판로 개척 지원",
-      "published": "2026-10-28 17:20",
-      "source_link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9YbjdRMHFWcGhaWXZnaGMwVGc3R0JDR3RIQXdQUEVlczJ2b3VybWg0Sjh6UTdCb0NnRXQzZ1Rxbmo2QXpkT0pUdVg2WjlHQ3lsOFdOME1tZDlxLTB6SGUyMHlQOGYyM1NJWTNucnY3eEHSAXRBVV95cUxQVkFaZE5YRDZrbWNIVWE2anNHSmpyWWJ2eE1kdnFacXh5ZWVMdUdYa09KWERIT0w1SGNsaEZmSUY3RW5wcVNwME50SFZRTnFYZ3NucWpET0dtVll2dlhwM19YNkFQTWU1dnNiZGF6RGU0R2dXTQ?oc=5"
+      "title": "KOSA, AI 기업 미국 진출 돕는다…뉴욕대 연계 지원사업 사전 접수",
+      "published": "2026-10-29 10:12",
+      "source_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5FejV6UmZtem1GV1p1cy0tVlk0NEFzOUthM3BuMXdiNGxOQy1TVlpjNFpzSEt0MUJtTEtQVEItSkJmZVd0ZTlsd01vTjMxWElSQ0F4TFVVd3ZoWmUzVXV3WjBiWjZGNlhxZWhVUktIeFFkSi1xSzRKedIBeEFVX3lxTE5FejV6UmZtem1GV1p1cy0tVlk0NEFzOUthM3BuMXdiNGxOQy1TVlpjNFpzSEt0MUJtTEtQVEItSkJmZVd0ZTlsd01vTjMxWElSQ0F4TFVVd3ZoWmUzVXV3WjBiWjZGNlhxZWhVUktIeFFkSi1xSzRKeQ?oc=5"
     },
     {
-      "title": "한국씨티은행 새 행장 김경호…기업금융 출신 3연속",
-      "published": "2026-10-28 12:30",
-      "source_link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA0VDdMM2tfWldIb2ZvbFhWb1lVTXZFV1daZC01ZVo0dzFqMk8ycnpmM2xNUXVWa3l4WWhwcEpWVUxUOTdCWnBQRV9IVDE4TmhkdzF2REhfcDVfUU9iUGFCeFhOcllkaUU?oc=5"
+      "title": "AI 신약개발 시대, 韓 찾는 손 더 많아졌다…중국·캐나다와 협력 확대",
+      "published": "2026-10-30 06:40",
+      "source_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9mcWJhMjdBcmRZM21ZNWx1QjZveEM5RWRkTEwtaC1hY3hDMFR5ckItZkxLV1BrRXlqM0JFRDM4aEhyYUVhT1NDTV9wUEV3V2xyemZRa2xkVTZ4TmV3OEZ3Ug?oc=5"
     },
     {
-      "title": "KTL, 국내 의료기기 수출 판로 지원…해외 바이어 35개사 초청",
-      "published": "2026-10-28 10:36",
-      "source_link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9pZWl2aVVuQUtIc3ZNUnlrMWxXMUlhNm1BOF9YQmZRaDVVZjl6WnQ2WUpmQ3VZYlpobHdoV3lDUmpMMGxDRF84aHdnNFNNMkZDYmg0THZGaXgtbHpZOXhOT1VYelFPdDV3cFRndF9udVJtZw?oc=5"
+      "title": "​제약바이오협회, 이스트웨스트 바이오파마 서밋 2027 지역 주최위원회 출범",
+      "published": "2026-10-29 19:55",
+      "source_link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1hSm9kNHZROGMyRWpxSVZJTVdlc0RLYnh1SFR3TUJ4bnBxM2tsZms3TDRSOG5oa2JqeDlmYnh5MGZmOFZnYVlReDlWcnlJU1ZFazNZam5wNA?oc=5"
     },
     {
-      "title": "국내 기업 경기전망 2개월 연속 부정적…반도체 심리 9개월 만에 부진 전환",
-      "published": "2026-10-28 11:05",
-      "source_link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1lUkFrYklmb2o2OWR5WFBaRFBFeW91RXBGMHR4NWN3d1ljZDBZcW1HMllwRDFvT29TRjgzczRYd1UzbnA1MTgtb1g1cVFQaEZCUWp3Q1ZYOE1pRWQtTnExRFNkWWVrSkFXbFZsbkxR0gFyQVVfeXFMTVAwMHdIaG11NmIxY05Pa1owNGkxN0RnOFEzMDIyUDE5OTdfRlRkSjU1ZHBYZkpqOGtKTVE0YTBTQnJsNzRnNnVLbDR2dkVjRDBvUTFlc1hfeXp0RDlHUm1leFo1RWc0TzY1RGp0X1U1cDhR?oc=5"
+      "title": "[게시판] IBK기업은행 '퇴직연금 자동 모으기' 서비스",
+      "published": "2026-10-29 15:11",
+      "source_link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBlZHJSMVQ3RENpNUhPV25MeHd6NEZmRjZnSUZOejRFRjczTzZuWnpYRDV1R0ZjcnR4MExSdGQ5cGoxYmthRzE0eDRsM0ZKYTJhb1hMdHg3UWUwQ29FN1ZackIzWVktQTh5NUs1VS1vZDZvSU1r?oc=5"
     },
     {
-      "title": "한전KDN, 국내 에너지기업 최초 ‘APAC 이노베이션 어워드’ 수상 영예",
-      "published": "2026-10-28 11:26",
-      "source_link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1Yd2tnRG1qVzRRWXZmd25McFVoOC1qZzI3T2g1VG9sbW9sTHlDZmpWbkh6UHRPTm5JdndzN1Y0alNyNVc0WElia19rNkNkNXhsdU16TFRMQ1FHdmpJMnRpcm9tR1BMNTV3eW5rS0lxbjF5QdIBdkFVX3lxTFBENENVQjE2SnJDZVNrR1dubUtNTHZRU3VuQ3FQTnF0UndmeUdqSHFKQm9iUHJBVlVXVXgtR2RPNVFNNUFMRDNuZC1TaFZCOS1CRmVsdFRRNU9MVF9oU1owU1RpWXBveEZUVmNXNFdzS3hwQUozUmc?oc=5"
+      "title": "'SKY'대 출신 대기업 CEO 비중 7년 만에 다시 30%대로 올라",
+      "published": "2026-10-29 11:00",
+      "source_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5pMldabVJnd2c3ODlFWTczZ05XVC1oOHViYXZNdGFGY0Uwc3ZqVDN4em1iN2FTZlFjWmtIWHZDd3FaYVlWMXhnOFZqazY2YkhMbHFoWVU2YjExLWtoOEcwR9IBYEFVX3lxTE5pMldabVJnd2c3ODlFWTczZ05XVC1oOHViYXZNdGFGY0Uwc3ZqVDN4em1iN2FTZlFjWmtIWHZDd3FaYVlWMXhnOFZqazY2YkhMbHFoWVU2YjExLWtoOEcwRw?oc=5"
     },
     {
-      "title": "한전KDN, 국내 에너지기업 최초 ‘레드햇 APAC 혁신상’",
-      "published": "2026-10-28 11:22",
-      "source_link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5jdmhQcnNPbFNST1NKQ2xDRnFZTlNEOEpHRHp3SGxvU1NQUmo1b21tb20tYXdERlBRMndtX2ppREkzNXhJQWo0eVlsc2VYaXFuT251QUN5Y1NqYmdydHlCNVc2YVpqWXhVQ1ZIcFNrOHRtQQ?oc=5"
+      "title": "[삼성전자 실적] 반도체로만 106조 벌었다…삼성전자, 글로벌 최초 분기 100조 이익",
+      "published": "2026-10-30 00:05",
+      "source_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9fbzhRTUtNWHJSRlRFVWNVQXVVYVFHdjZheF9jV09wTjMxNmdwZHZKSktnYklvQ0FiNEtOb0FfSnVkNWZkc0xLSGRLMTdnUXlMa0dTeHZwSWtYbFVBTWR0OUQ1MXFMbGcw?oc=5"
     },
     {
-      "title": "한자연, 국내 10개 기업과 'AI 커넥티드카' 기술 개발 착수",
-      "published": "2026-10-28 13:20",
-      "source_link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5KSnhjWEhfWXoxbjEzR1dIaXh5c1Zja2xBUUZ6SkRjNC1sblAtTE80bTEtenBOU3VEOVQzOEVxNzNFbVh6MTRKajR2Z0E3QQ?oc=5"
+      "title": "한국산업기술시험원, 대한민국 SNS대상 ‘최우수상’",
+      "published": "2026-10-30 07:33",
+      "source_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA5ODR6V045N0Vzdm03SnJGZGVVVU1aYmxRTmZkQXBhLWkwbnBlcTh4STBCaC12RVBlNXR0MllSMm92eDZPa3ZsU3Bqa2p5cVE2YmN5eWNJbTROQQ?oc=5"
     },
     {
-      "title": "코아넥서스, 2026 한국의 날 행사서 국내 기업 팝업스토어 운영 지원",
-      "published": "2026-10-28 09:47",
-      "source_link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAwcXI2SVFXS3h0b3FydTRsS3RfQ1pSSzlSUWNUdXVocEJ4cFRnSkY2N1NJTjlHZHVQZnBIMnJna3lsN0JUTVVLVS1lVy1uMTZCU1VCaUpUSTBlS0JFVVJfNEFWRXg5QWZpUkxGVEFOanTSAXBBVV95cUxQMHFyNklRV0t4dG9xcnU0bEt0X0NaUks5UlFjVHV1aHBCeHBUZ0pGNjdTSU45R2R1UGZwSDJyZ2t5bDdCVE1VS1UtZVctbjE2QlNVQmlKVEkwZUtCRVVSXzRBVkV4OUFmaVJMRlRBTmp0?oc=5"
+      "title": "\"1인당 로봇 보급대수 1위 한국, 산업경쟁력은 6개국 중 최하위\"",
+      "published": "2026-10-29 10:00",
+      "source_link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzdWQweHFOeGV6a1RxemJ2Y2NrajBtOF93bElmQXJYRUNBaXNSb25yS2pseC1ySHR2ZGZ6N2hNN25OS1BzdGNkbkpRdHJPNTRHTlZ2RHNnb0g1VmvSAWBBVV95cUxQVFo0SlNPTURwT2dsQ2tBY2k0Tm93VG5QaG91OGRRRTNNUjM2MU5tV0c0TTZCZ1ZkWHRiT0hWNDNtZHhsb2RlbHlVaVhrVzN0MS1BSVJRMUF2Yy04ODRnUUo?oc=5"
     },
     {
-      "title": "[2026 대한민국 상장기업 리포트-1] 영상보안 기업 13곳, 실적은 양극화, AI는 가속화... 갈림길에 선 영상보안 업계",
-      "published": "2026-10-28 11:19",
-      "source_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBRWkJzVzlSOGxlWHlEMW04a2ZrOEkzeTBQOVFzZWVjSkx6MnJxS1NBY0Z1UlNmaWY3LUd0Wno3enpRaWJZZG5GaXpBdGE4bURCb1NadlZPNjVFTkU3WTVQTERWdzVPRFlnSEJV?oc=5"
+      "title": "로봇 가장 많이 쓰는 한국, 산업경쟁력은 최하위…핵심부품도 취약",
+      "published": "2026-10-29 16:25",
+      "source_link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8tZnlvVG9QX2RzVVM5WTI0NTRkb3M2ZDB0Ukl6cGNiUV9rcURwX3Q1dDIyVS1BOUl1ZXJxQ0pqYVM4STJ5U29Jazkta2d3NmNYRFhWd09TWWxQMVZkMUZCc2NGQQ?oc=5"
     },
     {
-      "title": "오픈AI, 국내 기업 대상 ‘빌더 부트캠프’ 개최…업무에 AI 적용 실습",
-      "published": "2026-10-28 14:48",
-      "source_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE52R0F1QmVVcl9saFNVY1BPUFcxMDhxT0pqeE1jY195MEZuaDFvQ2lJbFV5MFJCcnlYX2g3bUlWODdwNTk1bWZoc284UTBiV1RMbHZjN09RaURNZEdTMVpFbQ?oc=5"
+      "title": "산업은행, 아이큐랩 시설자금 집행 보류…\"수사 결과 따라 재개\"",
+      "published": "2026-10-29 21:06",
+      "source_link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE00cGNNdXdmMFNFYnBFV1pCMG41OFQyOGszaXJ2Y2hWck1Eem5NYnhNWmNiTGp3dHppUTZYUTNuSkV5eHNROGRmb3JUM0xoNkZvNjhpRTduU24tV3JzVUxfMlU5YXB3MEdLY1NiQ2Ribw?oc=5"
     },
     {
-      "title": "한전KDN, 국내 에너지기업 최초 ‘APAC 이노베이션 어워드’ 수상",
-      "published": "2026-10-28 12:22",
-      "source_link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB4MC0yT1ZFRFBuX0MtdHR6QTF6bHZ4NXdrS0ptQWJ1b0lBSnRnTW5kSTR4VkVjbFhvTVhfREpPZlp6VkVNVjlER0lWT2dfRDBMZWNBaEFEU3UxQkNHdDVOT0ZuUWdMZkdEbmw1c0FoRWhaZw?oc=5"
+      "title": "로봇 밀도 세계 1위 한국, 산업경쟁력은 6개국 중 꼴찌",
+      "published": "2026-10-29 10:00",
+      "source_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9iN1gtcmhMUDdWa3I5Sy11dHdFMnhRaUFYN2phbFZzNU42ZHNfZFROOVg2ejdmWGJ1bTc1X0d1ZjMxYnJBRDhlVE9XZHVzRHBJdno4TW9wMHJQOVZmMmxqWU00SmRoekwwd0J3STduMUhyTW1UYUJRRtIBeEFVX3lxTE9iN1gtcmhMUDdWa3I5Sy11dHdFMnhRaUFYN2phbFZzNU42ZHNfZFROOVg2ejdmWGJ1bTc1X0d1ZjMxYnJBRDhlVE9XZHVzRHBJdno4TW9wMHJQOVZmMmxqWU00SmRoekwwd0J3STduMUhyTW1UYUJRRg?oc=5"
     },
     {
-      "title": "9월 외화예금 1천500억달러 넘어…기업 달러예금 역대 최대폭↑",
-      "published": "2026-10-28 12:00",
-      "source_link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5icU4ySWl0ZEtmdUE3d2F6MUx3c2pTbWZvYzRIdjdWcFZ4Z1lCV3hnX1NUcDhVNVVIRnI0RkhYNURmeXBTM2lZUEozTV9HSXJBZGFMSC1hdVhudlHSAWBBVV95cUxPbzhya2tIbUF2OUQ2UVFScUM0emdUX0NWNFFIbUh5WGN5bnRWTjN4cEFqdEFYTVdRSEQ4MXJOUzJhY2wwbW9qMVJCMUZ2a3lUVmVQTVN1cW1UemdadGRPZDA?oc=5"
+      "title": "전기차 다음은 이것... 한국 배터리 산업의 새 활로",
+      "published": "2026-10-29 12:33",
+      "source_link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBuWEdhQkZPOGVXYnRhUGk3YVJxYWtka1FlN0hEejJJZW1melluMXdZZGJKNTQ5d1JiUnItYmV6WkludWt5d25sOXRjUEZLUjJQTi12RXhKWVZyb0t1MW5tNEVWc0dzYWRielcyTXBMLUxVT1QzckZr?oc=5"
     },
     {
-      "title": "해외 거래처 ESG 평가 문턱 높아진다…KPC·코트라, 중소기업 대응 지원",
-      "published": "2026-10-28 14:50",
-      "source_link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE00cy1SSFM3TWpPUDFpdkRRX3pydTFfYTFRd3hzSzRXZmVMOWFKcE5KVC1adUNMLXZtNXp0OWJ2VmFTUm9vNTI2YkVncElSOGhjam5XTnd3RWxhcHloT2dLRUZwT0xCa3VNakJjS3VTQVpmd3fSAXdBVV95cUxOeFp5MkFNa1BfZjlQa2NQZjVreGU0SHE5SVNGblNLU1dzS09TNHozWHdiSEtUYVo4LXZxY29SemlPOUotZFFrUUUxZklHYWRKbHdpamFvemtoZnliWmo4QWZWc2h4NExjSV81UFkwNTdMV2VNS25jMA?oc=5"
+      "title": "한국항공우주산업, AI 기반 제조 혁신 전략 '공유'",
+      "published": "2026-10-29 11:21",
+      "source_link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE55VjNVOWNVRXRFZXNGeXpfeWlJemhpLWhzN1JuNVNIYUlEMDl6WF9KZFJmNXV2M1dUQkFHOTF1a1hYU0x6cDZzQ0c1QVVSWlBEcXgtVm1PdEphc1J3?oc=5"
     },
     {
-      "title": "美 소매기업 택배 요금 사상 최고치, 국내는...",
-      "published": "2026-10-28 10:17",
-      "source_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1UeUdyNEJmTWF3OHRvWjl3X2c1dTI2dVM4NzdLckZlU0l5R3IyY2RlUEVYelNXMXdfZU1xNVozRWhUV29NcXZGZEVhNW1oS2plTnFJWmtGTFBRVThIVWk3cjVQc2JhMExrNFRz?oc=5"
+      "title": "안전보건교육 효과 입증…산업재해 발생률 15.9% 낮췄다",
+      "published": "2026-10-29 10:43",
+      "source_link": "https://news.google.com/rss/articles/CBMickFVX3lxTE45RVhHdE8teEpoOXNjbHZQbkhVamlvOVNvWXVHTFJ2MEsyUGF5T21ZRTV0U0pkU2c5dkhGcHZHdlBKbFRzQ04xYmZ1amgwb2I4THppNllIZ3ZQUWRNejdFU2FNZ0h5bjc0a3Y1eWUxNno0UQ?oc=5"
     },
     {
-      "title": "제이투케이바이오, 美 타피오카 전분 기업과 협력...\"국내 공급·해외 진출 추진\"",
-      "published": "2026-10-28 19:37",
-      "source_link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBKRGlZWmh6RkFDUndpZ3puSTlNNUl1dTMtRUdKYWdMQnNkYnhnc2REeGczNGlNLXlxMHFESHBES2dDSkM0eE5XMF9lTkZxWTdWLVpqX0gybVRKMW9HMy1xY2ZrU3U4WTg?oc=5"
+      "title": "국립한국교통대 학생팀, 산업경영시스템학회서 우수논문상 수상",
+      "published": "2026-10-29 11:37",
+      "source_link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE05U2N2ZEktdHY4SW5pUDVyRG9uMVBKNV9mLWFQYmdqYy12R2RGR3B3WlRBQXVWUUxLUHp2Y3F5c1NIY3otaTVaWldhWnBTemYtQ3lBcW5nS3pidlBQNzEzbm1jR0lVYlFCSW9tOWdR?oc=5"
     },
     {
-      "title": "기업 달러예금 역대 최대폭 증가…외화예금 1500억 달러 넘어",
-      "published": "2026-10-28 12:49",
-      "source_link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAwRFZxXzlKaktlenMxRVVxXzBRMHpOZm5XSkZTS2c4N1JNTnRyNm1yVUYxYlZBTmVyZHktV3RyNUZfWW1RakF4QmxjUUdBWGctekhpMlRSSG1wTUZ1SFRXQ3F2bEFnUnk0OW5La0hYQzV1SkRY?oc=5"
+      "title": "‘2026 산업AI 엑스포’ 성료…201개사·430부스서 산업 AI 현장 적용 총망라",
+      "published": "2026-10-30 08:10",
+      "source_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5QdzNZenIwZHMzV0pKV0V1X2o3Tk43V3MxbzNoaS1TbExfYlQtbVVaVEFQVWZsV0tBZ0pHVDBnNmVpTFFGTnV3QWJVUVNzNEt4ejNZaG1OcFY0QTdGYTZsbWpKS0Q5UXZ0?oc=5"
     },
     {
-      "title": "기업 경기전망 2개월 연속 '부정적'...반도체와는 딴 세상",
-      "published": "2026-10-28 10:59",
-      "source_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9YNTV5cDc0cDlGLWZPVDBYMl9CTERvNkU2c2FTS0phX2NwZXN0Ymp0TEpibzl2dnhIRnBPd1ZDOVRpc0V3UWlkWmZ5b182aUtLbk9WQ0N1SXpsU09hNWpKYlVxbEVfSzdRMkE?oc=5"
+      "title": "로봇 밀도 세계 1위 한국의 역설…산업경쟁력은 6개국 최하위",
+      "published": "2026-10-30 08:35",
+      "source_link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE44ZVdCcThjRnR5UkJLOVh0Xy1hU0R4TWE3Z3N2TmNvTk9JekpCYTdHRWVraVJfejc1M2RBeEIyaG9BN0FrZllVNDktVTdWYTlmVDVXcDh3ZFNFV2ktbXh5ZjVzWU1fblRqS0V5bDJDVnF5dTc0SzZJLVhQeWpKZw?oc=5"
     },
     {
-      "title": "기업에 쌓인 달러…외화예금 사상 첫 1500억달러 돌파",
-      "published": "2026-10-28 12:00",
-      "source_link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBwQVZmRlJmR3lSd1dZTHJLRy1nQ0tyVW5Kbzc2Q0IyNzRtM2FxVkJ5WW9uQmoyejJEVmQ3cGNiZ1NMcjBvN2k3aFl0VGdvOWZqYmVucw?oc=5"
+      "title": "KAI, 협력사 42곳 디지털 혁신 시동",
+      "published": "2026-10-29 20:50",
+      "source_link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB0bGxqZkV0b05XdjhRZ3dsTHJTbGxKU3JhLVRUcnRaSS1XQTBrNXUxbmozNHFkYm5RVms3cjdnZFpXUDBkMkhoejMydlljVDM5YWxITVdzT3ZWZGJnM3lJdFNzekZOUGIwN21nekEwVU42dw?oc=5"
     },
     {
-      "title": "[보안 경보] 두산로보틱스·처음처럼까지 \"공식 홈페이지인 줄 알았더니\"…사기사이트 무더기 적발",
-      "published": "2026-10-29 06:30",
-      "source_link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBsbWMwR3YtZkJaYnI2Y1Z1cjFYS0pGX0k0LWNBam43TFYxbEVFWGprbDN1amZZTUUyNjJQNFBHRGxuSG1qSm5pVzB0NEhncmp5S3RZaU54LU8xbWpVcU5zdThXUQ?oc=5"
+      "title": "토스증권 \"메모리 사이클, 과거 비해 진폭 작고 수익성 높아질것\"",
+      "published": "2026-10-29 10:28",
+      "source_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA5dFNfSjRmaGUycG12ZldKaWpTR1NtUERxNEg1cEluQ3VyZmRaUmVTcVJGNmhLVVVqRzhqY2dwYnp5MTVZSnZqMXY5bXZwcTUtRzRUcGNkeUV3a2EwT3k3V9IBYEFVX3lxTFA5dFNfSjRmaGUycG12ZldKaWpTR1NtUERxNEg1cEluQ3VyZmRaUmVTcVJGNmhLVVVqRzhqY2dwYnp5MTVZSnZqMXY5bXZwcTUtRzRUcGNkeUV3a2EwT3k3Vw?oc=5"
     },
     {
-      "title": "인천, 첨단미디어 국제 콘퍼런스 11월 3일 개최…글로벌 콘텐츠 기업 연결 나선다",
-      "published": "2026-10-28 14:19",
-      "source_link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBoR3RwTktWcUlqMHM5Z1pRZlVNSzNrbEJpT2hkV3p6dERsRmE5MEU5VzFiZkZSQzlVMF9UZGdZVGZHTlAtY0loOXRwa3YxSlZFTU5YS01RMFZNOUE3czNsYzVfc3BQYTR0SEw4U9IBcEFVX3lxTFBNVjFIZ2wwd0J1bV83eVlxcThfQTZGNmdpV3g4UUlzanhzQ0c4V0t6ajhQME0zTTFkS0ExX0RELVRHUEJyWkIyUU5FbFA5N3hJemFQeVU2eGQ2OEU2TVZ0Mk5hQlU4RmkwcGlzS1BsZnU?oc=5"
+      "title": "산업부, 원로 공학인 초청 간담회…AI시대 산업발전 방향 논의",
+      "published": "2026-10-29 13:13",
+      "source_link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ORmRtdXNqUkllTm0wcXBsVHZZbmNzTjRacFhPNTQ3VTVfajFjM2YyYmhIbUpWUWpUUlUyLXpUUXQwQ0pOOHo0bHJLNTY2bm44bG5HTDFCeDh4WVHSAWBBVV95cUxNYTBvbmNocmM1UFJiZzJxZjJuanZRUGducnZ3a2NiYWhnVG9vR29DdW44TlNKQS0zWEFfUXJBeXl1VmtoT1ZOakQwUHpYblUyMmRWVzFSUHNobnE5eThpLXI?oc=5"
     },
     {
-      "title": "국내 최대 바이오 행사 BIX 2026 개막...300여개 기업 집결",
-      "published": "2026-10-28 15:13",
-      "source_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE40R09PU09lbDZ0WUJNUFkwSVZxc2V5Q0ZIT0hmMW1pczh1Z29wSm5TWjFtWF9KRkZGSzNTUGVNb2hEbmxiZVd5QXJxaWdQN0hjTm9oYVdvanVtUQ?oc=5"
+      "title": "산단공, 대구 골목길 환경개선 봉사활동 실시",
+      "published": "2026-10-29 22:56",
+      "source_link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5heXZiQ1BNSGlyUmpsX1laaVpqS3lHYUVmNDBDcW92SEVjWVExUm95bXFvUjdtSXFENV9RbXpJcnljQ2dMMWhBaTY1aGpEQ3NzSGVHRjBXY01hdUJjUjdFMUpjd2FCQnZfaFo4Tg?oc=5"
     },
     {
-      "title": "한전KDN, ‘APAC 이노베이션 어워드’ 수상…“국내 에너지기업 최초”",
-      "published": "2026-10-28 17:38",
-      "source_link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wbHpWTlpXWWZfTzlaeUwxNFNONHFtUGdla3U1VGt0Y0VUNzNtbkxna1ppMnhJNERyYXRCdi1tTEVwa3NTcktxRllYQkhaWWp3V3NTMnJ5MTNDRk1na24ySkR0MWYwclRHNEVuXw?oc=5"
+      "title": "안전보건공단, 산업안전 · 생활안전 · 공공안전 협력 확대... 사회 안전망 강화",
+      "published": "2026-10-29 16:46",
+      "source_link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1uWVMzTU5YZFRxN3dFMWpvRFFJUzZDZ2FGcWlYMHFoZjVraEk5MHZvZEFxQ1dWbURrcTdfb3VsNXBqR3FjdGZ4eHVkQ2pWZWhEY1ZsbGxfV2lDS2YwMFNKTEVZMXh2aFFETDFocm1R?oc=5"
     },
     {
-      "title": "수원특례시, 국내 주요 여행사·기업행사 기획사 초청 '메가 이벤트 유치 설명회' 개최",
-      "published": "2026-10-29 08:31",
-      "source_link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBiM3ZQM0JzaVM2QkVEUFV6ZDMzSFhzNDQyeXZobHYxNWxIOTdXMVhSX1p6a2otQ19CZ0Jwa3I1V1pSQ0NkdGxIcnJpVHNtZm1lVll6Qk5FUXNoX0Y4cEV4bWYtYlJxeEU?oc=5"
+      "title": "경북 주력산업 AI전환, M.AX로 앞당긴다…컨퍼런스 개최",
+      "published": "2026-10-29 16:10",
+      "source_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBYZE9RTG9DR1pWay1oU2MyRGFYQ2J2dHktQTBmZEFWNUhtZTZqTlVjSUg2eHduRnJJWndGWGNOQlZiRzJmTGt3M1ZBSERSTmEtUGJPdlQyTjZpX1ZWT3pXMdIBeEFVX3lxTE1YR1gzMHE4OTlITXFKaUdvemdLbjBudU9DWWlLYWptQ014bHdhUW84d1lnVEszd0JVenZBaFZpd09rZVBwR2hJN3E2WHBrZWhGbEU3VVdMdHZxT2lQMTZjWDBpWHJ5dWJxT0JvMXNBVWJOQVRNVnFNNQ?oc=5"
     },
     {
-      "title": "한국산업약사회, 11월 24일 약물감시 실무교육 및 교류회 개최",
-      "published": "2026-10-29 07:00",
-      "source_link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE52RzctNDNLY1FHYm9scXRncl9EX0tBSnpUUE9aOGVES2UtMUhhZFJBSWtvZE00RXpwZW0weVlIR3ZrUG5HZGF4anNZVHpqVnp5REF5akpwSVlSTWczTC1peXdiZEJkZXVTNnltZg?oc=5"
+      "title": "[현장:2026 글로벌 커리어 리스타트②] 채용면접부터 AI 모의면접까지…해외 경험자의 국내 취업 돕는 부스들",
+      "published": "2026-10-29 13:33",
+      "source_link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ERERreExLYS0yUXZURjg2bkRUMzhWRHROcldMeDNMV0ZEMlcxLTcyOGRhdEN2eXIzRHFxTTgwVF9iNHljYTRNTWliWHJOR0NQejNBNEdCOWtOdnYta1E?oc=5"
     },
     {
-      "title": "한국산업기술진흥원, 구미서 제3회 M.AX 지역 확산 컨퍼런스 개최",
-      "published": "2026-10-29 08:35",
-      "source_link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9KOHpjbjRWOWY3UGZQaEpjN3ZGSXRYYjdhYzc2cnFGeUlSYTJNc0ZCX0VkemJGOVBGaW1Rd3lpY2lNSFlKM3YtTGJodjVGeGF1NXE4M3dWTV9PclV5M29jU3k1QzhvN0xIVUpHdDBOcULSAXRBVV95cUxNVjhValBYbUtpUmVWV1pISUtfazV2Vkh3YkpGdXRmbFRnV3g0cTJWaTkzNkJuU1oxckl4amZwcS01X2NYcDNaNkQ4U01BbHlpeDdJOFVGMEVrY2VwR1FDamEtQkZyWlZkWFhpbEF0dFlwY2ZfdQ?oc=5"
+      "title": "'해양수도 부산 세일즈단' 출범…\"수도권 일극체제 넘어 다극체제로\"",
+      "published": "2026-10-29 16:56",
+      "source_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KTzFjd29TWlp0a2pva2NHTTVxWWczV3pVbU05VHNUWXJydGx1cmh0UmxQVWF2UWVlV21wa255bDlSQWY1cDVldUg3UnVTd05ScW5sc05Fa1dmUQ?oc=5"
     },
     {
-      "title": "한국산업지능화협회, 스타트업 아이디어 활용하자 '중견기업 넥스트 동행라운지' 성료",
-      "published": "2026-10-29 02:26",
-      "source_link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBMa0ZNem1RUHJCMlMzVkxRYU1kMFZmbG9WLUkwUkZCOXBYUE1fLWNKOF9mUzJuX1RMbmptbWh4V2lBWi1lbmJWRkNucGVzUWFEWlQtd1dNZUIyNEVHVmd6cERNMnoxd214aXZDWm53?oc=5"
+      "title": "온충북 마켓, ‘코리아 그랜드 페스티벌’과 함께한다",
+      "published": "2026-10-29 15:46",
+      "source_link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5vNmF6bm81MVp6dGNrSVlyR0NCNjdSbHRIZjNJR01xZERYbGIwdmNXSXpnRGttbGxaQlF3dUFiOVIzUVdnQmIyR29mdXF1andaZ3lXNzRnRXM0emRHZ1A3ZWYxLU5jeU54N0FnetIBcEFVX3lxTFAxTUg5MnpiZW9hRWVaWXkyVGwtMTIxZm9Ec2dTY3RqeXlkWEs2bjdMNHdRUEhKajFOU09mb1Bwd0x4ZjZuZkRjeEhrbHRyc0t4TjNqbUNDQkZsd25LZHczVkJKWXlMUkpHcXRvS3NqVUU?oc=5"
     },
     {
-      "title": "한국산업단지공단 울산본부, 발달장애인 위해 온누리상품권 200만원 후원",
-      "published": "2026-10-29 01:08",
-      "source_link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5IRXlQUXVzbk1XbzY4dG13bXhCcG9vZ0ZrcjdUam5HVjBhVnNfTGJLcnRfM3pEQzg2U1FuQ2hnVHdYVllHMUVoTUUwQjhMdmhsaXJ2RWwzMThVWTh6ejNuTGRSb3FQV09OMnVFbw?oc=5"
+      "title": "“차이나머니 못이긴다? 미국은 4배 더 투자”…美주식 60% 담으라는데",
+      "published": "2026-10-30 07:04",
+      "source_link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5RMUtBNnRkS2YzNXNvdVBMaTZySlhLZ2xoQXhDVjYwUGFwRnVPcEZPOXN3UDN4LVE1VXlzdHRpMVJ1dVQ0U0I4QmVjb3Z4Um9KSEE?oc=5"
     },
     {
-      "title": "한국산업약사회, 'PV 업무 역량강화교육 및 교류회' 개최",
-      "published": "2026-10-28 17:53",
-      "source_link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ISk1xNDJHZzVrMU9ZbUxZeTB0TldILVc5NTJ5Si1xNUdmZEEzU1djQzZSamg1UGg4ek9wbk5jZlFMUG4wQU5DNURqVTNPOWVLSF9ycmF4SVRPTHMtRjFmMmozZDlMdGFoTldmaw?oc=5"
+      "title": "국내 주식 암울한 이때…상장 앞둔 ‘앤트로픽’ 나도 한주?",
+      "published": "2026-10-30 09:15",
+      "source_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ieWJFaDVzamZoX2hDeFRaVWFmSHItTVV2MnhkSW55dVA3bUN5TXB4Ym1wSDFjRmhTRzZ2LWxGNFF5elNQekRzVW5RYlBPMGx5SEk4blNFZnphZw?oc=5"
     },
     {
-      "title": "산업약사회, 내달 20일 '산업약사 BD·투자 포럼 및 교류회' 개최",
-      "published": "2026-10-29 00:34",
-      "source_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE80NnFxVFlnUk9mWmRRVEZUaldlelc5LWcwajdhdjFRN1RrQS1zNF84bGtmZ19sekpqVERrZXRTTTFuUVZFaHVJMkt6QnRBbjNHYWcwU1NxVkV5dWowWXY2M2NJR2xpd1M1c1JJ?oc=5"
+      "title": "'모집액 2위' NH투자증권…채민균 이사 \"IB 역량으로 우량자산 선점\"",
+      "published": "2026-10-30 04:23",
+      "source_link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBmVUF0WW5JaUJBOGxya1F5akQzT3dESm1OLUtjdlU3OGJUeGRpUm1kdHYzc0ZSZzZkMmwwakpaQU1pNlB6ZFFqRlV5elFPdnRSY3VHb0ZhRGlzWXp2eEE?oc=5"
     },
     {
-      "title": "국립한밭대 백수정 교수·배성찬 대학원생, 한국산업경영시스템학회 나란히 수상",
-      "published": "2026-10-29 00:13",
-      "source_link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBhWDRCOHVNLUg0V0UtY19Od0J1UjR0NVgxU2tFVWtFeFVUeXdjX2RtalVfaUdXdUhXLXIwQ0NMVHBXc0pxdTczSElUSnBUanE2N2VZdHhCV2ExYXEzeEtsOHcyNGJHQTA?oc=5"
+      "title": "신용보증기금, 무탄소에너지 R&D 기업 지원",
+      "published": "2026-10-30 09:11",
+      "source_link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBDbTFQa0R4MUw5Z28xdDNFYk1BRHFMUlBGUG1UNUNKUF93RzlELV8zNU05ZlZqTGQ2M3d5NXEzQVk2TFVoT2UzZ1FUOGlQcFp1NWFsb0wtQjRaMkVX?oc=5"
     },
     {
-      "title": "한국산업기술시험원, 광양분소 개소",
-      "published": "2026-10-28 14:38",
-      "source_link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9LUTVqdG1IMzBVNUx1OWhVN3kxREZDTUxzamNMMjlQZzJadjVOSFlJbUR0a1B1MWZvVHlCNEJETm1ROFlnRzY5NHNyakYzd2M2U2trU0JuRFZ3aWdRSGtGZk1HZTNsWkU?oc=5"
+      "title": "HD현대, 자회사 실적 호조에도 기업가치 하락 반영...목표주가↓",
+      "published": "2026-10-30 08:59",
+      "source_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1VRmRkZGJ2S014cnBHMDFkLUl0SThBNzJ5WGJsbWRIajZlSU8tNllMbWc4S0syQXB3Y3h3amZqVmYySUpkODJONUNsUkJSWXRCZXRpMGRISFNlRHgySW0tVDRlc3NyVHQ3NTRv?oc=5"
     },
     {
-      "title": "대구시교육청 및 5개 교육지원청, 한국산업안전보건공단 ‘위험성평가 우수사업장’ 선정",
-      "published": "2026-10-28 22:25",
-      "source_link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBMaUlGQUZIdnVvSm9CTzdSN1BlZkNmUGRGSi1icWNfc1p6WVpCNnJ4RFg2UlAyak5TS3ZBTXlSS0hCX2gyUVI4bEJqUWJIcmZISTFqQXNfNS1KQThjN29HRl9jTQ?oc=5"
+      "title": "‘AI 쓰면 상담원 줄인다’는 통념 깨졌다…실제 충원 기업이 감원보다 많아",
+      "published": "2026-10-30 08:44",
+      "source_link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1ZZ0lPYjJURUJyZjFyUFF2Nm9yTlBpT2gwYkxIQ3EtTVp6Q1VjSmFHbEdFcDhyeEZIYk9SWFNRXzFBUzE1LVpTdg?oc=5"
     },
     {
-      "title": "디웨이브, 양자 어닐링 + 게이트 기술 동시 제공... “국내 산업 최적화 문제 해결”",
-      "published": "2026-10-28 15:55",
-      "source_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE81Tm85RUlaelM2T1p0MEFIdGViZXM5Y3pIbWttaU9qUjJUSGprVEQxdWhib1ZKeFVqZUdOTnpXTkNKUDBSUjVnQlY0TnlPeUxFRWhPcllpOGxPb0RMdGk1bEhPek1nTVBTaGtB?oc=5"
+      "title": "미래에셋증권, 日 산코증권 인수...글로벌 영토 확장 본격화",
+      "published": "2026-10-29 16:30",
+      "source_link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBYdmhZTlRiNlJMOGRXNTVIVjdhMENwNXUtbnZNR3I1U0lkS3F2VDhHaUhBYTJzTWlLMGQ3OERjWDA2Uk9CdE42em1XQ3MxeVZtVjF6M2owWFdXTVZlLXdXMjduRy1PNm9KdVh5Wg?oc=5"
     },
     {
-      "title": "'바이오 부트캠프' 학생들 취업역량 키운다…경진대회·취업특강",
-      "published": "2026-10-28 12:00",
-      "source_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1xN2wxRWp5ekxKamRlN3BHQV84V2pvZHZhUGtSRVVPLWhoN3BNd0hNMktjSGpYT1RIR2VCQ2xjNVlaeWpFU3JOdE84dHhyRm44VGRyZWR6alMtU1U4S1o3ONIBYEFVX3lxTE1xN2wxRWp5ekxKamRlN3BHQV84V2pvZHZhUGtSRVVPLWhoN3BNd0hNMktjSGpYT1RIR2VCQ2xjNVlaeWpFU3JOdE84dHhyRm44VGRyZWR6alMtU1U4S1o3OA?oc=5"
+      "title": "“국장은 웬만하면 하지 말라던데요”…10대 해외주식 비중, 60대의 5.5배",
+      "published": "2026-10-30 06:02",
+      "source_link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBkTXRwbzZaOE4tQk1qQXoxazRQVGdzTHg2SVdUTk85ZlcySlI2VWdqaElEVmxFLV9NZVNLOHlfLUpqbi10NHdtVXRyN3dld1BRWWc?oc=5"
     },
     {
-      "title": "KCA 한국소비자평가, '2026 KIMA 한국산업주요기업평가' 결과 발표",
-      "published": "2026-10-28 14:41",
-      "source_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BQmFrU3lMZ3IzV3FHbzZldldMM3dYYmlCUHdTektfUVFLMndMZ0g3WE1OSUR2YXdsUTVxZy14LXVMQWRlQTloWlZQMDVaSS1UM3c2WElVNzRrdw?oc=5"
+      "title": "에너지 엔지니어링 기업 영광, 내달 2일 코스닥 신규 상장",
+      "published": "2026-10-29 16:28",
+      "source_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB0NndJLVY2SU0ya1RUM0Y1aUZ0N3VlYlVDWkh3OVpYa2NYQ2RtTFpFV244ODhGUGN3ek9JSkZVQlgzZ2d5bjg3VTFiQXp1NW1IaFR0enN5emlFMmpxZjk3WNIBYEFVX3lxTFB0NndJLVY2SU0ya1RUM0Y1aUZ0N3VlYlVDWkh3OVpYa2NYQ2RtTFpFV244ODhGUGN3ek9JSkZVQlgzZ2d5bjg3VTFiQXp1NW1IaFR0enN5emlFMmpxZjk3WA?oc=5"
     },
     {
-      "title": "한국산업기술시험원, 정책 발맞춰 반도체용 초순수·관련 기자재 품질 검증 앞장",
-      "published": "2026-10-28 17:51",
-      "source_link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBSMGY3aVg5Y3kxU3VQVWx1VE5sQUlWS0gtTXIwczJvNmZuZDh0alFJM1ZrYnhBdHZfX0hzSXJybVhXQnRKNjVlZ1gxTHc5c0pRaHZ1Q0dlSVd3b3pQendNVURTM2FlNW1oRm1mNHhhazljcjc2WmZtZHZQb2s?oc=5"
+      "title": "대우건설·두산에너빌리티 급락…체코원전 팀코리아 균열 - 머니투데이",
+      "published": "2026-10-29 09:45",
+      "source_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ucGRpcFlTbFBBdDVWQUV3QWRUYlQ3Y2htc0llYTc0eXdWd1dvRmdlMENmeVQ5LTZHZWxWNy1KZGYyOUlCZnhtV0JtRTZibXlHb0RfNHI0Uks4VEEyakZzVTdzVVBlZkM50gFuQVVfeXFMUGlBOVRQRG95eXZIaTFicmdvYWtNSzY1S2tWS0xfU0JBcGdCdUVSOEs1Sml0bTdqaTFjeEUwdHU5MXVTVnUxdUNjczYyVzN1c1FVY09RcTZGQnhpa2JzYlFQenFVUTdGSWc3N0Nqc1E?oc=5"
     },
     {
-      "title": "한국산업안전보건지도사협회 전문성 강화 및 정책활용 방안 세미나",
-      "published": "2026-10-28 13:36",
-      "source_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBsZ2hfNTJTX1RXYXhxdU9PcUNVX3piLXJKYlJ5R25fU1VEdlJac01LekhYQUMzSGVzdFNjNTMxQ3lVZEIxWGRDLTVIYVZHOHNXRFNRYWNaWFRzUnh6Mklpamt2ZmtqWEhL?oc=5"
+      "title": "\"인수 제안받은 기업, 주주에 검토결과·거절이유 밝히도록 해야\"",
+      "published": "2026-10-29 19:08",
+      "source_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1VMm1qZjg4R2gwbkxUX1hQN0gxMDRjdUtPU0N5Zi14Umk2YVZ0eEtDMmhIUjEyQUc3emNESms5bDRTckhMU3g1Wk9YNEc3REhnVUtsZXZPZHBRYklTMzQ2ddIBYEFVX3lxTE1VMm1qZjg4R2gwbkxUX1hQN0gxMDRjdUtPU0N5Zi14Umk2YVZ0eEtDMmhIUjEyQUc3emNESms5bDRTckhMU3g1Wk9YNEc3REhnVUtsZXZPZHBRYklTMzQ2dQ?oc=5"
     },
     {
-      "title": "국립한밭대 산업경영공학과, 한국산업경영시스템학회 신진연구자상 및 학술연구 석사부문 우수상 수상",
-      "published": "2026-10-28 15:55",
-      "source_link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5IcE5JQ3JmTHNhbDJ5TFJpZnpUampNWWllYV9SWWxlaHR0OVlOeHR6dWhsX2FSZ2dRZ1NGR19ORm5DOW5VZS0ybTJ0bXpfZlUtMVZUQXExZlFISzhPeFNMRWdaSDh6Zk9kQV9ZQg?oc=5"
+      "title": "[잃어버린 투자본능③] IMA·발행어음 터줬지만…'안전한 모험자본'만 늘었다",
+      "published": "2026-10-30 07:59",
+      "source_link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBFa2NpM0lmMEpBTUptWklJMDVSUnZzRncxUHJUUUV6bnJYTGJ3XzlxSUpadWJsT2dONzhYNzRWall5S3dDTE9OUWFYdk9jd1FCb0VsZ1ROSEpTVjZ0eTEwWU1VX0hHZGI2TF92bW5fWlE0Zw?oc=5"
     },
     {
-      "title": "한국산업약사회, 내달 20일 ‘산업약사 BD·투자 포럼’ 개최",
-      "published": "2026-10-28 14:01",
-      "source_link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE82R2tyNmJZRW9nQkNadjBlTnZHZ3lJWFc5UHEtcWVoa2x1bTBWNVFzSmRHTHEyZGpmS1J1Y0V6M2x1aUs4M05QMHNvUjkxSy0zdmVsT3FRbEE0dGZVQ1hFMzdDSXlITlNyX3MtMg?oc=5"
+      "title": "하반기가 더 좋을까…코스맥스 3분기 영업익 껑충",
+      "published": "2026-10-30 08:12",
+      "source_link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9odURJTWFUeXYtSFFwanNsTUdDV3BhdWIxdkZwTzkydVdmbHhmOUJUTDJUWVlWT25paV9qdXpSNHFTUm9kbDFjVWpTMl9lVGhLbXhCaHVwOV9WZHFqMjNBdTNRQWpXamRhc0ZDWkVxM24?oc=5"
     },
     {
-      "title": "한국산업인력공단, 신기술·신융합 직무역량 더한 '플러스자격'…자동차튜닝 도입해 인재 육성",
-      "published": "2026-10-28 15:52",
-      "source_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1DaUpKNGY4UTVERVQwYnZXMUVMQ2xaZmtRc2lKQ2tfcUtKQVBVTXducmhzSHZvYnBhLUg2OWkyWUJ6TVNueVdwWi1STTh5cnhuYnNsV0s1QXBDdw?oc=5"
+      "title": "[더밸류 브리핑] 오늘의 증권사 소식…신한투자증권· 현대차증권",
+      "published": "2026-10-30 08:15",
+      "source_link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE50RjFjMnQtSnY2aXFvc1R6TmFvMGtxSUs1YXg1Nlpoa2ktRW0zTGEtemZnd2ExR3JPWVRMOVYxd3dHUkVpelI3VFNHNEF4OXZqOWFSSFY3OXVkd21Wd3c0eUVn?oc=5"
     },
     {
-      "title": "[게시판] 건축사협회 주최 '2026 한국건축산업대전' 개막",
-      "published": "2026-10-28 14:30",
-      "source_link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBjTkk2WkNYeURabzFFaDdFZHBGbGc0cFFQOXZBTEpZZjdDeDFRZ1oxeU5rQWZ2X2RpeTEwcWRJX0V0Y2JoNGd2dWMtYmo1VHZzZXNjYUtKV0xHRHlzQkJ5U3l2NDU3VFFlR1pQWE5UcGdIMnc4RXN4UHZXTdIBYEFVX3lxTE1SY3RUbnBEU25mOHMxY3F0ZkEwNEdweS1NN3hDS29qSnQ1Z2pCVjhyM1NPbE5kX2wxTjNNbnBhMHEzUW5HNC1taDIwdGJscEpBRGxYZ0NpeTVqbnc3a0JIYw?oc=5"
+      "title": "\"기관이 팔수록 눈여겨봐라\"…11월 유망종목은? [한경우의 케이스스터디]",
+      "published": "2026-10-30 06:30",
+      "source_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4STVDWU1YdTg2S1lLUFBMYTRjem9aR1lqZTIteGlGYkVzNVNtQmhJV19wcHZYNE9ZX0ZxeWU3VGo3U1VHRjFYMndCbi1UNm1Uclg0RW9uSkJ6UQ?oc=5"
     },
     {
-      "title": "한국산업기술시험원 광양분소 본격 가동",
-      "published": "2026-10-28 10:25",
-      "source_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8yMWx4aDNsM3dZbjhiUEhyVU5NQ1ZCeWU3aU44UmlLTzZEQlNHeHdndkdFVFNRMFFCV01wOWlGVV91YmczeGpINkw5SjlEWWxuak4taWhXd1c0VUhmV3JaN0ZoeW9fUHpvdHE4?oc=5"
+      "title": "해외서 라면 잘 팔려도 국내 부진 깊다…농심의 고민",
+      "published": "2026-10-30 09:05",
+      "source_link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0tUXM0N2JBbmh1MU53N3lUVHhrV19naHB2NmdVQXY0UFJuWXdpMllMbUpjR2o1bEhwdzdTako0aTlMYkljQ3V3OUFZak8zeENiTldLZldYbzRWWEpwNnVYV0hGVjdkTW1yTzNUdVJFXzM?oc=5"
     },
     {
-      "title": "[여행산업 HOT 뉴스] \"한국 여행 필수품\"…외국인 마음 사로잡은 인바운드 결제 플랫폼",
-      "published": "2026-10-28 17:45",
-      "source_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5KVUZLczZlMHB2aDFvSzJSWDhuUWtxWkFyd0FWNll4T0R2STk1alpvMF81dXY2RGVLSzNPdUp6TF80R25pWjRKMDlnM0ZDd1IzZzhjenlJT2ZfZmRyNlBJUFQxSnl3YWl5SGc?oc=5"
+      "title": "[현장에서] 자본시장의 기형적 신분제",
+      "published": "2026-10-30 07:46",
+      "source_link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5xa05ITzlyc29VUm54eXhoSjNoTkJXODdyMzBLNmJOS0ZaTHF6R09fbmt2NlJhNno3OEROWXpCQjBRUGNENkFQeGJReE1pVmx5cFI3QlE4UXlkNXJlX1BSai1KTDJ0Ty1zLWVFV2ZWUkVhZw?oc=5"
     },
     {
-      "title": "국립공주대 식품공학과 전혜림 학생, 한국산업식품공학회 우수논문 발표상 수상",
-      "published": "2026-10-28 12:28",
-      "source_link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE83cnhVVkNFZ2JUbmJ2TG9Td18wYlRpNkNaX0FvblpJN1VqcG1YdG1MZUpicDdhYWRQemlDWGNaNjNObWtnd2ZHcHpaUVo3RlVXLS04WEFYa3RlQVJHY1hGRmZzVFFXM1MySlNiWGxWSUxOZVk?oc=5"
+      "title": "한화투자증권, 체인링크와 맞손…글로벌 RWA 플랫폼 구축",
+      "published": "2026-10-30 09:26",
+      "source_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE50VTVVRnRQeUxoOFlTWDVpUkstcUN4V1owRGJRWk9VU0xpamszUVhsdEpIajg3UnlfaWZxVnJ2c0xybTFLYTBScFZYNUczQkRCWXA4Y21oU3hxYndhQnlMcXh1M2l5eE1Y?oc=5"
     },
     {
-      "title": "산업기술시험원 광양분소 개소…산업부산물 재자원화 거점 마련",
-      "published": "2026-10-28 09:40",
-      "source_link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBmYlNVeEs4S29PWWFieW5pSTRGTWxhR3NiNHctbEhvNU9LNFdrd2ZHWXVJaXdEeWQxVXljZ3RMWjZLclM5amFCSk9RaTRnWEtweG1VaTlyNkhjd29zTDBr?oc=5"
+      "title": "[CEO 리뷰⑤] 박종문 삼성증권 대표, WM·IB 동반 성장",
+      "published": "2026-10-30 09:00",
+      "source_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9MWTZXLThkX3pPbU5CcGJNM0wxQkZPTDJ4aGVRcm9YTHJZS2twR2Y4SVJDY2xkNk9rQ2p2d1Y5a1FLRmZSRXlvMWRzd0phSUt6NHpDTXpqVmZLc2dJNi1hVGxGaUc?oc=5"
     },
     {
-      "title": "2026 한국건설·안전박람회--‘해체산업 선진화 컨퍼런스’ 개최",
-      "published": "2026-10-28 12:54",
-      "source_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5UUGlXeUVvMTAzWlZYMUJFUFFZTHRyRzREOEtWQ0d6Q3k0QzZGUDVraEdpY0VXY0RwaUdHUmtJNFUyZG9LTnNZTVFmYWZVYnpwcXhnSm9xNVAxWDhVUzNDVXVxWWZtNV9j?oc=5"
+      "title": "'팀코리아' 균열에 원전주 흔들…\"지금이 매수 기회\" [종목+]",
+      "published": "2026-10-30 09:08",
+      "source_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aTmtqV0dsaWtueEczQWtXcFpyQWZhQWhSQ0x1OUh2N096dm0yR25aNVdsZzJhRm5wVm1SeFpjVHcyRERIQW41QUhlYVFiX19yYjBzLXpQck14dw?oc=5"
     },
     {
-      "title": "교육부, 바이오 부트캠프 학생들, 부트캠프 출신 현직자에게 취업 비결을 전수받다",
-      "published": "2026-10-28 13:31",
-      "source_link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1jdklsTU9jenB6V2o3MURKeUthcXhjd0hBQ1Y3MnNnMDZHM0NMLWRIM19QamdYaS1PaVlaTHRXQ2Z4MHNVR2FrNGlGTERnTjFhSXJwMUFVYkFyMUl4LWJrbU5hOA?oc=5"
+      "title": "NH농협은행, 문페이·핑거와 디지털자산 기반 글로벌 금융서비스 협력 업무협약 체결",
+      "published": "2026-10-30 08:50",
+      "source_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8zekRqNk16M2I0QUJ1N2RER2tzNEw1MXdpXzdoTDQtcVI2a0YyVFR5ekc0REp3c1JWazRZSFdIZm9ZN1FEWEhZemI3cDRGMFhqcFI4TFN4YlE1Zw?oc=5"
     },
     {
-      "title": "광양에 산업부산물 재자원화 거점 구축",
-      "published": "2026-10-28 09:34",
-      "source_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5RY2xsMlk0N3lhcWZON0Z3bWRpN2swbFo0Ny1oVTBKYjlMX0pyUk55YTNYa0MwalEteUFHVHBfbmVLeF9UaGJOUFF1bXRaeURacHRyTFRiRllibFM0c2hVamo2aUgwMEtRZ3dZ0gFvQVVfeXFMTmFUMDFxNjhBSDBXZ2RZM041eXdnVVVYMzhNRGk3TXVhQlRMMmNlZ0NrTlppUWlDa0JmQnIxR19uUXlBMzBGVGhpZDlmaVpHV19wdi1uQjhpdEpsd183NmRGR0tBMGw5c2hTQXFZZE9V?oc=5"
+      "title": "한눈에 보는 오늘의 뉴스 (10월 29일)",
+      "published": "2026-10-30 05:41",
+      "source_link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA0SFA1b3RVNzl0SkJNNzNYR0wtdVlLazVSYm1la3VFNTdFMHAxZXFpU01hMHREdVRMbHFIVThvMm5RNWhMLUNpdnVEQXJZTkp4MXZwWmZIT1NRM0NUb0RHVDl3?oc=5"
     },
     {
-      "title": "KAI, 협력사 42곳 AI 전환 지원…항공우주 공급망 경쟁력 강화",
-      "published": "2026-10-29 09:00",
-      "source_link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA0OVJzTHVpU2hXeTB0MHhpdzZDc1ZPZlRSb2REZEFXN2w5NTV1U0lMZ3BGa0hHeU1PN1AzRDVfUm5lSTVxQVd3Z1BnaUcteHhmWlROR041VlpBUXRncG9id2dySmZmWjEzRTg4QXRaUdIBckFVX3lxTE1FU0ZWV1lzdkdLTlhGZzJVeDNzVVZTUW1meHFJdng3US1TaTVYbVZ4LTFWLThGMURtcWExOU94WTc2SEVsSFNLY0xYeTM1cmN6ak5tdGhENklXLWllQ0M0RXo5anJibEdJNUtYMzFpQi1ZUQ?oc=5"
+      "title": "아모레퍼시픽, 국내 수익성 개선에 3분기 영업익 25%↑…목표가 18만원",
+      "published": "2026-10-30 08:51",
+      "source_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE95cWNaYzVNZjJXekZQTTU3TkdEUE5oM1RwcE9SeGxUZ1ZhWWRnYWV0Y0xhWUYwX1dFU3RYTEdxOC15cEpJcFM5Tk90Rm4tV0RTRzVVTk4tTjV2Zw?oc=5"
     },
     {
-      "title": "김용필 한국비즈넷 대표, 은탑산업훈장",
-      "published": "2026-10-28 18:23",
-      "source_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE56Z1VtWERrMVU4SDRKZ05EbVc5UmdlZXY0WVFROHBzYkdTcWE1MGVtdmxUOHBIV1ZneHZsVGRPSkhhZ1BGN3ZIOC1aRmdvYmlEUnhGVnhrLTUxZw?oc=5"
+      "title": "미 공익감시단체 “쿠팡, 미국 무역정책 무기화해 한국에 부당한 압박”",
+      "published": "2026-10-30 07:12",
+      "source_link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE85Yjg4eDZoQUQ0SGlaN0VkN3p6N25JQXVrY1hMQWk1UHhYbHlwMUtVM2JvWkZUWlByY1Yzbk9UbUlkellQOFFCT2JUeWkxNDN2UktSRUVaY0FNWXZtbEdiN2xNVzBoOTkzRG5QMWNnQQ?oc=5"
     },
     {
-      "title": "한밭대 산업경영공학·인공지능소프트웨어학과, 학회서 성과",
-      "published": "2026-10-28 16:15",
-      "source_link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5kNVRWWTFzS1FvemlRd2RYc3JXLXR6N01OZTdmSDhQdmFMNEdGbXVQUkZFaEtHX2dZWWZyT1E1SzQ0VGxRMVk2N0dJWkczVlgzb1Z1SFJLVklFRnVuWDA2UEJCNXA0SnJFa3Q0ZA?oc=5"
+      "title": "[IPO챗] 넥스아이 \"2030년까지 매년 1∼2건 기술이전 목표\"",
+      "published": "2026-10-29 14:00",
+      "source_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5weUctMjZONWQ5SFVTeU9Nd2JEZVhhRTBZMXBDX3hiZS1sa2lTcmFWaVlvVDlNbC0wTDJCT2ZMcnlLOFduZ2NjcW5PUnRuZTRvclpMTk1HcXV5NnVpTnU4b9IBYEFVX3lxTE5weUctMjZONWQ5SFVTeU9Nd2JEZVhhRTBZMXBDX3hiZS1sa2lTcmFWaVlvVDlNbC0wTDJCT2ZMcnlLOFduZ2NjcW5PUnRuZTRvclpMTk1HcXV5NnVpTnU4bw?oc=5"
     },
     {
-      "title": "제34회 물류의 날…김용필 한국비즈넷 대표 은탑산업훈장",
-      "published": "2026-10-28 11:00",
-      "source_link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9VRnFiTVpDWjRpTkM1M2ZpVE9tVlc2NXM0blZ0bTFuazIyMm9fb0x2NGU1QnNDZjlxMjV6Q09TZFVTMFNOQmktNnN3bHdnc1MyMU9BX0F3TXZfNG_SAWBBVV95cUxOVHdnQmpKMG5oOWxveHFJY1dvZHpHUUEzSGVTTEZXelhjTnNPakZoTFBQcEtmQ0dSbURQODU5Q3RKbGlzWmIxZlpkSzBaek5Qb3ZsMVkxVEpFak56OG1wUmI?oc=5"
+      "title": "[THE COMPASS] 정지완 등 최대주주, 솔브레인 주식담보 15.52%…’골프장 지주사’ 차입에 동원",
+      "published": "2026-10-29 12:06",
+      "source_link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1DWEV1SmtqaXdmdzRFRHNIc3ZfdjV0VGN4a21ZVDNEck9zcDB5UG5Cc1h3ak5seUtrSkNtb05OTDdIU0dXQ0FTaVVLYUoya1lqVlIyUkJYZEVkNC0yYjJQRVdfbzRtZjFzTkZ0UXRmNEdWLWN0czVkcGRfSW4?oc=5"
     },
     {
-      "title": "한국탄소산업진흥원, 탄소제품 표준·인증 지원 강화",
-      "published": "2026-10-28 14:49",
-      "source_link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBrbTJlY2FyaTlHY3FDR3Vmc1RNRHVfWVZpcnhyWld2czRDc2FhQ0wwTTdUQy1kLUdWYldhM3ozWFhvb1lnRnc?oc=5"
+      "title": "[나도 장외주식] 원풍물산·카프로·코이즈...30일부터 K-OTC 거래",
+      "published": "2026-10-30 08:08",
+      "source_link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1hdllXQnJBMlZMeVdDeEl5M253UWpuWGFtRkpudi1jdEduRW5hSVlTaGk4WGVPVzMxeGdlY0JfVmhJYV9oOFNyT2ZEMmpjZWMtbVl3UDJVRkZIRThaSjVIeHFhWjluRUdxWTZuczNlWQ?oc=5"
     },
     {
-      "title": "FITI, 미래차 소재·부품 신뢰성 기술 선보여",
-      "published": "2026-10-28 14:38",
-      "source_link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9ILWhSV0tJV0FnSkh5WXJGUERUdEZybHQzcEpoUmJ3anU4ZVl1X254NzlaeEM3SkszeFJ2RnRRbm1NQTRq?oc=5"
+      "title": "[코스피 지수선물 옵션] 이차전지·전자부품주 줄줄이 하락…반도체·금융주는 종목별 차별화",
+      "published": "2026-10-29 16:41",
+      "source_link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1OZWpRVW1pMFQ0dWxKZkF6ZnVWTUZHbmJkcW5IT0REcnJwY3p6MmdFWkhfWEZ5aU1jVEV3T29ySFpmUVBpcWhwWlkyR1hiVF8wSFhIRUxZLVkwVW1qcVgyVExWM3ZXOTdZM1VvMjVtUDJQamPSAXdBVV95cUxOSmJYd3FFb0k4N0RKQzFaNnJoS2hscnFpRWVEWl9pTUMwenJGQVJESU9rY2tXYVhQM294eGlLal9QbnlNeWw4OEY3YVVjX0tJdUZoZGZxQnFkU0RYNGdpMWdlcHlacm85QUJPbDNMSVpHdXVwem5pcw?oc=5"
     },
     {
-      "title": "‘2026 소재부품장비뿌리기술대전’ 28일 개막… 기술과 비즈니스의 연결 본격화",
-      "published": "2026-10-28 13:01",
-      "source_link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1oUjEzZkxJOUo1czV0V1RJWHptNXVCWVNRMmVpSWZoRjd2NlJRc0ZCemd4OU5Qb0NucjZuT25Wc1JobWFrLXFsa0V4QlNDYWR3dGxRRS1mRzZ1NVFCS2o5NXdn?oc=5"
-    },
-    {
-      "title": "한국데이터산업진흥원·나라아트·선전시 인공지능산업협회, 한·중 데이터·AI 산업 교류 및 협력 간담회 개최",
-      "published": "2026-10-28 15:05",
-      "source_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1GaXloRnVCeHBPWjgzUDAybGdndm84ZEp4NndiMm9FeGlkTllHRWJDNW9FUWJNWXhOc2kycDVreGZmdUxGNVpQQ0FseC1nUmFRQi13alFLck01TkQ4OS1halJZeWdhTUcy0gFsQVVfeXFMUHppY1Ntbnk0YTJ3dDVDM2I0OTUwMGlQTXlIWV9nblZGdGQ4ZVNWcmxXVmt2TmtGTW96X0ZRN2hVcy1vQV94b0M5MVR3eUJkUHpaOTRpSkpEUnRkOEVhUlhpTnFvaTdodG9MQUR6?oc=5"
-    },
-    {
-      "title": "FITI시험연구원, 미래차 소재·부품 신뢰성 기술지원 강화",
-      "published": "2026-10-28 17:31",
-      "source_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ZZGR1S1VsaEhVRTB2bE9LR05tUEZJM2psVkFWY1FpRy1XclUzRnppQjJ2UWNUNjVNRks3cjBpa1NZQmlLTDJOUUNrZE54dmZKcDluTnNVMFBEdkMyeXZmMEl0RHNMSWZT?oc=5"
-    },
-    {
-      "title": "[포토] 한국건축산업대전 전시 기술에 '귀 쫑긋'",
-      "published": "2026-10-28 14:31",
-      "source_link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE14M0RtRk5SUXBFdkdDZkNfelozdWJ0YThhSlRJd05xNHV3ZzRRTUxTVDNLbHVkZVB4X2VXa0dYUnJPNWZiUERIUVpPMVJQZF9YZ0Q0Z1hFa01HSnR2bFFOOGF2VWFxR2lHb0UwMkd5SkU?oc=5"
-    },
-    {
-      "title": "[포토] \"2026 한국건축산업대전 화이팅\"",
-      "published": "2026-10-28 13:05",
-      "source_link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE91LXZpU29OOTVEc2tOQjdsSzdnUVFXa25wc0ZfMEo0RVBqaUdjR1JPZkZXcUV2Z1poQjVGZjB1bGFwRVJUYURDTE9TM1JZdUVxQ2M2UElFN2ItYjh3OE1uRV9MQVFib0ZoeUNlaWQ1MjA?oc=5"
-    },
-    {
-      "title": "전남광주시, 광양에 산업부산물 재자원화 거점 구축",
-      "published": "2026-10-28 10:57",
-      "source_link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9mbWFUaE0zandTZVlCWnFiN1NCZjlXMUxnUERTTGw4TEVfaUZQOUNpVndQLWtvak9KdU1ULW14cmF4MHUzemN4NmZNeDd6dS1NTmhQRjZ4QzBvc0tybm1malZSMDlQRzVMdGcxTl9BZw?oc=5"
-    },
-    {
-      "title": "한국반려식물협회, '제3회 한국반려식물 산업 경진대회' 성황리 폐막",
-      "published": "2026-10-29 07:41",
-      "source_link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBGeHd6WDdMRnMycE9tbTBRY2xsUlo4RTF4NEp1X21tRDZIUXoxQlpQdkhmVTZDOEdpNmNTMmgwNjRHVGxKNzVuUnFLZmR6SzkzY2xzMXdINm5KZTF2a2VyRnlEaFM4S05nbDNkS3BDQ0J1ZWtn?oc=5"
-    },
-    {
-      "title": "KTL, 수출상담회로 의료기기 해외판로 개척 지원",
-      "published": "2026-10-28 10:24",
-      "source_link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBOTXJUSkR5NUtQaEZFeVVDZXFCQjJZMUU1S3FKOTF2engyX29kS0pPMk52ZlFibmlrRHRtajVVdHlULVIzR1oxVUZlTjc1V211TVE4Y20yQ0JVSFNWdGZaMFdsUXA2bHPSAWtBVV95cUxPWDYtajh0MFgzMTRpeGpOeENONVNXdTd0Zi1vYUQtQmViTHNYVnRyLUtsdE5MOVh4a3FUT1dyeElYcElnaGdVYmlNbzdBNFFSRndCNUc0SmdrOFBzaXN6dzFhZVJxdmFmbEpNRQ?oc=5"
-    },
-    {
-      "title": "FITI시험硏, 미래차 소재·부품 신뢰성 기술지원 소개",
-      "published": "2026-10-28 14:07",
-      "source_link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9NeldHc0p4LUNHRENOMExseEF0dHBkbXlaNlpMc2RIT2xrT1JwY3R2ZE9NSTE5aWtHeEF3bG96aHp5ZHRkck5JbDlfT00zcUhUT0VOa21GZTF6b1hWWWVuR0ZMc1lpeTTSAWtBVV95cUxNblBKb2ROUkM5ZG9ueUs1b25sRUVRVDF1d1NBUGl2eU9RZHBMT2VGSnl4ZklBN0txM2NtVnFBNVpOemhsQi01WTl2eHNWWnUyZ3ZEZVNyUWRQTE1WU3BKYWt6dm9zeVBHWFNnNA?oc=5"
-    },
-    {
-      "title": "대한건축사협회, '2026 한국건축산업대전 개막식' 개최",
-      "published": "2026-10-28 15:20",
-      "source_link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA1LWpGV054V2xUWnBwdFBPMTdkNDhNM1ctbkNsaWZMS2NvblNkQW1YYlFubWF4UHJyZ0ZmY0gtNWxqdF9tV1ItbmVENVZ0dGtoSWgwTEZpYlpVYXI1TXJ1aGV1TFE1QQ?oc=5"
-    },
-    {
-      "title": "건축의 전환을 모색하다…‘2026 한국건축산업대전’ 개막",
-      "published": "2026-10-28 12:14",
-      "source_link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1EUXpzTmJYZXl4WldIMk1OeUVOTFpGcUFJSTdaQWw4bDRxMnNrQ0ZFbjhLaVF1NV94RVU5X0NiLXd2RlBxaktlR3RFeDZvMWx6aTZVbEswcGUzcDN2b20tQXJMYkpfLWc?oc=5"
-    },
-    {
-      "title": "광양에 247억 투입해 자원순환 산업 육성...산업부산물 자원화",
-      "published": "2026-10-28 09:59",
-      "source_link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBxajNjbXJfejhOT3hPaEJyb1ZKTldGZ09lY3FNQUtodmgtbXRYTG5iRDQ1Q3k5NTJ3Q2Z6Q1hDa2lLTnZmY1hpYlhnX3FpZzA2TW9XTlZhSHZlcGNaZ1NxblJpVzhxNFFXbDBlRw?oc=5"
-    },
-    {
-      "title": "전남광주통합특별시, 광양에 산업부산물 재자원화 거점 구축 > 뉴스",
-      "published": "2026-10-28 18:55",
-      "source_link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBFOV9rUWprZnBNVXBIRUJiNzdGODBaNmJnQ0lHYjVJSzNpTC0wLXYwYlJFRzVfMjNFRllyRWpUZmtpMnVEMGtSb2c4T1lnOEVZM04wZHEwQ18yUFF3U3l4QmRPa0xkV2NVVXVkVUNUWXlvdw?oc=5"
-    },
-    {
-      "title": "KTL 광양분소 개소...공정부산물 재자원화 거점",
-      "published": "2026-10-28 10:33",
-      "source_link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE51UXhyOWYtcWhKSEV4SVR0TElUN1JZVmxEbGtXUEJoUDVfYmk4TXZCRXhlQ3V0TU0zajhKM1ZSOVBNZlYycHg1dERkRXVQTVVMaU1xY2JtYjB1cEpqcmdsVmpQSm1fLW9lWVdsMQ?oc=5"
-    },
-    {
-      "title": "[교육소식]한밭대 백수정 교수, 산업경영시스템학회 신진연구자상등",
-      "published": "2026-10-28 16:51",
-      "source_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Qc2xfQnJjd1FmYTFPU1BHeV9JWGJGQXdIczMzU1ZZeEpNSjNod3BXeXdJeVBfLW1HMllwLWZIWnZ2c3h1ZE1rb2NBY3hjcnhWeGdONUpiUGxrMFNSOG9JWdIBeEFVX3lxTE5QS202U3h4eVdIOHd0LWRadmprWWlSeFlIU0tmQ2RXbjludWlRbGJWMVlDS1ljT1pORHI4OGp2RkM2Vy02SGRqb3kzaFhISzRUVkhqWGxJY3ExdEY4V3YyZlhKZW41Q3c4cGk2RVpqclNsZzY0UFlrUw?oc=5"
-    },
-    {
-      "title": "전남광주, 247억원 투입한 KTL 광양분소 문 열었다…산업폐기물 자원화 본격 지원",
-      "published": "2026-10-28 09:35",
-      "source_link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1SRFRDVlNqY2dnZHlOVUltVUFhQloyZklVcXh3VUlTTU1QYWlDZ2NEeTB2cmRUcnZHSFNpRGZ6UEJyd0dGU3J5UlJJUzFPUGZoblZGS3ZpLXg2U1Q1emtXRGZR0gFmQVVfeXFMTm1DNXFKRFVZYmhuemgwZXladl9qM056Mm13SUtFQTVCQjdtaWM1RU9CSVhSdHU2TGREWHJIblBlWHU4X0JyU1RVODJlTUprQXl3VEpibl9tRlpYRGZ5bldNNU9rbVZn?oc=5"
-    },
-    {
-      "title": "광양, 산업부산물 재자원화 거점된다",
-      "published": "2026-10-29 00:08",
-      "source_link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5CUk56OXp2OFhNX2F1cnREYVRzSmh5dWZ6NUl5SzBmMFhHd2E0MXpVT3NyT0xqZ3loMHhTWklTVXBaRFJHSS1WNnlaSWxWVkp3Z1M4?oc=5"
-    },
-    {
-      "title": "전남광주통합특별시, 광양 익신산단 산업부산물 재자원화 거점 구축",
-      "published": "2026-10-28 09:47",
-      "source_link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBXSmxzYmFGMTBYOUtRd1YySUllc1lScUY1RUg3c2F6cGt4SXdEdzVpYjhzbU15RXBMUDFJN0NkUXU3Ukg2ZU9idDYtR0FxQ1lWSmc?oc=5"
-    },
-    {
-      "title": "충남대·한남대 참여 바이오 부트캠프 학생들, 기업 현장 만난다",
-      "published": "2026-10-28 16:09",
-      "source_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE96MlV0THk1MVZkTlhiUjNuTzFCUHFyQTYzTmgwRC1JSEQ4ZFBncE9zbGYwa1V0Q09NdFpPT2JCUWRpN0dwSzNlcDlqZzZsNm55Mlg0V1pFT1pRdXhHeE1LS1NqMWpzbFNNWEHSAW5BVV95cUxPM1liUFY5LUFnY3NzR2k5NVNuTElqYVg5aDJ3SDZSc1o5YTlkZ3ZvaGUzZUpDTmx6dXcxS2ZiZ1JYR3M2bk9ncFZTeW9GYnNfSDdSNWREYTBoTW5nUlBCdVFQMGM4Y3JoZ1lyc09yZw?oc=5"
-    },
-    {
-      "title": "전남광주통합특별시, 광양분소 개소···산업 부산물 재자원화 지원",
-      "published": "2026-10-28 10:08",
-      "source_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9xN0tDVFhNM2lTcVhGYVJIOG9jRU4xMXA2aUotVnI0YlpHSGMtXzlIY1RRUkozWVNRNFBzMFh6clBxMWZpQ0hUQVRMSHZTcUZNTTJWNXNGRFVRODctWVZXLU5oX05oSE9uUF9R0gFvQVVfeXFMTnRyZ0pqNjdHWV82dVNFbXFSOXBFSGdpcnVUMHhUZUlGS1JSR0U4bGVLYWZDTHJOLVk2NTB2TUd4bEdZTDNDN0xCNTlKNmYzSnd5SHRqd1FVRkZfY0p4amVJdHFxWVgzVndPYzJMbF9N?oc=5"
-    },
-    {
-      "title": "세종대학교 지능정보사회연구원, AI·클라우드 기술세미나 개최…국내 산업 생태계 활성화 모색",
-      "published": "2026-10-28 14:24",
-      "source_link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFByMXhwc1h2XzZnMTZfU0l6WmF0eHFQb29jME9VZmg1eTNFdUYxakw3a084TUR3TDZaZWR1UWwxdzJNUTAtckU0WTNXTXZYbGFzbUlNalhCaHR6OXF1c2dmZHd3ekM4WTZ2eTBwaDJaM1I?oc=5"
-    },
-    {
-      "title": "[단독] 미래에셋, 日산코증권 인수…일본 금융시장 공략 본격화",
-      "published": "2026-10-29 05:47",
-      "source_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aVGlYNWxOcVl0YlAxVWlZSGpQZDNDOHR1ZWlZXzdsQnFvM3pPUlBqNl92WTBPSG9ESmZwSDQ0Q3V2QTdQUkdTMkw2M0VESE5PQy1uNzl4NFlvdw?oc=5"
-    },
-    {
-      "title": "“내년 코스피 5,000~8,000선 전망…상반기 투자 적기”",
-      "published": "2026-10-29 08:54",
-      "source_link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBVUFJrNENOTnJrRWVKck9GWVFLRFNGTGluZWFaUmlBVXRabjZiTjZyUm5sR1lLUVhHRkFOMVdFR2p0NzREOEFfVEt6cVJadlMzTFRLMGV5MW9NZHlsVUE?oc=5"
-    },
-    {
-      "title": "\"앤트로픽·스페이스X 이어 틱톡까지\"…한국투자, 中 바이트댄스 투자",
-      "published": "2026-10-28 18:09",
-      "source_link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5wWEMzRVNMV19HZ3ltbXllUDF6eUhHTWhMQjVVLUpSYWRRc2h2aURIR1pxcUFnRmFwU0tYa0FMWGdLTUZvRFhWRE5Sc2xlMEZjbnVjckVDVHlaMlg3RTYwSWhqTDlKd190MjA1QlBWMHc?oc=5"
-    },
-    {
-      "title": "한국거래소, 인텔리빅스·크리에이츠·한화플러스제6호기업인수목적 코스닥 신규상장 승인…30일부터 거래",
-      "published": "2026-10-29 05:35",
-      "source_link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5JUlJyb3phT05jRmhZeWxteFBLbERycF9RMkpONDNCbnJrY1htMVR3Y2IwVk9UNnJkbnVMRGx0X1VUTUQ3OVUyYlRORU03Q0oyZ3hZSUhLQUFZc3k3aTNVMEhjd3Y0TUnSAWtBVV95cUxPZWhhWjh2T0lxeFF1UkJCckxZeUVGTDlia2ZRdFB2cDVrU1BubEZHdDVhaEkxM3BpWTQzYXJ3OUpuQUFNZ0hYM1BzZTR0SVBYRTFtV1lsQTkzYkpOZW9GaG13SzRFVElFZ3RJTQ?oc=5"
-    },
-    {
-      "title": "[무신사 IPO 걸림돌 ①] 조만호 대표 개인회사 '라펠' 세무조사 촉각…보유 주식 26% 담보 변수",
-      "published": "2026-10-29 06:00",
-      "source_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE55c2FjUkpRS1JxZjcyZmJhejBhOHRfOXlmTmZFNGNLLUZYWTMzekd1NlZkZFY0d3l6SzJzeGs2Z3IzYjdwS1o3c01YdWpZeDJlcFR6dV93R1FHZW9RTDVqUEN4bUtzaWdo?oc=5"
-    },
-    {
-      "title": "[단독] 장기상승 日서 ‘코리아 디스카운트’ 해법 찾자…한일 자본시장연구원 공동연구",
-      "published": "2026-10-28 14:30",
-      "source_link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5NMDBkcW9kN0JyeHZTRXc0Wmt6Q29VV0xyYVRQSU5RMnZGZGRROFp0ZnAtOGFsRUlZVFNUSjRWeEo2WG5qZU5vcENlcmxXWnNUWUE?oc=5"
-    },
-    {
-      "title": "유진투자선물, 알파카와 맞손…해외 투자자 한국 파생상품 투자 길 넓힌다",
-      "published": "2026-10-28 15:24",
-      "source_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE82bG0wZ3NGaFZoQ05GcGZLdENBbWpDWHlBWWFSaXpHV0RuUDBOS3JFQWUtM0pKdlR3SHV3YW1Mc1B3aE82eVdsWk1zUVpfLW1pbnNHRWRtNnh0U3AtLTBSS09QSUM?oc=5"
-    },
-    {
-      "title": "해킹 또 비상…증권·가상자산까지 드러난 보안 허점",
-      "published": "2026-10-28 16:04",
-      "source_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBNdy1DMTNZbVY5ZjJnRENyUmlaOUc5RVl1MWJ3MXB0dW40ZWZ0VXhNWHpJV2FQcmZYY095RlZvOUtlV3RhQkNKSVpBTlhJQ2QzbTlZSmNJcmg0ZzA0TjhmUNIBYEFVX3lxTFBNdy1DMTNZbVY5ZjJnRENyUmlaOUc5RVl1MWJ3MXB0dW40ZWZ0VXhNWHpJV2FQcmZYY095RlZvOUtlV3RhQkNKSVpBTlhJQ2QzbTlZSmNJcmg0ZzA0TjhmUA?oc=5"
-    },
-    {
-      "title": "현대차증권, 탄소금융 인사이트 데이 성료... 기업 금융지원 범위 넓힌다",
-      "published": "2026-10-28 17:11",
-      "source_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0wcjJFSGtMN25xc3lCeWkwTUZqb1RIODNieXBmN1FFMjRZaFhTeFdzS28ya0lfalUtQy1sMGRZYnB3SWx2MFhSdzVFYkpqVVotdHpMcGtSX0tpTTlDOVg4QVpLU2HSAWdBVV95cUxOOENjV3I1NDRPUHk2cFB1b3Q0U21uRlhrSUtBd08yOVM5MHFBdnJVNDVrZjVCcnUxbDJYWTQ4dFRXWmFPTlozT0lBRXJGMy1lQXg5Umx2YXc3dWJYam0xVjFZSW5DV0JF?oc=5"
-    },
-    {
-      "title": "코스피 6000에 환호하는데…한은·증권가 엇갈린 진단",
-      "published": "2026-10-28 15:18",
-      "source_link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE01TjdrZlNRWmx4QVBkV1JGODR3NmtnWWxPZDJGSWRnX01zT0pMWnAtWjNHTDJuY3dPREY2X01sWWdyVl80bEFwZ3ZLUW5DU3g5VEI4eldDWkPSAVhBVV95cUxNNU43a2ZTUVpseEFQZFdSRjg0dzZrZ1lsT2QyRklkZ19Nc09KTFpwLVozR0wybmN3T0RGNl9NbFlnclZfNGxBcGd2S1FuQ1N4OVRCOHpXQ1pD?oc=5"
-    },
-    {
-      "title": "인텔리빅스·크리에이츠·한화플러스6호스팩, 30일 코스닥 상장",
-      "published": "2026-10-28 20:00",
-      "source_link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1rakwzR3g3bndlMnA5UDhQTGNHNE83STBLWGRucXlGYy1Dek5JMTJ2Y0RqOHNjY1JNRDBGVWJGU3pBUUt6YmxfanluMWtvQjlmamlQaFZEWnB3UHFQbl81ZU50N21NYlgtU2gxWktUWmk?oc=5"
-    },
-    {
-      "title": "미래에셋증권 채권, 10월 채권 브랜드평판 1위…한국투자증권 채권·KB증권 채권 뒤이어",
-      "published": "2026-10-28 09:31",
-      "source_link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA5WVQ0NldwS2NqNnRCOGpMdG5YVEhQX19Fb01CMDY1Q3FQMEdTU1VKSzFGRW4zZ1A4aXZoXzBSMndZMHV1bGhEUWlpRm1PSF9mNTh1cEpTNEZyWTZCNlBNMzVVcnhVN3V4WDJQajRn0gFyQVVfeXFMTjJXb3lHcF9KQnItTkhOTllYVWZGZWpkSi0tSUpUSDZYM21rS2FNUHdyMEhINkI0ZFZtTTI1NEcyTnFXWDhaTXRfZENTa2drWnR4eDZIRVNPU2ZsdHFIdzBzSVBaV1FrcVRPOGNKMXhOd2JB?oc=5"
-    },
-    {
-      "title": "채권 2026년 10월 브랜드평판...미래에셋증권, 한국투자증권, KB증권 順",
-      "published": "2026-10-28 10:46",
-      "source_link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBDU1VkZmR3bjZvM3N6MjdCN3lfdkl1T1dUQUVUTEg1TXdvOGI0NXVjdG5KZ2lKY0ZWZG1LbjBTWnYwQUNhTWxud2pHZXAySGFxa1hSRDYxS1owSlFlQktOaVM2c2lzSFNwUGdXRm9GNWdnQQ?oc=5"
-    },
-    {
-      "title": "현대차증권, 배출권시장 변화에 기업 대응 방안 논의",
-      "published": "2026-10-28 16:47",
-      "source_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1LZWhYQXdJWWlwN3dLbTlUM3gwTm5GNElTak9VZE5PaGZvWXlKTENvODBwZ0F3ZkVIU3pDRGpfNmZMeVl6Ukdod0ZvclNRRWxzZy1pZ1hFTE1JNXRqRTUyNzNHUmJmaFhpd1E?oc=5"
-    },
-    {
-      "title": "[IPO 뉴스] AI 관제 인텔리빅스·골프 론치모니터 크리에이츠, 30일 코스닥 입성",
-      "published": "2026-10-29 00:10",
-      "source_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9YcWJ4M2Z3eXFiMDZrUFh6RHctZTlIMVBIZzRwTFpxLUxnaWtkVVRVbVJQQ1ZMZjFERWxSWDJ1RlNYZm9wM0lTaWpQZElhOGx2OERtMzBxNkczNnp1RHZJWVlaTXJMdVRM?oc=5"
-    },
-    {
-      "title": "LG전자 3분기 영업이익 7819억원…작년 동기 대비 13.5%↑",
-      "published": "2026-10-28 14:05",
-      "source_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9pVW1tanZleVRhMjh6aWQ2NFNRdzZjeG1pRGFHd2VCcWdXbV9IOFFkVURKdlZZSXBqX3FLZEs1LVF2VWZKaWticWFlWFYxZ05oSXlPWGp2Qlh1MGFvQ1YyZA?oc=5"
-    },
-    {
-      "title": "한국거래소, 인텔리빅스·크리에이츠 등 30일 거래 개시",
-      "published": "2026-10-28 19:49",
-      "source_link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1UU2JlcEh6RVpuSkI4YjF3eVR4aUNsN0xEdWZIanZNYkpQdG10TlNYdWZmM0dVZFlPWHVOdS1IOHdsc3RQb3FFT2Y0aGRZVXlrdnpuaXI5NEZDVVNJV2VHSmYyQUtsc0hOOTZVZjN2V1hLX2fSAXdBVV95cUxNOUlQX19KTktjRmtMSmFnZmJ0QzhDOWw1UFZRVUtGV0ZCTV9lQVBUay1tOWRTc2RzUzAzMHlWd3g1X3VBaHY3cHk5SHBpTVNra0VPOGxuYU5RS3pOVHAzeVFMVTNGM1hEcE1JT2dZbWtaN0hHRkpCbw?oc=5"
-    },
-    {
-      "title": "[단독] 우상향 일본 증시서 ‘코리아 디스카운트’ 해법 모색…한일 자본시장 연구기관 첫 ‘맞손’",
-      "published": "2026-10-28 11:30",
-      "source_link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4tWlliZ0RpZUczc0VPMkN2YkJoUUZrblFJNV9BcW00bldzVWN4ckNjSDlqQndGMXBUM1lDTVZBQm01VkQ2TU5ieFF4OUJrNHRlSVE?oc=5"
-    },
-    {
-      "title": "앤트로픽·하이닉스발 훈풍에 반도체 소부장도 ‘꿈틀’…훈풍 이어질까",
-      "published": "2026-10-28 10:23",
-      "source_link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE04Zk9XbDE3d0l6NTNNWmpxYmtZTGxBRTdxVl94a0tPQWpnUFJkRzM0YlNJczZSV0lheUdCMVhQYTBoSHhFWEM1TzF0cHRZVzRfV2c?oc=5"
-    },
-    {
-      "title": "미래에셋,日증권사 품는다…박현주 회장 \"29일 발표\"",
-      "published": "2026-10-28 11:12",
-      "source_link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9BcUtaNy1XVWFoTUdTTjkwRTE1SV9iZ2paVEt5bTBEQ3RfQ2VDV1JXeXJzd01ub3AtRGk0MlJBSkg2YmYyMnFNRE5GaXhKdWNJX3l5ZGY4VlpfZlJHMkxpdkVZR2N5aE4xT1U1aUJR?oc=5"
-    },
-    {
-      "title": "유진투자선물, 알파카와 한국 파생상품 거래 협력",
-      "published": "2026-10-28 14:10",
-      "source_link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4zYV9ROG9JR0g4eWFITzNwMTFCNGs2MURidk81SU1HVlNUS2pzTkRoOGNydzQ2LXFha3ZQNWV1Ul85Ynp5cnJZX2Z1NzAySTVCdnBOLVhxWTdSZ01xYVRwNTk4eG1rRjN0ZklJNTMxV0k3bkHSAXdBVV95cUxQNWF2dHlXcHpKckNONDR4Qlo0UDNlTllCSXMyWG5WUGFmY3dkUW5iRG1YbzRCaTR5LW0tUUVTbDF1WWpSaERjRnB1MFRGU001dE1aSlBQMDJOWEUwdTMxdXVEdTE4dVZaN3pmOUU1ZnJVdzZFdzE5QQ?oc=5"
-    },
-    {
-      "title": "대신증권, 주가조작 의혹에 개인정보 유출까지... 고객 3만8490명 정보 털렸다",
-      "published": "2026-10-28 11:32",
-      "source_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5wSkl3am0zS2lRbFVrWUxNMnFzUUZaSkhoZ2lWWEVtMDJHaldlMTZ4Y09DMkUzREJ1X1RoU2NMLThMMk5ISi1SNTVqLTlMOFBfZExkZ1ZVVHFDV2dxdnlnQTFoNVVId0NrQ2c?oc=5"
-    },
-    {
-      "title": "'바이오플러스' 개막...국내외 바이오기업 300곳 집결",
-      "published": "2026-10-28 13:05",
-      "source_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4xOEszTEhkUkFoSDlrV1hCMFRlRk9tTUZOUnB2cjdaeGdacXVfeXJ0c2p0eGI1d2pCbTFJMjFHWEtRWm5meEQyTEZ4dzlFdmdZSG1jNVdaX2xmQ3Vxa25OcA?oc=5"
-    },
-    {
-      "title": "[여의도 증권史 ⑬] 유안타증권 대만 사장 5년 순환…순이익 1298억",
-      "published": "2026-10-28 12:00",
-      "source_link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wa2hNeHhuMlNJOHF4d25qNXlwZ0VHNThCUjk3azFzNlM1WUE3dC1Mc3ViUWk4NmRGUzBlTHN2TmI1RTFJY2ZHLTdTS1BzREtieEJXaTItTG1HTzVBeVRTbE1QMEZlb3c?oc=5"
-    },
-    {
-      "title": "한국씨티은행, 신임 은행장에 김경호 기업금융그룹장 선임",
-      "published": "2026-10-28 10:31",
-      "source_link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE93ODVQb1NvRXdzRGU3SEFScnFyMlpDSnZBOE8wS1dnTkE5d2NlWExDTjdFSjR1c3NaUWRWYUwyUnBZenh2QlhWQW9vbEFMVzFCTXNieElIRmRZeHlKNFgxR3pzb29fejNHMEJWWnV3?oc=5"
-    },
-    {
-      "title": "기업·증권사 달러 쌓였다…거주자 외화예금 역대 '최대'",
-      "published": "2026-10-28 12:00",
-      "source_link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPVU9pNFhHc1o0Z2xhQ2tIQm95TDJfS19TZkNUOGIxUkJoRXo4aU1iZlpGemdzS1dsYmhDcHQzQ2RWWGtDSWtKcEZGWDBTUFEzNVV1bV90SUR1cG1xSHFXX3hIX2doLWp5SExPT0dlQUctQURzSXUtQ3pESHFteGVqbUJBQlJ2ZG5TT0RieThpMFRUaEo0S21TQS15ck1XUXgya0E0NVJtR21RTEl4RDhUMmoxNGZfUWhpY09BMnpWd2NtUTRnTnc0QUZEWWdkWnJkcEtwcENOVW1PMGhiS1ZsVG1uSWZVeXU2emlkcDhwLVlHWFJDTDhFaWd0bGFRRjA1Njd4WEdPTDdSU0JvWnRRMENHODY4STNfemg2T1lJM0xzem9nNG92VTNubVY5QQ?oc=5"
-    },
-    {
-      "title": "거래대금 증가 기대에 증권주 들썩...미래에셋증권·키움증권 상승 주도",
-      "published": "2026-10-28 09:55",
-      "source_link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE95b1RGSXk4enZ4SUZPMW5iUXVIdVRxc3dYOHFMdU9TX0djZ3hzby1tajlwNV9mTDc3M2xNZUZFelpDdTVhSXNRYkRLR2N3VEpHQ3VhNENNajd0V0hRUG4xbTRvMFp6NkhybDVTeERPeXZ1b0nSAXdBVV95cUxOT29xLU11d3Zrc1NHSUIzSVM5Y1QwbGtuWDVCd1FheThhZjh0WlNOVDFlSkNiSjVySUtZRHJtU1hRcnQ1a3B2c09PT3d5c2Z6NDZETklSTWYwcThiSjU1V1pWaHpFZ0NoZkVILTRPRzJySzdtODRyWQ?oc=5"
-    },
-    {
-      "title": "유진투자선물, 알파카와 한국 파생상품 옴니버스 계좌 서비스 출시 MOU",
-      "published": "2026-10-28 10:00",
-      "source_link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5HSjZpc1lMRjFIdUphRjhnQldqa0dqNGtuS2g1d2VOTEppVTRDQlRFRDFuZ3ZDYlVHRG9XVzBRMzlDZU9kMEdNNC1xQ0dYUy1ZSTZUbTIzZ3DSAVhBVV95cUxOR0o2aXNZTEYxSHVKYUY4Z0JXamtHajRrbktoNXdlTkxKaVU0Q0JURUQxbmd2Q2JVR0RvV1cwUTM5Q2VPZDBHTTQtcUNHWFMtWUk2VG0yM2dw?oc=5"
-    },
-    {
-      "title": "양홍석 등, 대신증권 지분 17.59%→18.21%로 확대 보고",
-      "published": "2026-10-28 17:03",
-      "source_link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE01bHFVTEphZnZPd3BZQUY4UFVLY0dXRzFJOGd2eU9CeXZfbWx0dXhrNFBXV0xieU1MR3B0NmxrRWhrczI3akx6TG5jSEM4NFVuR1dQOTFCU1B6d0xpeS0xbFhxbDVyWGt3Qnp3b0FEbWdmZjQ?oc=5"
-    },
-    {
-      "title": "3분기 자산유동화증권 발행 12.5조…8천억 감소",
-      "published": "2026-10-29 06:00",
-      "source_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1yOWFJT0JQc0VwUEp6TlVPNFVZeHJKeXMyOE92X0YwcHh6a3QtWllzNDg1bC1lYXRkbFBQWnJkU2RTR25PdlM5TDhzbHZHWW5nLS1scExIRFY1MHdVb0IyVNIBYEFVX3lxTE1yOWFJT0JQc0VwUEp6TlVPNFVZeHJKeXMyOE92X0YwcHh6a3QtWllzNDg1bC1lYXRkbFBQWnJkU2RTR25PdlM5TDhzbHZHWW5nLS1scExIRFY1MHdVb0IyVA?oc=5"
-    },
-    {
-      "title": "오늘의 프리미엄9 콘텐츠 다이제스트(10월 28일)",
-      "published": "2026-10-28 16:58",
-      "source_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1yVEtKZGJTck5pRmtMMW5BQkJqY2lFQkc5WlRzVXlVUldjREhOdVhuc0NtbUNEYWxycHB3R0d3T1FQaHFSOG44Tkw2YmJ3NzZqOWFUNl90LVgxQQ?oc=5"
-    },
-    {
-      "title": "한국콜마, 3분기 스킨케어 수요 견조…영업익 50% 넘게 늘어",
-      "published": "2026-10-29 08:26",
-      "source_link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1VcURPUXJka2dqTXhIX1ZHLVo3MlNSY19kUS1YTW9UVTVTTXBwcjlic3JzMkN0b2tNdWFLOUQzeVFfZlBMa0g2YXExSEdDSmZwRHlySFl0ZnNMVFp1VnRrdzNkUEFPRTRQLTI4TG9Lb2o?oc=5"
-    },
-    {
-      "title": "민관 투자유치 협력체 '해양수도 부산 세일즈단' 출범",
-      "published": "2026-10-29 07:58",
-      "source_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ZOTUxS2ZmSU5QT09WOGNhbWpfY3UzTVZpUkhYNXAtclF6cmNLQk9jVk9XVDBPU20xU2xLMU1PM1k0cmpQc1NyWDJwc3pRaGF3eTdROTRZaks5ZUw3NFl3UNIBYEFVX3lxTE9ZOTUxS2ZmSU5QT09WOGNhbWpfY3UzTVZpUkhYNXAtclF6cmNLQk9jVk9XVDBPU20xU2xLMU1PM1k0cmpQc1NyWDJwc3pRaGF3eTdROTRZaks5ZUw3NFl3UA?oc=5"
-    },
-    {
-      "title": "티앤이코리아, 코스닥 상장 첫날 공모가 2배로 급등",
-      "published": "2026-10-29 09:08",
-      "source_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9xQlBxTi1JeXFUWE05U3FrRTkwVWVMaUV5dDhIaktnNi1IUG9wR0p4UDJrMTdxNzg1ckRiSEVnRHRpTTdLSkdiVXAybmxyYUlDb01pcXNPc1BMZw?oc=5"
-    },
-    {
-      "title": "10월 기업 체감경기 4년 만에 기준치 상회…제조업·내수기업 개선",
-      "published": "2026-10-29 06:00",
-      "source_link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1vRXpZT3BPWG5mY1FrZ1FQQ1JiNF9BMFJoOE5JVEc0WndRNVUtajdHVjdFTGVwQkhSZ0RYWS1CcGR1TjdCNXg4YWttTVVGTVNuOFNWekR6UEZ1dld1?oc=5"
-    },
-    {
-      "title": "‘4%대 급등’ 코스피, 이틀 연속 매수 사이드카 발동",
-      "published": "2026-10-28 09:58",
-      "source_link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE94SklweDRKc2t2aEZ3SWpBT1RJZmt5WXcwSTh5TGNxUHZyVzVxbDB6aVlUUjk4WUFyZmV2dDNKZW9JLU9WbllWSEE2OUlzQ3k2Smc?oc=5"
-    },
-    {
-      "title": "다올證 \"SK하이닉스, 4분기 영업익 101조원 전망…주가 반등 기대\"",
-      "published": "2026-10-29 07:53",
-      "source_link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5FMWxIR0cxRE0wUHdBajZITlZMQ1B1UElCUmxpVnN2Q1BPRlVWd25kRjJXVFVyRnFCWUQ4V2FuUUY0U0gzOFdZWDBsOW9HLW03?oc=5"
-    },
-    {
-      "title": "IBK기업은행-서울시, 핀테크 스타트업 투자·협업 지원",
-      "published": "2026-10-28 15:52",
-      "source_link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5UX2NlTTQxWWlPa2RNYjJpcGxVdV9ianJoSXhQSlZNYWRXMGlabWdrZXF0Wm9nR1RKMlZzX0NZZXJVUDB4NUI5b1BtLWM0dS1qWTMyUW8tcjVuYmUyNDRsTm1yZWZQRnRhZ3JjenBhY9IBckFVX3lxTE9oRDJFajVyal9MQTk5Zl9pYVN1eEV3M3pOcnJGNlQtcDlYX3psdzZJazB1WExoSzJMYnJsVkZUenBRUkUtX0dhS2VXZllpNjBHbGxGNnVxVk0yX0poU0s5NFgybmRsbzlMTGFHMW0wLURodw?oc=5"
-    },
-    {
-      "title": "미래에셋, 日 증권사 품는다…박현주 회장 \"M&A건 29일 발표\"",
-      "published": "2026-10-28 11:46",
-      "source_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9oUWl4STdRd1V3X3ZzallWaFVNSnA2MTlnaG9HZm5LSnBYb0tWZkR6TUVJbDd6SGk1WUt0Q1JyRWU3MVNpWFRlYlp5OS03bTdDT0l1S0VYZEJVV1BqT0oyLW5iZWVXOHJIX2c?oc=5"
-    },
-    {
-      "title": "‘수소·고속 터보기계 전문기업’ 티앤이코리아, 코스닥 입성[오늘상장]",
-      "published": "2026-10-29 08:10",
-      "source_link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdklJNWRfdTN0OXE1YTVjZTZQLXVmV0JfMHBBc0FXemdxUG5FbklvLXBmRWhFZ0hNN2tWRm5td0kzbzdDRThyV01oT3ZDeWJfYWg5ZDRKWWNFMXFuZFhBLUxlNk5qbDJkTWpTQ09BVGVzY2tDU29KNmE3a3AtS2hKYg?oc=5"
-    },
-    {
-      "title": "월스트리트 거대기업 DTCC, 주식·ETF 및 미국 국채 토큰화 서비스 출시",
-      "published": "2026-10-28 22:14",
-      "source_link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNV25ZbFh1VF95Vy00RG9HLXZ1WkQ4eXZzMEJZblN1cDd1c05PRzd1TmpCckZ3MHY3VDlPQ3RQdGVQcFBkNEdQR2VKZ2w5Y3p1Y0RBaGdFaW8tOF9jSGExYXNjbU9yUkhzbUxxcGRzalhqV0J3bGV3aG9Hc2FUY0Z2U18wTUkwN0ZXOVRKaGpEajJTaTdSTHR1aUhPalNnV2daU09sYzVTUE51Rk9Kcko3V1A1V19SNzRtaEZidEs5Z3I2LVZGS1J5Z2RiMkc5TVIzM0ktbU14cTlPekRW?oc=5"
-    },
-    {
-      "title": "한투운용, ‘한국투자모건스탠리 글로벌오퍼튜니티 펀드’ 출시",
-      "published": "2026-10-29 08:36",
-      "source_link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaDE0RkR2N1RUb1VwOHllZ01aNzZjOHVjNDJjY00xOUhqSzV0WHdnRng3Y2xVUDFkU20zQ0ZQZmRlLVpoZUxFa29SVGY1VVRYdW42a2dnV3VsbnNKdndUNW84OFhvRVFnaUk4allzSmM2cldXTXVyUzd0TGNXS1o2eA?oc=5"
-    },
-    {
-      "title": "글로벌 우량주 압축 투자⋯한투운용, 모건스탠리 재간접펀드 출시",
-      "published": "2026-10-29 08:44",
-      "source_link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE00LW1jRVI1a1BnYXVmX3JuUEtNMXFtQlVwNTdkTmNUS2xRLTRfS2JwV20xRVNxbHQ1aVZiZFFFT0l1akg1RTlBU2FzSklNRjhhRjhBcg?oc=5"
-    },
-    {
-      "title": "성균관대-한국나노기술원, 경기도 양자·AI 유망 기술기업 지원",
-      "published": "2026-10-28 12:59",
-      "source_link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE80WF9VWFp6SFFHdDI2VHdPQ01lYi1KRzVDSUpQVXVYRjFxUkdLdVAxWHU3UW9VSExLNWdjYWE2QTNjR25BQjlsSEpoRll2YkVzeXFERUdXNFdVOWVwZFEtdS11OEF3VFN1TEtvVVk3WdIBckFVX3lxTE04R0hHRDVuVkVJZlZKa1dabzcwYzkyS0VHVGNvTXdycF9JZjNZVHZsLV8yVkFGUk5ZcWpKcFc3ZG1aa0QwQ2RrcXJDTUY5dkhUSGExYjg4eGppdWNuS1lPNTVrN3IzdG52cE84ZkNEQkpLUQ?oc=5"
-    },
-    {
-      "title": "IBK기업은행, 서울시와 '핀테크 위크 데모데이' 성료",
-      "published": "2026-10-28 17:18",
-      "source_link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE93b2NlN0h5TmNpMGxESDA0dGNmSFJhWnNwbDFIZ09WLU1wcUdlcmJLMjFjTGRoa2FKQWFDSjlmMHZZdUozc1NGOVRPaE1FUTlwYmtQZUR1Q095eS03aVlXMjNuTzAzVERocXpJTEI3NmbSAXRBVV95cUxQZzdjZUItZElIS3Q1TUZ2ZnlwVVRWb3lmdHhxS0o4Y25oRkJuZW9PZlhUZkpKekFaNVFOelk3cmlmanI4SEpiV0dHcEdDcm1NU0tvME9IQWlneWtKQzhMSTdrVW11TWNFVU1hMDJPVUlhRFJrSg?oc=5"
-    },
-    {
-      "title": "현대차증권, 제2회 '탄소금융 인사이트 데이' 개최",
-      "published": "2026-10-28 15:32",
-      "source_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5qWUk4M2g0NEZvcXQwVjYyZzFMTGkwcV9WTk9qa19TRkJTYnlzUFFUQXdEb0pNVXRtTk02RlFtLS01dXgybmxQdUhRUTU1S2N1QlJDVkhpUVFwdkRPOVR6NtIBeEFVX3lxTE4yQnpQbmZOS2UtV09yaWduSUZXSXdsTHpTLXRjNWtUdHhPMGVMVzBLaENyVG1Rd1o2YjJMaWNSX2lGTjQ4SGhkZDg4Rjd4d3FZQ09PZzBOWV9XTzBDam9YNVdVa0RkbmFSRkJ5ZENkTTFTLWVLUlZKZg?oc=5"
-    },
-    {
-      "title": "\"코스피 8100까지\"…내년 증시, 진짜 승부처는 2분기",
-      "published": "2026-10-28 11:15",
-      "source_link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRzUwczN0dFFHWDluc3pCb3FkSzlWdExJLWZKd2hlNlJlMUdGOHBmRm9NcGt5cWhMUHhIdFlQWFZ3US1qNUFSY2tpZTZiZU5FNks1NlEwYnN6MzRwbXZOSFpnNmx3X1VYRmxLaFVGQy03bzk4UHQ1RTJrYnRaQXM2Xw?oc=5"
-    },
-    {
-      "title": "반도체發 원화 강세 '부메랑'…車업계, 반등 기대에 찬물",
-      "published": "2026-10-28 15:04",
-      "source_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA4U1JiTHNBcExOLTlHa3lDVF9yX1VISzFpTHl0Nkd1QVhQb2VlRElmTjhNbnpSWHVncnFNNWF5cDZTTUJTTDhYM01TZFpaVXdSeUFIcDVWcFhTTFlON2lWbVhlWHU?oc=5"
-    },
-    {
-      "title": "[상장 기대주 점검] 제논, 이익률 17%→3.8%…'실적 AI' 눈높이 흔들리나",
-      "published": "2026-10-28 16:27",
-      "source_link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9NUmg4NU4yZGd0TWRPM0prRU1TcGgzQ1BxN1Q0V0VKb3VvUkVnQnQ4U1RJYkVTczZPdG4xd3YwWmk0N2ZVTHo3OEZBMVVRRTBLdnNTVHRKN3N3TzE1NFN4ajBGcF9IQ0dCQUdLdV8zVQ?oc=5"
-    },
-    {
-      "title": "앤트로픽, AI 인프라 계약만 1060조…IPO 앞두고 수익성 입증 시험대",
-      "published": "2026-10-28 10:00",
-      "source_link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1saWhyblJWcWNoUDVDcWk0T2VSRmJoekdWR3k4VjZpVEZraFZrU05CUTRXMEowX3hIUlNOQm5YekZxS0YySkVER2t4R1kyOVJIYmfSAVNBVV95cUxQb2RKMFJNcmt3QlRHQk9DcGl2eGFoX1VOVER3ekIxODJOLWdCV2MwN3hSZjZuVjJLam1MWlJlMkc2TzN2SE9Sd0N1cFhKNjg4Y0k3SQ?oc=5"
-    },
-    {
-      "title": "[외환] 항공 웃고 수출기업 운다…환율 1323원 2년 만 최저",
-      "published": "2026-10-28 10:00",
-      "source_link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBFRWVhZ2c3QVJldmt0WlJSaGFRREJ1UW9CekkwRFR0Yy1GU2pfSmRDcGJQLUh6elQtd0NnYmw2bXdqcy1Wck9zdmlYck9VZG15bzdtcEJuOUxUV05yVUg0bWhaZDA5SXM?oc=5"
-    },
-    {
-      "title": "한솔테크닉스 11% 상승랠리…태양광 관련주 무슨 호재 있나",
-      "published": "2026-10-28 15:28",
-      "source_link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0zaFdWcjFBbnhaeXBObV94VlRIU1E2c2llRFYzTzNQQTlKNHpNbHh4WU5zNk5NSUZTMDl2MDdXSkZTMWxDRTQ2OG9LeXdGU3hTbnYwUHRudjhVUFdJd1V6M0Y2ZWV5NFljdmVhWHZRbVJrRkXSAXdBVV95cUxPS1BmSkpVeTJzMzZoSERpckFNSnRDbDM2R2JNWk9IYWQyQWlDNmZOMTFaQmRURDlOVkpOSm0wT21UYzJMQlhYX2xTaFRTajFJUXRJOVljd0tZRnVEeFRYOXhDQ3JtX3dHbHhpS05RLUp2dmRPV1NaRQ?oc=5"
-    },
-    {
-      "title": "피에스케이홀딩스·SK하이닉스 급등…밸류업 지수 종목 러브콜 확산",
-      "published": "2026-10-28 14:28",
-      "source_link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0yazFaclpPdEZQNzNfMHliRDg3d0hjMm02ZkJkRWkxbGF0bmREdUJBTl9LR2NHWHB4U1FxR01SaFlQQW5OOWFQZm5pVmFiWGZwZlplX1dDWWRNbEFORXlEUDQxRVVRSFZNUGM1N0pqVGFYSjjSAXdBVV95cUxOMnNQWTBIdndnQmdKMXlPUHRJaUNHWWhsTnBIMWN5WERSZm5rMzlvZWN2UHpkeVp4NVE5c0hENFZsdW1TbndOa1dremlvX05NVHdaNE1OejJWMEpMWG45MmVQd3lCalI3VEdyMTl3b083dkJDX3dDcw?oc=5"
-    },
-    {
-      "title": "지엔코, 채무상환자금 30억원 규모 제3자배정 유상증자 결정",
-      "published": "2026-10-28 17:53",
-      "source_link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1wVTlzcEhkWnZnajFKLUNudklJYWpKTnRFRHdtSld2Rk5seFFHQnhDQ1dWcDdaSlBrQ21QbWlIcEVhNkxldXR6ZXRuTENCcHBNUXVEQlpuQ0VkcVlvc08wYzJHeFA1M3FYdHV6aXdSb09pMFRCbEhTZGFuaw?oc=5"
-    },
-    {
-      "title": "대신증권, 장내매수로 최대주주등 지분율 12.74%로 확대",
-      "published": "2026-10-28 17:06",
-      "source_link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBTazBPZXA0ZVBVUkVma0JuTUVFYmZTSmhNM3U5V3FaWGlWcU44TFF6cllHdEh0QzdHazhINm53N08yNVpYd1JWdk5fclpmUDZtYXlQcFhIdHlua1lfWGVDTlhZWC04eVZQZzRKWXNLWTZqTFU?oc=5"
-    },
-    {
-      "title": "DB증권, 최대주주등 지분율 38.35%로 확대",
-      "published": "2026-10-28 17:24",
-      "source_link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBSUGdwbDBUZjRnRzctejdsQkxjdFpIZ1F4YTd4VmNwbm5uQWlHREhwVDhOUWJudGI1NEJnSDFvdVF3MGswYzFXejNnNExadTRDbUtScHl2cVUxY1hkeW9pUUl0Z2ZsR095WU9ZMGpiUDVudzg?oc=5"
-    },
-    {
-      "title": "현대차증권, 제2회 탄소금융 인사이트 데이 성황리 성료",
-      "published": "2026-10-28 16:19",
-      "source_link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9VNS1IOXNsMmNENFc2NFBqWmNkdWxWNzdtWWNpbFd4eko5U3lTVzNXWTVyRnQ1RzVWVmE4eGdZcXFUVUpvZEt3S0ZDai12TmJUODJNVDdRSzBNSVJhcjVXbjVLSTk3TzNHSTBtdGpR?oc=5"
-    },
-    {
-      "title": "세운메디칼, 자기주식 162만3000주 소각 결정",
-      "published": "2026-10-28 11:22",
-      "source_link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBrWVc2eUJ3X3MwVFFCT2lCWFh3cTV5Qm10cERjNFg5TWR2MnlNZXg2dGo5OFdfTUl6cVpXYkp2Rm9FdXZWNEMtVGhtb3BEMjNma0NEY2xsOFRDNG5fTEtiUHdRWWtGdlV1bll3X0NhajZXdkU?oc=5"
-    },
-    {
-      "title": "[장마감] 코스피 6.63%↑(6012.44), 코스닥 3.69%↑(771.28)",
-      "published": "2026-10-28 16:00",
-      "source_link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE93ZkVjaEtKaVE0OUJmR2FpMU5SSjBaNmF1ZFlNWWJiNWJieTBMM2l0cm45WmZ4RzVlaTFlYWx2T25RMmVJWEkxWk03V1l1aTFiYzdQUjBpMWN2WGNjTlhKWXB3?oc=5"
-    },
-    {
-      "title": "엔비디아 매디슨 황, 내달 네 번째 방한… 피지컬 AI 협력 행보 주목",
-      "published": "2026-10-28 14:42",
-      "source_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBiMG9KbnJKbS03Q05OT2FuQkxpeXQtRGpmWHlXSzZHOC1IM0hNLXI0YWNIZ3Q2OUgydUNmcmR6YjB4aWg4SGV6R1hSTEhFNHdfbVM3ZF9meVF3X183SEZLX0MyNDNTbnR5M1E?oc=5"
-    },
-    {
-      "title": "[테마시황] 호재 만발한 오전장…반도체·로봇·통신주 동반 '강세'",
-      "published": "2026-10-28 11:22",
-      "source_link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9rVGFLLTE5aXJ5anVQZmhvQ2NyRTBjQkxxbE1wRTlLRjZsRlZGaDNEOE5Qdjd6VTAzWEQxRUxSX2s1V2kzTFdzUWVoN0lKakhxNE1ybHd0b0pkT3ZqTWxJWkZfdDRFVUx1amd4bUgzMklLdTM2Mmc?oc=5"
-    },
-    {
-      "title": "매디슨 황, 올해 네 번째 방한…로봇·AI 협력 논의 관심",
-      "published": "2026-10-28 13:40",
-      "source_link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUWFHaFBkaldWU0ktR0tUVHBoWjJFSlRnQ0xZa0p0M1Zpbk84VDFJMWl5NDd1cXEwUHRhR1d6anRaeEZZdHY0Z0Vacmg2Z3FpVjg1cHRwT181Tjh2a1k4WktxLVZqbE9XMmVjWUZWSzRIOFBLa3Q4elRDalR4UmRfUw?oc=5"
-    },
-    {
-      "title": "[심층분석] 매디슨 황 수석이사, 네 번째 방한이 주목받는 이유",
-      "published": "2026-10-28 12:23",
-      "source_link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBzd0hLbmR0MnpvZTJFV0NwVTJMbEQxT2xtR3ZITVZMLXRwLXRPRlVOWnlLbGFNcHI1YnlaSGVIZWVOdkxaV2hud09UcDY5emYyX2hsdXRjVy1EaGxKZmRJSGxjRFpsRTFPeXZtQ3QxQ0pEUlVVejdNdktnNkQ?oc=5"
+      "title": "[장마감] 코스피 1.24%↓(5937.66), 코스닥 2.34%↓(753.23)",
+      "published": "2026-10-29 15:58",
+      "source_link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1TdE13Vm01U2I0X2ItUTliU3NzcURQNHFaMmZhTWJETGNLQnNZQ1VmYXdzRHNCTVoyVE5HcmpDclFyaUhGS2stZEVCQXhQd3FpQkVlOTZTWTBSdXRfUnFFd05R?oc=5"
     }
   ]
 }
